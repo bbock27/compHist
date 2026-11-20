@@ -1,0 +1,9238 @@
+
+STRUCTURE OF DATA FILE
+
+There are 3,512 cases with 11 decks each. The decks are in the
+following order 1-9, Y,Z and corresponds to the code book exactly. It
+must be noted that the decks, 1f re-sorted, will not appear in this
+order and care must, therefore, be exercised when attempting to manipu-
+late the data.
+
+PROCESSING INFORMATION
+
+
+The data (and therefore, the code book) are in deck and column
+format.
+Survey Research Cunter January 1955
+Project 59
+
+1950 Survey of Consumer Finances
+CARD I
+
+Face Sheet I, Personal Data Sheet, Face Sheet II
+
+‘
+
+Shady 59 ) 8
+
+Question Column
+Number Number
+
+1-2 Study dumber (59%)
+
+er e———li————
+3 Card Number (1)
+FS I L=7 Interview Number
+
+Th sc numbers are in blocks:
+0001-2999 Single S.U. fumilies,
+3001-3999 Multiple S.U. families
+(8201-8999 Non-Sample addresses — to be coded on the Non-
+Sample addresses Card Y)
+(9001-9999 Non-Response schedules =~ to be coded on the Non-
+
+Response Card Z) ,
+8 Result of Interview Code "1" indicating interview. 77
+FS I 9-12 Sample Bosk Nurber
+These nuzbers indicate sample points as follows:
+0101-0199 * Baltirpore 2001-2099 Adair, Mo.
+0201-0299 Boston 2101-2199 Augusta, Va,
+0301-0L99 Chicago 2201-2299 Beadle, S. Dak.
+0501-0599 Cleveland 2301-237 Berks, Penn.
+G601-0799 Detroit 2L01-2L¢9 Berishire, ifass.
+GB801-0999 Los Angeles 2501-2599 Black Hawk, Iowa
+1001-1099 U.Y. Bronx 2601-2659 Boones, Ill.
+® Newark 2701-2799 Boyd, Ky.
+1101-1199 N.Y. Brooklyn 2801-28¢9 Buchanan, Va,
+1201-1299 N.Y. Manhattan 2501-2959 Bucks, Penn.
+"Montclair 3001-3099 Carter, Tenn.
+* Mt. Vernon 3101+3199 Clasl, Ark.
+®  Neptwne 3201-3299 Covington, Ky.
+1301-1399 N.Y. Queens 3301-3359 Crauford, Iowa
+* Bayonne 3401-31,69 Denver, Colo.
+® Long Beach 3501-3599 Erie, N.Y.
+® Mineola 3601-3699 Fairfield, Comn.
+111-1499 N.Y. Nutley 3701-3799 Foriyth, N.C.
+* Paterson 3801-3699 Gencssee, Mich.
+®  Totava 3901-3%%9 Geneva, Ala.
+Ww Yonkers L001-40%9 Gruvs Harbor, Wash.
+*  R. Monmouth 1101-4199 Groyson, Tex.
+MR, Nascau 201-4299 Eamilton, Chio
+1501-1599 Philadelphia . L301-439% lizzilton, Tenn.
+1601-1699 Pittsburch LLo1-LL99 Harris, Tex.
+1701-1792 San Francisco 4501-458 7 Hennepin, linn.
+1801-158%9 St. Louis plone Ryde, N.C
+
+1501-1992 Vachin toa, D. C. L701-47 Idaho, Ideals
+Project 59
+
+Question Colum
+
+Number Number
+FS I. 9-12
+{cont.) (cont.)
+FS I 13
+
+FS I 1h
+
+-2 = Card I
+( Cowen Fro)
+Sample Book Number {éont.)
+L801-LG99 Jeff Davis, Ga. 6101-6199 Onondaga, N.Y.
+4901-4999 Jefferson, Ark. 6201-6299 Page, Iowa
+5001-5099 Lackawanna, Penn. 6301-5399 Pitt, N.C.
+5101-5199 Lancaster, S.C. 61;01-6L99 Posey, Ind.
+5201-5299 Lubbock, Tex. 6501-6599 Seneca, Ohio
+$301-5399 Mahoning, Ohio 6601-6699 St. Clair, Mich.
+5401-5499 Marien, Ill. 6701-6799 St. Lucie, Fla.
+5501-5599 Marion, Ind. 6801-6899 Susquehanna, Penn,
+5601-5699 Mitchell, Kan. 6901-6999 Traverse, Minn,
+5701-5799 Multnomah, Ors. 7001-7099 Union, Ohio
+5801-5899 Newton, iiss. 7101-7199 Weld, Colo.
+5901-5999 Noble, Okla. 7201-729% Westmoreland, Penn.
+6001-6099 Oklahoma, Okla. 7301-7399 Vindsor, Vt.
+9999. N.A.
+
+Sampling ratio
+
+1. hoa Farm Croup 1 (basic sampling rate) (and including a few
+Farm Schedules) in Idaho, Idaho; Boyd, Ky.; Buchanan, Va.;
+Carter, Tenn.; Lancaster, S.C.
+
+2. Non Farm Group 2 (two times basic sampling rate)
+
+6. Non Farm Group ¢ ( “x times basic sampling rete)
+
+7. Farm Schednle, Segmunt F
+
+8, Farm Schedule, otner open country segments
+
+9. N. A.
+
+Place Code
+
+1. Urban metropolitan area -- central city
+
+2. Suburban metropolitan area
+
+3. Rural xetropolitan county
+
+Lk. City of 50,000 or cver but not a metropolitan area
+5. City of 2,500 to 50,000 -= west south
+
+6. City of 2,500 to 50,000 Ga¥suth
+
+7. Town under 2,500 «= =24 south
+
+8. Town under 2,500.%F south
+
+9. Open country -=- xo south
+
+0. Open country &F south
+Project 59
+
+Question Column
+
+Number
+
+Number
+
+FS
+
+I
+
+15-16
+
+17-19
+
+-3- Card I
+
+Spending Unit Composition of D.U.
+
+(Wife always a member of husband's spending unit;
+Husband always the head of spending unit; Student
+away at college will go on face sheet, not as
+
+dependent)
+
+01. Primary spending unit, no secondaries in dwelling
+unit
+
+12. Primary spending unit, with 1 unrelated spending unit
+
+13. Primary spending unit, with 2 unrelated spending units
+
+14. Primary spending unit, with 3 or more unrelated
+spending units
+
+21. Secondary spending unit, unrelated to head, a roomer
+
+22. Secondary spending unit, unrelated to head, a servant
+
+23. Secondary spending unit, unrelated to head, other
+
+31. Primary spending unit, with 1 related secondary
+
+32. Primary spending unit, with 2 related secondaries
+
+33. Primary spending unit, with 3 or more related secondaries
+
+34. Primary spending unit, with 1 related and 1 unrelated
+secondaries
+
+35. Primary spending unit, with related and unrelated
+secondaries (more than 1)
+
+41. Secondary spending unit, related to head, a child
+over 18 (or children) of the head (son, son-in-law,
+daughter, daughter-in-law)
+
+42. Secondary spending unit, related to head, father or
+mother (in-law) of head
+
+43. Secondary spending unit, otherwise related to head
+
+XX. Use for non-response; N.A. S.U. composition
+
+Name of interviewer
+
+Project 59 -4 - Card I
+Question Column
+Number Number
+FS I 20 Date of Interview
+1. January 1-15, 1550
+2. January 16-31
+3. February 1-1L
+Lk. February 15-28
+5. March 1 or later
+X. Not ascertained
+FS I 21 Is R the head of the spending unit?
+1. Yes, R is the head of spending unit (may not be head of
+family or of the dwelling unit)
+2. No, R is the wife or some other memher of the spending unit.
+3. Both head and wife (or other relative in spending unit)
+present and acting as respondents.
+Lb. R is somebody outside spending unit. lubes § R shysieally unable Le
+Yee ond
+X. Not ascertained whether R is the head or ae
+FS I 22 How many adults are thers in the spending unit? (includin~ wife)
+1. One
+2, Tvio
+3. Three
+4. Four or more
+X. Not ascertained
+FS I 23-2h If there is an adult in the spending unit other than the head and
+his wife, why isn't he (she) a separate spending unit? (numbers
+are in order of priority) (2 responses)
+1. He (she) has no income, or an incomz of less than $10 a week.
+2. He (she) does not keep finances separate,
+3. He (she) keeps finances separate, but contributes half of in-
+- come or more for family expenses.
+O. There is no adult in the spending unit other than the head
+and his Wife, ne seccnd adult in spendinquait
+KX. Not ascertained.
+FS I 2g Change in spendinz unit comvosition .
+8-9 (Was there anyoouy in the Temily living with you a year «zo “who
+is not living here now? Vere . . » living with you a yecor age?)
+1. Inereasc or decrease of one or more cults in spendi: ; unit.
+2. No change in adults in spending unit.
+X. Not ascertained whether number of adults in this spending
+
+unit has changed.
+Project 59
+Question Colum
+Number Number
+168 & 169 26
+FSe I 27
+170 28
+17 2%
+
+_ 5. Card I
+
+How many children under 18 sre there in tha snendins wait?
+
+l. One
+
+2. Two
+
+3. Three
+
+bi. Four
+
+5. Five
+
+6. Six
+
+7+ Seven or more
+
+0. None
+
+X. Not ascertained
+
+How many people are there in R's spending unit (including adults
+and children) (Number of adults in spending unit plus number cf
+children in spending unit.)
+
+1, One {Code here the arithustic sun
+2. Two of Col. 22 and Col. 26)
+« Three
+he Four
+S. Five
+6. Six
+7. Seven
+
+8. Eight or more
+Xs Not ascertained
+
+Were any of your children born durins 1649 or 1950?
+
+1. Yes
+
+5. No.
+
+9. Don't know
+Xe. Not ascertained
+
+0. Not applicable; Has no children under 18 years old. Coded 0
+in Col. 2
+
+Besides yours.,(S.U.) do you have any other relative who docs
+not live here and who is dependent on you for more than hair of
+his living?
+
+l. Yes - one
++» Yes ~ two
+3. Yes « three or more
+
+0. lone
+
+X. Not ascertalired
+Project 59
+
+Question Column
+Mumber Number
+172 30
+173 31
+17h & 17ha 32
+
+178 33
+
+How
+
+-6 - Card I
+
+long have you been married?
+
+Less than 1 year
+1 year
+
+2 years
+
+3 years
+
+L years
+
+5~9 years
+
+10-20 years
+Over 20 years
+
+Don't know
+Not ascertained
+Not applicable - not married;diverced:; widowed: separated
+
+of head of spending unit
+
+18-2h
+25-34
+35-lh
+45-54
+So-6l
+
+65 or over
+Not ascertained
+
+ruck education have you (has he) had?
+
+Attended grammar school (1-8)
+
+2, Attended high school (9-12), or more than a high school
+education (over 12 years) {other than college)
+
+3. College
+
+0. None
+
+X. Not ascertained
+
+Are you (R & SU) a veteran of World War II?
+
+1. One veteran in spending unite-the head
+
+2. One veteran in spending unit--somecons else (not the head)
+
+3. Two or more veterans in spending wait~-one of thea is head
+
+L. Two or more veterans in spending wunit--the head is not a
+veteran
+
+0. No one is veter:s.
+
+X. DMNot ascertained
+Project 59 -7 -
+
+Questicn Column
+Number Number
+
+© 176-177 3k Sex of head of spending unit
+
+l. Man
+2, Woman
+
+X. Not ascertained
+177 35 Sex of Respondent
+
+1. Man
+2. Vioman
+
+X. Not ascertained
+178 36 Race
+
+1. Vhite
+
+2, Negro
+
+3. Other
+
+X. Not ascertained,inslude Mexican
+
+179 37 Call Number
+l. One
+2, Two
+3. Three
+Lk. Four
+5. Five
+6. Six
+
+7. Yore than six
+
+X. Not ascertained
+Project 59
+Question Column
+Number Number
+10 & 12 38-39
+
+-8 - Card I
+
+Occupation of head of spending unit
+
+11.
+
+Professional and semi-professional
+
+Self-employed business man
+
+Managers and officials-=-not self-employed and not
+farm
+
+Farm managers (not Farm Schedule)
+
+Self-employed artisans and craftsmen
+
+Business man, manager, self-employed artisan - N.A.
+which
+
+Clerical, sales clerks and attendents
+Buyers, agents and brokers
+
+Skilled workers--craftsmen, foremen
+Semi-skilled workers-—operatives, machine operators
+
+Skilled or semi-skilled workers - N.A. which
+
+Unskilled workers--~laborers, not farm
+
+Unskilled workers-—farm laborers
+
+Service workers——domestics (private family)
+Service workers~-other than domestic (not private
+family)
+
+Unskilled or service workers, N.A. which or what kind
+
+Protective service workers
+Wild
+
+Umemployed--professional and semi-professional
+Unemployed--proprietors, managers and officials
+{including farm managers)
+
+Unemployed-~clerical, sales
+
+Unemployed-—skilled and semi-skilled
+Unemployed-~unskilled and service workers
+Unemployed-—~protective service
+Unemployed-—-farm operator
+
+Unemployed-~regular occupation not given
+Retired farmer (still living on farm)
+Farm—-operator
+
+Retired but works "a little"
+
+Retired
+
+Student
+
+Student with part-time employment
+Housewife
+
+Housewife but works "a little"
+
+Occupation not ascertained (low priority)
+Wild
+Project 59 -9 -
+
+Card I
+
+For convenience, we include a list of varicus occupations br major categories.
+Since this listing is not intended to be all-inclusive, you will still have to
+
+look up scne cases in the Census Book.
+
+Professional and semi-professicnal (11)
+Actors, dancers, s.owmen, atheletes,ete.
+Architects, artists & art teachers
+Authors, editors, & reporters
+Chemists, assayers & metallurgists
+Clergymen
+College presidents, profs., & instrs.
+Dentists 4 de tihmIants - &. RO.
+Engineers & surveyers
+Lawyers & judges
+Musicians & music teachers
+Osteopaths
+Physicians & surgeons
+Social, welfare, & religious workers
+Teachers (inc. county agents & farm
+
+demonstrators)
+Trained nurses & student nurses
+Veterinarians
+Librarians
+Designers & draftsmen
+C.AA.
+
+Managers and officials except farm (22)
+Conductors, railroad
+Postmasters gov't & officials
+
+Clerical and sales workers (31)
+
+Baggage men, railroad mailclerks
+
+Bookkeepers, accoiurtants (execpt C.PA'S)
+
+Cashiers & ticket 2rents
+
+¥ail carriers
+
+Messengers
+
+Office machine operators
+
+Telegraph & telephone workers
+
+Other clerical workers
+Shipping & receiving clerks
+Stenos., typists, & sec'ys.
+Clerical & kindred workers
+Agents
+Attendents & ass'ts, library
+Attendents, physicians # dents. offices
+Collectors, bill # account
+
+ducksters & peddlers
+
+Newsboys
+
+Insurance agents & brokers (32)
+
+Real estate agents, proprietors.(32).,
+
+Building, managers & superintendents
+
+"Clerks" in stores
+
+Misc. salesmen & saleswomen
+
+Buyers & dept. heads, store (32)
+
+Canvassers & soliciters
+
+Traveling salesmen & sales agents
+
+Attendunts, filling station, parting
+lot, garage, & airport
+
+Salesmen & salesworen, olher
+
+Craftomen
+
+and forome
+
+(La)
+
+Ealiors
+
+Carpenters
+
+Campositors & typesetters
+
+Electricians & power sta. operators
+
+Foremen
+
+Inspectors
+
+Machinists, millwirights, tool
+makers & mechanics
+
+Masons, tile setters, & stone cutters
+
+Painters, paperhangers & glaziers
+
+Plumbers, & gas & steam fitters
+
+Stationary engs. cranenen & hoistmen
+
+Tailors & furriers
+
+Roofers & sheet mstal workers
+
+Operafives (12)
+
+Apprentices
+
+Brakemen, switchmzn, & crossing
+watchmen
+
+Chaiffeurs, ruck drivers, delivesymsn
+
+Dressmakers & secnstresses (not in
+factory)
+
+Layndry vkrs. & lszundresses, not
+pvt. family
+
+Vine operatives & laborers
+
+Others
+
+Domestic gervice woriters (53)
+
+Housekeepers, servants, pvt. family
+Laundresses, pvt. fanily
+
+Protective szrvice workers (61)
+
+Firemen, 1ire ceparunent
+
+Guards & watchmen
+
+Policemen, sherififs, & marshals
+Soldiers, sailors, marires,cocstzuard
+
+Service workers, other (5h)
+
+Barbers, beauticiang, manicurists
+Poardinghouse, lodginghouse keepers
+Charwemen, janiters, porters
+
+Cooks, except pvt. family
+
+Pvt, nurses & midwives
+
+Servants, except pvt. family
+Waiters & bartenders
+
+Attendents, ushers
+
+Laborers except farm {51)
+
+Fishermen & oystermen
+Longshoremen & stcvedores
+Lumbermen, raftsmen, woocdchoppzrs
+Gardners & proundskeepers
+Teamsters
+Project 59
+
+Question Column
+
+_ Number Number
+11 Lo
+13 Lh
+iL b2
+
+-10 - Card I
+
+Do you work for yourself or for someone else?
+
+{F.5. 11 Question 3a)
+
+1. Self-employed
+2. Working for someone else
+3. Both self-employed and working for someone else
+
+8, Farm Schedule (coded 88 in Cols, 38-39)
+
+0. Not working (Coded 99, 00, YY, in Cols. 38-39)
+X. Not ascertained
+
+How much of last year did you (he) work-~12 months, or 10 months,
+or what? (Code to the nesrest even number)
+
+1. 1}-12 months--~ or worked the whole year
+
+2. 9-10 months
+
+3. 7-8 months
+
+Lh. B5<6 months
+
+5. 3-i months
+
+6. 1-2 meaths —-
+7. None--unemployed all year
+
+8, Farm Schedule
+9. Don't know
+0. Not applicable; self-employed, coded 1 in Col. LO; student hsucenmifs
+
+reqardless of part-time wor
+X. Not ascertained
+
+Do you (R & SU) own a business, or part of one, or did you own
+one anytime in 19497
+
+1. Yes, owns now
+3. Yes, did own during 1949
+
+5. Does not own now and did not own at anytime in 1949 (include
+those who own stock only in large corporations)
+
+9. Don't know
+
+X. Not ascertained
+Project 59 -11 - Card I
+Question Column
+Number Number
+15 L3-L)i What kind if a business is it?
+{if two businesses mentioned, code more important.)
+1l. grocery ators, other food store (retail)
+12. =zestaurant, bar, other eating or drinking establishment
+13. elothing store
+1. other retail stores
+21. filling station
+22. beauty or barber shop
+23. Shoe repair, shoe shines, etc.
+2h. laundry, clsaners
+25. auto dealer, repairshop, garage
+31. real estate, insurance, finance
+32. contractor
+33. motor truck or taxi business
+hi. food manufacturing plant
+i2. printer or publishing plant
+49. other manufacturing plant
+51. wholesaler (1m pory.ng 9nd &% per¥ing)
+6l. contractor (general)
+62. self-employed artisan (painter, carpenter, plumber,
+upholsterer, etc.)
+77. other type of business (lew privity)
+XX. Not ascertained what type of business
+YY. N.A. whether owns a business
+00. Not a business ov. ar
+Project 59 -12 - Card I
+
+Question Column
+
+Number Number
+16 LS Is it a corporation or an unincorporated business, or do you
+have an interest in both kinds?
+1. Incorporated business
+2. Unincorporated business
+3. Both
+9. Don't know
+0. Not applicable, Does not and did not own or have part
+interest in a business, coded 5 or 9 in Col. L2
+X. Owns, not ascertained whether incorporated or unincorporated
+business
+" ¥. Not ascertained whether owns business (coded X in Col. 42)
+
+46 Place Code
+1. Metropolitan area
+2. Cities of 50,000 to £00,000
+3. Cities and towns 2,500 to 50,000
+Lhe. Towns under 2,500
+Se. Open country
+6. Metropolitan rural
+
+h7 1949 Income in Class Intervals
+
+18 Special Occupation Vode (created from Cols. 38-39 of Card I)
+
+1. Professional amd semi-professional
+
+2. Self-employed businessmen and self-employed artisans
+3. Managers and officials
+
+Le White collar
+
+5. Skilled or semi-skilled workers
+
+6. Unskilled workers
+
+7. Farm laborers
+
+8. Farm operators
+
+9. Unemployed
+
+O. Students, housewives, protective service
+X, Occupation not ascertained
+
+Y. Retired
+Project 59
+
+Column
+
+Number
+
+L9-51
+52
+53
+
+5k
+
+61
+62
+
+63-64
+
+- 13 =
+
+Income fram Unincorporated Business
+
+Profit Left in Business
+
+Business Less
+
+Sign of Business Saving
+
+Business Saving {in Dollars)
+
+Business Accounts Separate from Persmal
+
+Money Withdrawn fre Business Investment
+
+New Money Invested in Business
+
+Value of Business Interest
+
+Special Code on Family Composition
+
+10, Married 1 year or less, no children
+
+11. Married 1 year or less, one child
+
+12, Married 1 year or less, 2 or more children
+
+1X, Married 1 year or less, number of children N. 4,
+
+20. Married 2 years, no children
+
+21. Married 2 years, one child
+
+22, Married 2 years, 2 or more children
+
+2X. Married 2 years, number of children N. A.
+30. Married 3 years, no children
+
+31. Married 3 years, one child
+
+32. Married 3 years, 2 or more children
+
+3X. Married 3 years, number of children N, 4,
+0. Married L years, no children
+
+hl. Married 4 years, one child
+
+L2. Married L years, 2 children
+
+43. Married L years, 3 or more children
+
+LX, Married UL years, number of children N. A,
+50. Married 5-9 years, no children
+
+$1, Married 5-9 years, one child
+
+52. Married 5-9 years, 2 children
+
+53. Married 5-9 years, 3 children
+
+Sh. Married 5-9 years, L or more children
+5X. Married 5-9 years, number of cidldren N. A.
+
+Card I
+Project 59 - 14 - Card I
+
+Column
+Number
+
+63-64 Special Code on Family Composition
+(cont.)
+
+60. Married 10-20 years, no children
+
+61. Married 10-20 years, one child
+
+62. Married 10-20 years, 2 children
+
+63. Married 10-20 years, 3 children
+
+64. Married 10-20 years, 4 or more children
+
+6X. Married 10-20 years, number of children N.A.
+
+70. Married over 20 years, no children
+
+71. Married over 20 years, one child
+
+72, Married over 20 years, two children
+
+73. Married over 20 years, 3 or more children
+
+7X. Married over 20 years, number of children N.A.
+
+00. Not married (divorced, separated, widowed)
+0l. Not married, has children
+
+X0. Marital status N.A., no children; N.A. marital status or number
+
+of children N.A.
+XX. Marital status N.A.; has children
+
+65-72 Blank Columns
+
+73 Family status
+
+1. Young (44 or less), not married, no children under 18
+2. Young, married, no children
+
+3. 01d (45 or more), married, no children
+
+4, 01d, unmarried, no children
+
+5. Married, children, all ages
+
+6. Unmarried, children, any age
+
+7. Unmarried, no children, age N.A.
+
+8. Married, no children, age N.A.
+
+9. Married, children, 35-44
+
+0. Married, children, 45 and over
+
+X. Married, children, age N.A.,, or N.A. family status
+Project 59 - 15 - Card I
+
+Column
+Number
+
+74-75
+
+[ee
+
+Sampling split
+
+For those punched 20 through 73, the code for Cols. 9-10
+(first two digits of Sample Book Number) is applicable. For
+other cards, the following code applies:
+
+01. Baltimore-city
+
+02. Boston-city
+
+03. Chicago-city
+
+04. Cleveland-city
+
+05. Detroit-city
+
+06. Los—-Angeles-city
+
+07. New York-city
+
+08. Philadelphia-city
+
+09. Pittsburgh-city
+
+10. San Francisco-city
+
+11. St. Louis-city
+
+12. Washington-city
+
+13. New York-suburbs
+
+14. Eastern Metropolitan (Baltimore, Boston, Philadelphia,
+Washington)=-suburbs
+
+15. Midwest Metropolitan (Chicago, Cleveland, Detroit, Pittsburgh,
+St. Louis)-suburbs
+
+16. Pacific Metropolitan (Los Angeles and San Francisco)-suburbs
+
+99. N.A.
+
+Blank Columns
+
+79-80
+
+Weights
+“ . . - rs
+Survey Ressaren Cented January, 12°50
+
+Question Column
+
+Number Number
+1-2
+L-7
+
+17 & 17a
+
+18 & 18a 9
+
+Project 59
+
+CARD IT -
+Questionnaire (Q. 17-23)
+
+Study Number (59)
+
+Card Humber (2)
+
+Interview Nurber
+
+Would you say you people are better off or worse off financiszlly .
+now than rou were a year ago? {3-noint scale)
+
+1, Better off
+
+3. No chz 2 (about the samz); no better off, nc worse 02s; jaa ts
+con, (Gitter off in some ways, worse in others)
+
+5. Viorse off
+
+9« Undecided, don't know
+
+w Not ascertained
+
+(2)
+Aveyron making as ruch monay now as you wers a year ago, or usre
+or less? (Bate of earnir nm, not zanual) (3-poind roale)
+
+1. Yaking more now
+
+3. Yaking about the same
+£. Making less now
+
+8. Farm Schedule
+
+9. Don't know
+
+X. Not ascertained
+Project 59
+
+Question Column
+Number Number
+
+17a & 18a 10-11,
+12-13
+
+-2- Card II
+
+Causes of changed financial position
+
+Factors making spending unit better off or causing
+increased income:
+
+11.
+
+12.
+
+13.
+
+Higher income becuase of raise in wages or salary
+or (commission) on present job, or because of
+promotion (undefined)
+
+Higher income because of change to better paying
+job (include higher income because of Armed
+Forces discharge) changed occupation, started
+business
+
+Higher income because of steadier work, more
+overtime, (include higher income because of
+second-additional-job)
+
+Higher income because more members of snending
+unit working or head started working
+
+Higher income becuase of higher business profits
+or higher farm income, including higher dividends
+and royalties, rents, higher professional income
+Higher income because of increased contributions from
+people outside of spending unit
+
+Higher income general (no explanation or other
+explanations)
+
+Lower prices (of things we buy); decrease in cost
+of living
+
+Lower expenses not due to lower prices
+
+Greater accumulated savings, house bought, bills
+Taxes reduced
+
+Greater security (job more permanent)
+
+Greater opportunities (future outlook improved)
+
+R liquidated other assets for cash (new)
+
+Other factors (new) (standard of living higher)
+Project 59 -3- Card II
+
+Question Column
+
+Number Number
+17a & 18a 10-11 Factors making spending worse off or causing
+12-13 decreased income:
+
+(cont.) (cont.)
+
+41. Lower income because of a decrease in wages
+or salary on present job
+
+42. Lower income because of change to lower paying
+job (include lower income because of Armed
+Forces discharge); changed job, started a business
+
+43. Lower income because of unsteady work, less
+overtime, few hours, unemployment, strike
+
+44. Lower income because fewer members of spending
+unit working
+
+45. Lower income because of lower business profits
+or lower farm income, including lower dividends
+and royalties; rents, income from professional
+practice
+
+46. Lower income due to decreased contributions from
+people outside of spending unit
+
+47. Lower income because (previous) head retired,
+sick, deceased
+
+4X. Lower income general (no explanation or other
+explanations)
+
+51. Higher prices (of things we buy), high cost of living
+52. Increased expenses not due to higher prices
+53. Savings used up, (wholly or partly), increased
+debt
+54, Taxes burdensome
+55. Less security (job temporary, may fold up)
+56. No opportunities (future outlook bad) can't get a job
+57. Government action (interference in my business, etc.)
+
+66. Other factors
+
+00. No such factors mentioned (Code 00 in Cols. 12-13
+if no second reason mentioned), or no change
+
+XX. Not ascertained
+Project 59
+
+Question Column
+
+Number Number
+
+19 & 19a 14
+19a 15-16,
+17-18
+
+- 4 = Card II
+
+How about a year from now--do you think that you will
+be making more money or less money than you are now, or
+what do you expect? (3-point scale)
+
+1.
+
+3.
+
+5.
+
+8.
+
+9.
+
+X.
+
+Will (probably) make more, hope and some basis
+Will make about the same
+
+Will (probably) make less
+
+Farm Schedule
+
+Don't know; uncertain, "It depends,"
+
+more or less
+
+might make
+
+Not ascertained
+
+Reasons for expected change in financial position
+(2 responses)
+
+Factors which will (probably) increase income of spending
+unit
+
+11.
+12.
+
+13.
+
+14.
+15.
+
+16.
+17.
+18.
+19.
+
+22.
+
+Expect to change to a higher paying job or business
+Expect raise in wages of salary on present job, or
+expect promotion (undefined), more overtime
+
+Expect business to be more profitable, more income
+from profession, rents
+
+Expect more members of spending unit to work
+
+Expect to have steadier job (full time work, fewer
+strikes) (start school)
+
+Expect to get a job
+
+Expect to have additional job, overtime
+
+Expect increased contributions from people outside
+the spending unit; increased social security benefits
+Expect less illness
+
+Other
+Project 59 -5- Card II
+
+Question Column
+Number Number
+
+19a 15-16, Factors which will (probably) decrease income of
+17-18 spending unit
+(cont.) (cont.)
+
+31. Expect to change to lower paying job or business
+
+32. Expect decrease in wages or salary on present job,
+expect less overtime
+
+33. Expect business to be less profitable, rents less
+profitable
+
+34. Expect fewer members of spending unit to work
+
+35. Expect to be working less steadily, start school
+
+36. Expect Head to be unemployed
+
+37. Expect Head to be retired
+
+38. Expect decreased contributions from people outside
+the spending unit, decreased pension
+
+39. Illness
+
+44. Other
+
+Income a year from now depends on:
+
+51. Change of job
+
+52. Change in wages or salary on present job, overtime
+
+53. Business or farm profits-~privately owned, or
+where employed, such as a salesman evaluating business
+prospects
+
+54. Number of members of spending unit who will work
+
+55. Steadiness of employment
+
+56. Whether I can get a job
+
+57. Retirement
+
+58. General business conditions (depression, unemployment,
+good times, etc.
+
+59. Government policies, legislation (including social
+security legislation)
+
+66. Other
+61. Contributions from outside the spending unit,
+excluding social security
+
+88. Farm Schedule
+
+00. No factors mentioned, or no change expected--coded
+3 in Col. 14 above, farm operator (in Col. 17-18)
+
+XX. Not ascertained
+Project 59
+
+Question Column
+
+Number Number
+20 19
+20a 20-21,
+
+22-23
+
+-6 - Card II
+
+Now considering the country as a whole, would you
+say that we are having good or bad times now or
+what? (5-point scale)
+
+X.
+
+Very good
+Fairly good
+Middle position
+Fairly bad
+Very bad
+
+Undecided, depends, don't know
+
+Not ascertained
+
+Factors making for good or bad times now (Code respondent's
+frame of reference) (2 responses)
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+Supply situation
+
+Demand situation--not due to, or can't tell whether
+due to change in consumer purchasing power (include
+world trade, ERP)
+
+Purchasing power (refers to whether people can or
+cannot buy ability)
+
+Production costs, including labor costs (wages
+
+and salaries)
+
+Wages, general--can't tell whether in terms of costs
+or purchasing power
+
+Employment
+
+Business profits, farm profits
+
+Crops, weather, livestock
+
+Business conditions—~general, no specific explanation
+
+High prices
+Low prices
+Prices, general
+
+Politics or government (include rearmament)
+Labor-management relations
+
+War
+
+Working conditions (pensions, hours of work, vacations,
+factory conditions, etc.)
+
+Personal income
+
+Personal employment situation
+
+Other personal factors
+Other
+
+No resson given, R can't give reasons; no second
+reason
+
+Not ascertained
+Project 59
+Question Column
+Number Number
+21 24
+21a 25-26,
+27-28
+
+-7- Card 11
+
+Would you say that times now are better or worse for
+most people than they were a year ago? (S5-point scale)
+
+1. Much better
+
+2. Somewhat better
+3. Middle position
+4. Somewhat worse
+5. Much worse
+
+9. Don't know
+X. Not ascertained
+Factors making times now better or worse that they were
+
+a year ago (Code respondent's frame of reference)
+(2 responses)
+
+11. Supply situation, what he is thinking about, not
+casual relations
+
+12. Demand situation-—not due to, or can't tell whether
+due to consumer purchasing power. (include world
+trade, ERP)
+
+13. Purchasing power
+
+14. Production costs, including labor costs (wages and
+salaries)
+
+15. Wages, general--can't tell whether in terms of
+costs or purchasing power
+
+16. Employment
+
+17. Business profits, farm profits
+
+18. Crops, weather, livestock
+
+1X. Business conditlons-~general, no specific explanation
+
+21. High prices
+
+22. Low prices
+
+2X. Prices, general
+
+31. Politics or government (include rearmament); taxes
+32. Labor-management relations
+
+33. War
+
+34. Working conditions, general (see Cols. 20-21, 22-23)
+41. Personal income
+
+42. Personal employment situation
+
+43. Other personal factors
+
+77. Other
+
+00. No reason given, R can't give reasons; no second reason
+
+XX. Not ascertained
+Project 59
+Quesiton Column
+Number Number
+22 29
+22a 30-31,
+32-33
+
+- 8 - Card II
+
+Do you think we will have good times or bad times or
+what during the next twelve months or so? (5-point
+scale)
+
+1. Very good
+
+2. Fairly good
+
+3, Middle position
+4. Fairly bad
+
+5. Very bad
+
+9. Don't know
+X. Not ascertained
+Can you tell me a little bit more about what you see
+
+for 1950? (Code respondent's frame of reference)
+(2 responses)
+
+11. Supply situation
+
+12. Demand situation—-not due to, or can't tell whether
+due to change in consumer purchasing power (include
+world trade, ERP)
+
+13. Purchasing power
+
+14. Production costs, including labor costs (wages
+and salaries)
+
+15. Wages, general-—can't tell whether in terms of costs
+or purchasing power
+
+16. Employment
+
+17. Business profits, farm profits
+
+18. Crops, weather, livestock
+
+1X. Business conditions--general, no specific explanation
+
+21. High prices, or higher prices
+22. Low prices
+2X. Prices, general
+
+31. Politics or government (include rearmament)
+
+32. Labor-management relations
+
+33. War
+
+34. Working conditions (pensions, hours, vacations)
+41. Personal income
+
+42, Personal employment situation
+
+43. Other personal factors
+
+77. Other
+
+00. No factors mentioned, R can't give reasons; no second
+factors
+
+XX. Not ascertained
+Project 59 -9 - Card II
+
+Question Column
+Number Number
+
+23 & 23a 34 What do you think will happen to the prices of
+things you buy during 1950--do you think they will
+go up, or down, or stay about where they are now?
+(modified 3-point scale)
+
+1. Prices will (probably) go up
+3. Prices will stay about the same; some up, some down
+5. Prices will (probably) go down
+
+Prices will either stay the same or go up
+Prices will either stay the same or go down
+
+~N On
+LOY
+
+9, Undecided, it depends, don't know
+X. Not ascertained
+
+23a 35-36, Factors causing prices to rise or preventing a fall
+23b 37-38 in 1949: (Not contingent) (2 responses)
+
+11. Goods are still scarce (pent-up demand, demand
+exceeding supply, lack of competition)
+
+12. Wages will rise, or are high (labor strikes, forcing
+a rise in the wage level) (production costs will
+rise) least of materials
+
+13. People have plenty of money to pay high prices
+
+14. Government, congressional action (e.g., subsidies)
+
+15. Large exports, foreign trade, Marshall Plan,
+rearmament
+
+16. Crops, livestock, failure, weather
+
+17. Price rigidities--business resistance to lowering
+price
+
+1X. Prices are rising, general, no specific explanation
+
+Price level depends on: (Low Priority)
+
+31. Volume of production (whether scarcities are overcome,
+or whether we have over-production)
+
+32. Production costs (wage level)
+
+33. Purchasing power (consumer incomes)
+
+34. Amount of consumer resistance
+
+35. Government action
+
+36. Labor-management relations
+
+37. Weather; crops and livestock
+
+38. Business action
+
+39. Foreign affairs: war; conditions outside U.S.A.
+Project 59 -10 - Card II
+
+Question Column
+Number Number
+
+(23, 23a (35-36) Factors causing prices to fall or preventing a rise:
+& 23b) (37-38)
+
+39. Poreign affairs; conditions outside U.S.
+
+51. Production will be ample, scarcities overcome,
+competition restored, supply will exceed demand
+
+52. Production costs will fall (manufacturers will
+pay lower wages)
+
+53. Consumers won't pay high prices; people are careful
+with money
+
+S4. Purchasing power too low or will fall (consumers
+will have lower incomes)--people can't buy
+
+55. Prices fall eventually after every inflationary
+period. After every war (what goes up must come
+down) (Can't go higher)--period of readjustment
+
+56. Government will prevent inflation or cause
+delfation (unfavorable opinion of government)
+
+57. Small exports; foreign trade, ERP
+
+58. Crop and livestock failure; weather
+
+5%. Prices are falling--general, no specific explanation
+
+99. Don't know
+00. No factors mentioned, no second factor mentioned
+XX. Not ascertained
+
+23b 39 Do you think that prices in general will be a lot lower
+
+(higher) or only a little lower (higher) by the end of
+19507 (5-point scale)
+
+1. A lot higher (11% or more)
+2. A little higher (1 to 10%)
+3. Same (or some prices higher, some prices lower)
+coded 3 in Col. 34
+4, A little lower (1 to 10%)
+5. A lot lower (11% or more)
+9. Undecided; don't know; it depends (Coded 9 in Col. 34)
+X. Not ascertained
+
+40 Occupation from 1:48
+
+41 Income from Y:60
+| 42-78 Blank Columns
+
+79-80 Weights
+
+Loree TL Lana
+
+NOTES ON HOUSING STATUS = HNONTARM AND FARM
+
+I. Nonfarm
+
+The following peculiarities of the editing and coding of the housing
+
+a,
+
+status of neniarm spending units should de noted:
+
+A.
+
+B.
+
+Ce
+
+Fe
+
+All noni:.rm related sccondarics are "zeroed" with respect to housing
+status. In cases where a related secondary rented or owned a D.U. in
+conjunction with its own primary spending unit the total umount of
+rent, expenditures on additions, repzirs, and upkeep, the value and
+owner's equity in the hore, the debt outs*anding on the home and all
+debt payments were assigned to the primary spending unit in the family
+for housing purposes.
+
+here crpenditures on housing constituted a savings item, such as paye
+ments on mertzage principal, owner’s expenditures on additions, the
+amount of suci: expenditures made bY related secondaries was included
+in with the savings of the related secondary.
+
+In cases of joint rentershin of a D.U. by two spending units unrelated
+
+to one another, the total amount of rent paid fur the D.U. was assimed
+to the primary spending unit. {the primary spending wilt sms taken to
+
+be the older one). In these cases, however, we coied rent as a percent
+of disposable incexne for both spending wnitc. Wocere the rent split wes
+not given, we split it emohg whe spending units on equal basis. This
+means that there were more pecple coded as paying rent in Column 69
+
+than are so coded in Column 60 of Card 3. Any expenditures for additions,
+repairs or upkeep in these cases vas assigned entirely to the primary
+spending unit. (No savings problem arises here.)
+
+With respect to cases of joint ownership, two possible cases could arise:
+{1) Joint osmership where two spending units unrelated to one another
+live in the same D.U. and Jointly own it; (2) cases where only one cf
+the joint owners lives in the D.U., the other omer living elsewhere.
+These coses were handled as follows:
+
+The totzl amount of mortzage debt, the cwmer's equity, and the estinzted
+
+penditures made on additions, repairs and uckesp Tore assigned entirely
+to the primary. The mortgage payments was assigned entirely to the pri-
+mary. Tne savings data for spending units in such sitvations was handled
+as it occurred. For cxamgsle, whosrc unrelated Joint omers eplit the pay-
+ment on mortgage principal, or shared the amount spent on additions, the
+propor share was credited to the savings done by the spending units.
+
+value oi the house were assigned to the primary swonding unit. The ex-
+nS,
+e
+
+Spending units owning the apjartrsnt building where they live were regard:d
+and treated throughout the housing schedule as if Lhey wore straight how:
+oWnersa
+11.
+
+J.-S.
+
+Farm Chceratvors
+
+A.
+
+Be
+
+Study 59 contains L10 fam operators. LCO of these aro primary
+spending units, 1C are rslated scocondaries who are farm operators.
+There related secondaries were treated as furm operators it was
+because they were in fact part—cuners vdth their respective primary
+farm operators. In these cases it would have been a mis=representa-=
+tion to include them—as far as housing status 48 concerned—with
+
+related secondaries.
+
+With the exception of the 10 related secondaries mentioned above,
+all other related secondary spending units of fara operators were
+treated as nonfarm spending units with respect to housing status
+
+and to all other items.
+Survey Research Center January 1950
+Project 59
+
+CARD TIL
+HOUSING (Schedule I to Q. 47)
+
+Question Column
+Number Number
+
+1-2 Study Number (59)
+3 Card Number (3)
+4-7 Interview Number
+24 8 Do you own your home or pay rent here?
+
+1. Own home, (one or two family structure only)
+trailer
+
+2. Pay rent and is primary
+
+3. Pay rent, unrelated secondary
+
+4. Neither
+
+5. Joint owner, cooperative
+
+6. Shares rent (other than related secondary)
+
+7. Owns apartment building in which R lives (regarded
+as owning home)
+
+X. Status not ascertained
+9. Sold house, still lives there (code additions, repairs)
+
+24a 9 (1f neither) How is that? (coded 4 in Col. 8)
+
+1. Servant
+
+2. Farm laborer
+
+3. Other person for whom housing is part of compensation
+(janitors, gardeners, nurses, etc.)
+
+4. Other
+
+0. Owns, rents (coded 1, 2, 3, 5, 6, 7 in Col. 8)
+
+X. Explanation not ascertained
+Y. Not ascertained whether rents or owns (X in Col. 8)
+
+25 10-12 About how much rent do vou pay a month?
+
+Code amount in dollars
+
+000. Does not rent (Coded 1, 4, 5, perhaps 6 in Col. 8
+above); zero rent; did not rent in 1949
+
+Y00. Rent over $1999 per month
+
+X00. Size of rent not ascertained, but rents
+
+00X. Not ascertained whether rents or owns
+Fem ¢ fer [720A
+Ak RVR Lov
+
+-2- Card III service
+-.. Question Column -
+‘Number Nunber }
+26 13 Do you rent it furniched or unfurnished or vhat?
+
+1. Murnished
+
+2. Partially furnished
+
+3. Unfurnished
+
+9. Don't know
+
+O. Not applicabls, does not rent
+
+X. Not ascertained whether furnished or unfurnished
+
+Y. Not ascertained whether rents or owns
+
+27 14, 15 Vhat does your rent include?
+
+1. "Utilities" (includes "heat!, "light", "water®, "gas" or
+
+’ any combination of these)
+
+2. No utilities; "nothing"
+
+3. Use of some durable goed {stove, refrigerator, washing
+machine)
+
+L. Use of other than rented rooms for entertainrent, cooking
+purposes —-
+
+%. Food, board
+
+6. Service (linen, rooms cleaned, beds made, etc.)
+
+7. Storage facilities, garage, business offite er rooms
+
+8. "Everything" == no further information (Low priority, code
+only for primaries who rent)
+
+A. "House and 1.2" no other information {low priori: y
+
+0. Question not applicable; does not rent; no second item
+
+X. Not ascertained what is included
+Y. Not ascertained whether rents or owns
+
+28 & 2Ba 16 Do you rent out any part of this building to anyone? Do you
+’ rent rooms or an apartment or what? :
+
+1. Rents out apartuent(s) reets'cut home for miner «part of Year
+2. Rents out room(s)
+
+3. Esnts opt other type of accomodation (storage, garage, etc.)
+4: lh oF ohio series (ine)udes
+« Daes not rent any part of building cut ~)
+SHove.
+
+0. Not applicable; does not own
+
+X. Type of accommodation rented cut, type not ascertained;
+not ascertained whether pagt of building rented out
+
+Y. Not ascertained wheihar rents or oms
+
+5
+Project 59 -~3- Card III
+
+Question Column
+Number Number
+
+29 17 (If owns homes) When did you buy it?
+1. Before 1920
+2. 1920 ~ 1929
+
+3. 1930 «1939
+he 1940 - 194k
+
+0. Do mot own; (coded 2, 3, 4, 6,9. in colum 8)
+
+X. Not ascertained when bought, don't know when, inherited
+or was given the home
+
+I. Not ascertained whether rents or owns (teded X ta tof. 8)
+
+30 18 ¥as it a newly built house or one that had been lived in before?
+
+1. Lived in before <
+2. Newly built
+
+0. Not appliczble; rents (coded 2, 3, k, 6,9. “in column 8)
+
+X. Not ascertained whether house lived in before or newly built
+
+Y. Not ascertained whether rents or owns
+
+30a 19 About when was this house built? LCA yA wi hesetr,
+1. Before 1920 mele] Mm od Jane
+2.1920 - 1529 wo | dae]
+3. 1930 - 1939 }
+
+L. 1540 - 19h)
+5. 1945 = 1947
+Te. 1548
+“7 8. 1949
+9. 1550
+0. Does not own; not applicable zthesc whe bewqht news.
+
+X. Date not ascertained, but owns house ,ornheated house
+
+Y. Not ascertained whether rents or owns
+Project 59
+
+Question Column
+Number Number
+
+31 & 37 20-22
+
+31 & 37 23
+
+- 4 - Card III
+
+Estimated present value of house
+
+Cases in which amount exceeded the field listed
+by interview number at the end of the codebook
+
+(Code amount in dollars to nearest $100 e.g. if
+amount = $33,200)
+
+000. Does not own house; question not applicable
+Y00. Value over $99,949
+
+X00. Value not ascertained, but owns
+
+00X. Not ascertained whether rents or owns
+
+Degree of certainty about current value
+
+1. Quite sure about current value. Someone just
+offered me that much; I found out; I know
+
+2. Fairly sure, I follow market and this is a pretty
+good estimate for a house like mine
+
+3. Not very sure but I'd think it's worth about that much
+
+4, Not at all sure, but this is a rough guess
+
+5. Didn't give estimate, don't know at all, couldn't
+even guess. You just can't tell about such things
+any more, prices change so much
+
+6. Refused to give numerical estimate (other than 5)
+
+9. Bought in 1949 or 1950
+
+0. Doesn't own home
+
+X. Degree of certainty not ascertained, but owns
+
+Y. Not ascertained whether owns or rents
+Project 59
+
+Question Column
+
+Number Number
+34, 35 24-27
+41, 42
+
+36, 43 28-31
+
+-5- Card III
+
+Amount of total house debt payments in 1949
+
+(Includes payments on mortgage and other house debts)
+
+(Cases in which amount exceeded the field listed by
+interview number at the end of the codebook)
+
+Code amount in dollars
+
+000X. Owns, but not ascertained whether has debt
+
+0000. No mortgage, or does not own; bought in 1950 made
+no payments in 1949; no debt payment made in 1949;
+bought in 1950, but no payments in 1949
+
+Y000. Mortgage payment larger than $9,999
+
+X000. Amount paid on mortgage not ascertained
+
+000X. Not ascertained whether paid on mortgage, but
+has debt; not ascertained whether rents or
+
+owns; owns, but N.,A. whether has debt
+
+Payment on principal only (of mortgage, land contract
+
+or other debt), in dollar amounts
+
+(Cases in which amount exceeded the field listed by
+interview number at the end of the codebook)
+
+Code to nearest dollar
+
+0000. Nothing paid on principal; has debt, but paid
+only interest in 1949; does not own; no debt
+payment at all in 1949; owns but has no debt;
+bought in 1950, but made no payments in 1949
+
+Y000. Payment greater than $19,994
+000X. Not ascertained whether rents or owns; owns but
+
+not ascertained whether had mortgage; amount of
+total mortgage payment N.A., but paid
+Project 59
+Question Column
+Number Number
+36, 43 32
+
+38 33
+
+-6 - Card III
+
+Does R know the amount of his debt payment which
+was on the principal?
+
+1.
+2.
+0.
+X.
+
+Y.
+
+Yes
+
+No
+
+Does not own; owns, no 1949 payment; owns,
+
+but has no house debt
+
+Not ascertained whether any payment on mortgage
+
+Not ascertained whether had mortgage: not
+ascertained whether rents or owns; amount of total
+mortgage payment N.A., but paid
+
+Payments on your house or lot before 1949 (on 1949
+House Purchases)
+
+$1 - 99
+
+$100~ 299
+
+$300 - 499
+
+$500 ~ 999
+$1,000 - 4,999
+$5,000 and over
+
+Nothing paid before 1949, but purchased in 1949, 1950
+
+Did not purchase in 1949, does not own; not ascertained
+whether rents or owns
+
+Amount not ascertained, N,A. whether house or lot
+purchased
+
+Not ascertained whether paid before 1949, but
+house purchased in 1949
+Project 59
+
+Question Column
+Number
+
+Number
+
+39
+
+5, 38
+
+Lo, Loa,
+
+Lob
+
+3k
+
+36
+
+Ts Card III
+
+Lonsneed
+Amount of House payments! in 1949 (sun of borrowing, sale
+of other assets, etc.) (for 1949 Houses purchases)
+
+1. Under $2,500
+
+2. $2,500 - 4,999
+3. $5,000 ~ 7,499
+L. $7,500 - 9,999
+Se $10,000 = 12,599
+6. $12,500 = 14,959
+
+7s $15,000 - 19,999
+8. $20,000 = 29,999
+9. $30,000 and over
+
+0. Does not own; did not buy in 1549; benght ia 159
+
+X. Portion f.nanced in 1549 not ascertained
+
+Y. Not ascertained whether rents or owns
+
+Proportion paid before 19:9
+
+1. Yes, did pay, S0% or more of purchase price
+2. Yes, did pay, loss than 50% of purchase price
+
+‘be No, did not pay to lore U9, but brught tm1gud 1130
+
+0. Did not buy ., 9a 50
+
+XK. Paid something before 1949, amount not ascertained
+
+Y. Not ascertained whethzr owned or bought in 1549; not
+ascertained whether paid before 1949; not ascertained
+vh ether rents or owns
+
+Any debt incurred for 1949 house purchase? Includes 1850 Busnes
+
+1. Mortgage or land contract, no other borrewing
+
+2. Other borrowing, no mortgage or land contract, amount
+borrowed less than 10:4 of house purchase price
+
+3. Other borrowing, no mortgage or land contract, amount
+borrewed 107 or more of house purchass prica
+
+L. Vortgage or land contract and other borrewing, amount
+borrowed less than JQ7lof house purchase price
+
+S. Mortgage or land contract end other BOrTeRT, amount
+
+borrowed 10% or more of house purchase price
+6. Ko mortgage or lana contract, Bo othir LOrres ing me debt
+Te Mortzaze or land ceatract, no other borrowing, $ N.A. nck WHE '
+O. . Did not buy in 1949 or 1950; not ascertaineq wh2 ther renis
+Or OYMS docs nul own
+0 ther borroving, no mortgage or land contract, % NA. -
+Borrowed, type of borrewing not ascertained :
+Not ascerteined whether debt was incurred for houee pry
+chase; not ascertained wisther bought in 1949 or 19:0
+Project 59 - 8 - Card ITI
+
+Question Column
+
+Number Number
+40abed 37, 38 Sources of funds for 1949-50 house purchase other
+than borrowing
+1. No source other than borrowing
+2. Sold house or other property (includes automobiles)
+3. From drawing down liquid assets
+4. Funds from inheritance (exclude those who received
+the farm directly as a gift or inheritance)
+5. From gifts; from friends or relatives
+6. Income or saving (low priority)
+7. From sale of securities (other than U.S. Bonds,
+Series A-F)
+8. More than two sources
+9. Other sources
+0. Did not buy in 1949; 1950 no second source; not
+ascertained whether rents or owns; does not own
+X. Source of funds not ascertained; second source not
+ascertained
+Y. Not ascertained whether bought in 1949, but owns
+44a 39,40 Type of additions and repairs (If more than 2 types,
+
+code 2 most expensive types. Coded both for owners and
+and renters. Repairs for 1950 purchasers also coded)
+
+1. Redecorating interior (painting, papering, refinishing,
+floors)
+
+2. Structural changes in interior walls and floors
+(changing partitions, new permanent flooring,
+plastering)
+
+3. Heating plant and accessories (air conditioning,
+new furnace) (and/or repairs)
+
+4. Other fixtures and equipment which becomes part
+of the house (hot water heater, sink, bathroom
+fixtures, venetian blinds, carpeting)
+
+5. Exterior of house improved, added to (roofing,
+siding, painting, downspouts, awnings, insulation);
+painting, N.A. whether inside or outside
+
+6. Additions to house built and repaired (shed, extra
+room, garage, porch)
+
+7. Landscaping (lawn, walk, driveway, shrubs, trees)
+
+8. New installations of utilities (electricity, gas,
+water, well)
+
+9. Other items (low priority)
+
+0. No additions, repairs, no second item
+
+X. Had expenditures in additions and repairs, type not
+ascertained
+
+Y. Not ascertained whether had additions and repairs
+Project 59
+
+Question Column
+
+umber Humber
+Ls L1-k2
+Ls L3=Lk
+
+-9 - Card III
+
+Expenditures for additions only
+
+(Code amount to nearest $100 e-g. if amount = $486, coded here as $05)
+
+00.
+ox,
+
+3
+
+cl.
+02.
+
+10.
+11.
+
+E
+t
+ec.
+10.
+
+X0.
+ox.
+
+may have
+No expenditures made for additions;Vada repairs and un=
+classifiable expenditures only
+Expenditures for additions lese—tian $50 or less
+
+$51-150
+$151-250
+
+$951-1050
+$1051-1150 ,
+
+: So
+Expenditures on additions greater than 69,977 (Rocoed in X-Boo®)
+
+Made expenditures for additions, cmount not ascerteized
+Not asgertained whether made expenditurcs for additions
+
+Expenditures for repairs only
+
+Code amount te nearest $100
+
+00.
+oY.
+
+01.
+02.
+
+ma have
+No expencitures rade for repairs; ite 2 additions and
+unclassified only
+Expenditures for repairs lees~thca $50 ovless
+
+$51-150
+$151-250
+
+$951-1050 -
+$1051~1150
+
+Expenditures on repairs greater then $20,050 (Record in Y Daok)
+
+Made expenditures for repairs, amount noi ascertain:d
+
+Not ascertained whether made expenditures for repairs
+Project 59
+
+Question Column
+Number Number
+
+45 us
+LS Lebo
+u7 50
+
+«10 - 0 ed Card IIT
+
+Unclassifiable housing expenditures
+
+(Zmpossible to obtain separate amounts for repairs & additions)
+
+1. $1 - 1)
+
+2. $50 - 149
+3. $150 - 249
+be $250 ~ L99
+
+© 5. $500 = 7h9
+
+6. $750 = 999 .
+7. $1,000 and over
+
+0. Had no such expenditures
+
+X, Had such expenditures, amount not ascertained
+Y. Not ascertained whether had such expenditures
+
+Tota) expenditures for additions, repairs and wnelassifiable
+Code the amount in dollars
+
+0000, None :
+
+Y000. Amount greater than}9,999 (Record ta ¥- Book)
+
+X000. Amount not ascertained, but made expenditures
+
+000X. Not ascertained whether made expenditures
+
+Total present debt on repairs, upkeep, or additions to ithe
+house in class intervals
+
+1. $1 - Ls
+
+2. $50 had 99
+
+3. $100 - 199 ¥
+L. $200 - 299
+
+S. $300 - L99
+
+7. $1,000 and over . :
+X. Amount not ascertained, but debt incurred
+
+Y. Not ascertained whether debt incurred on housing expen
+ditures, or not aScertained whether expenditures mzde
+
+0. No expenditures made; made expenditures, but no debt
+outstanding’ made expendifures, as item ovelion
+Project 59
+
+Question Column
+
+Number
+
+Number
+
+5
+
+52-54
+
+55
+
+-1ll - Card III
+
+House debt (mortgage, land contract) as % of value of house, or
+Mortgage taken out as % of Price of house purchased in 1949
+
+1
+
+1. Under 20%
+
+2. 20% - 29%
+3. 30% - 35%
+L, Log - L9%
+5. 50% - 59%
+6. 60% = 69%
+7. 70% = 79%
+
+8. 80% or zore int bate 50 purthate where brwie fred om
+
+9« No mortgage, owns house, Paid: }i-
+0. Don't om house} brught in 1750 (rcded as miscel ances debt abea out)
+X. Percent N.4., ovms house, has mortgage
+
+Y. Not ascertained whether has mortgage » not ascertained
+whether rents or cwms
+
+Amount of house debt at present
+includes mortgage, land coatract or other debt)
+
+(Code amount to nearest $100)
+000. No .debt; no house bout owned hinge bengntinifso (debt coded ag msc:
+I00. Debt greater. tham ERE 2 ecard .in 3 took)
+X00. Amount not ascertained, but has dell on nema
+
+00X. Not ascertained whether has mortgage debt; not ascertained
+wnether rents or owns house iE
+
+Net equity in owned house include CIE buyers il alreadqgliviog en henge
+
+1. Under $2500
+
+2. $2500 ~ L999
+
+3. $5000 - 7h99
+
+Le. §1509 - $999 .
+
+. $10,000 = 1
+
+: 112683 - 11399
+$15,000 ~ 15999
+
+8. $20,000 - 29,999
+
+9. $30,000 or over
+
+3
+
+!
+0. Does nqt ovn home — not applicable
+X. Amount of net equity not ascertained
+
+¥. Not ascertaincd whether rents or owns
+-
+
+Project 59
+
+Question Column
+Number Number
+
+56
+
+worksheet 57
+E
+
+-12 - Card III
+
+Payment on principal of heuse debt (mortgage, land debt, ete.)
+
+as
+
+% of total debt payment
+
+Tr.
+
+1% - 20%
+20% - 29%
+30% - 39%
+Lo¥ - Loz
+50% - 69%
+
+. 60% - 69%
+
+70% ~ 19%
+80% or more
+
+Has debt, no payment on principal
+
+Does not own house; owns, but has no debt; nothing paid on
+prineipal, but payment made on interest; has debt, nothing
+paid on principal or interest; bought in 1quqoriqse
+
+Not ascertained whether made payment on principal or interest;
+not ascertained whether has debt on house; not ascertained
+whether rents or owns
+
+Expenditures for additions, repairs, etc. as $ of house value.”
+
+1.
+2.
+3.
+
+Xx.
+
+XY.
+
+1% and under inthe de. 1940 buyers repaia
+
+23
+
+32
+
+Lz
+
+5-9%
+
+10 -.1h%
+15 - 199
+20 = 24%
+
+25% or more
+
+No expenditures for repairs, additions, ete.; (rents), does
+not own, oo.
+
+Made expenditures, % not ascertained (omnes only)
+
+‘Not ascertained whether had such expenditures;
+Ject 59 -13- Card III
+
+Question Column
+Number Number
+
+58 Expenditures for additions only as § of house value
+i PR 1:4
+2. 28
+3. 3%
+he U3
+5. 5=9%
+6. 10 - 14%
+7. 15 « 19%
+8. 20 - 2hg
+
+9. 25% or more
+
+| : 0iq#§-5
+0. No expenditures for additions; (rents) does not own bougitio gf]
+X. Expenditures for additions, % not ascertained (code owners only)
+
+Y. Not ascertained whether had such expenditures; not ascer-
+" tained whether rents or owns
+
+£9 Rent as 4 of dirmosabla incors
+1, Under 5%.
+2. [1 - 9%
+- 3. 10 = LZ
+«9-197
+5. 20 - 2ks
+6. 25 - 29%
+7. 30 - 34g
+8. 35 «39%
+
+9 LOY or more
+/0. Doesn't pent
+
+X. Percent not ascertained, but rents zere or negative inceme
+
+Y. Not ascértained whether rents or owns
+
+25 60 Yonthly rent, in class intervals
+1, $l =29
+2. $20 ~- 29
+3. $30 = 39
+S. 850 - h
+
+6. £75 - 59
+
+T. $160 ~ 1k9
+
+8s 5150 = 199
+
+9. $200 and more
+
+0. Does not rent
+
+X. Size of rent not accertainod ;
+Y. Not aseertaired vi..Zher x:z43 or owns
+Project 59 -U - Card III
+
+Question Column
+Number Rumber
+
+31& 37 61 Estimated present value of cvmed home, in class intervals
+
+1. Under $2500
+3. $5000 = 7459
+h. £7500 = $999
+Se #10, 000 = 12,129
+6. $12,500 - 1,59
+Ts $15,000 = 19,95%
+8. £20,000 = 29,959
+9. $30,000 or over
+
+0. Does not ¢wn home = mot applicable .
+X. Value not ascertainod
+
+Y. Not ascartained whother owns or rents
+
+worksheet 62 Amount of house debt at prazent. in class JAntereals
+
+B, or By TiEchudes woz Ugage, ahd CCLUDaty OF ouica GabG)
+1. $1 «499
+2. "9500 - 999
+
+3. $1, G20 ~ 2,9%9
+
+he ) 93; QC0 = L,929
+
+S 35, C20 = 7,459
+
+6. 57.5 G0 = 8r9% 3
+
+7. $10,000 or over -
+
+0. Doesn't own hos
+
+8° Yo mortgaze (owas heme
+
+9... Owns, Aol Aste ria ine ToL er has Louse dest
+ZX. Has mortgage tut amcuni not ascertaincd
+
+1
+
+Y. Not ascertained whethsr has mortgage or other debt; notascerlain:
+Project 5% -15 = Card III
+
+Question Column
+Number Number
+
+3k, 35 63 Amount of total house debt payments in 1949 in elass intervals
+
+Li, L2
+1. $1 - 99
+2. $100 - 199
+3. $200 - 299
+Ae $300 - L499
+5. $500 - 999
+6. $1,000 - 1,499
+7. $1,500 and more
+8. Nothing paid on debt
+
+9. Not ascertained whather paid on debt, has debt
+
+0. Does not own; owns, but has no debt;
+
+X. Paid on mortgage, amount not ascertained
+
+¥. Not ascertained whether has debt, not ascertained whether
+rents or owns
+
+36, Lh3 6h Payment on princinal only in elass intervals: -
+
+1. $1 - 99
+2. $100 =~ 199
+3. $200 - 299
+’ L. $300 - 499
+
+- 5. $500 - 999
+é. $1,000 hed 1,h99
+7 $1,500 and more
+8. Nothing paid on principul, but payment made on interest
+
+9. Not ascertained whether payment made on principal == but
+payment made on interest
+
+0. Does not own; ovns, but has no debt; owns, has debt; but
+made no total payment on debt
+
+Xo Payment made on principal, amount not ascertaineqd.
+
+Y. Not ascertained whether has debt; not ascertained whether
+rents or owns; not ascertained whether made total dcbt
+
+Shs payment
+65-70 _Blank Columns
+
+Project 59 - 16 - Card III
+
+Column
+Number
+72 1549 and 1950 actual nonfarm house purchase
+- 1. Bought newly-built house in 1949
+2, Bought used house in 1949
+3. Bought house in 1949 - N.A. whether newly-built or used
+Lk. Bought newly-built house in 1950
+5. Bought used house in 1950
+6. Bought house in 1950 - N.A., whether newly-built or used
+8. Owns house, year of purchase known to be prior to 19.9
+X. Owns house, year of purchase N.A.
+0. Does not own home, did not own home in 1949 or early 1950
+Y. Housing status not ascertained
+13 Type of 1949 upkeep expenditure on nonfarm home
+
+1. Additions only, no reparis or unclassifiable expenditures
+2. Additions and repairs, no unclassifiable exponditur:zs
+
+3. Additions and unclassifiable expenditures, no repairs
+
+ke Unclassifiable expenditures, no additions, nc repairs
+
+5. Repuirs only, no additions, no unclassifiable expenditures
+6. Repairs and unclassifiable expenditures, no additions
+
+7. Additions, repairs and unclassifiable expenditures
+
+0. No additions, no repairs, no unclassifiable expenditures
+
+Y. Not ascertained whether had additions, repairs or unclassifiable
+
+expenditures
+74-77 Blank Columns
+
+Project 59 -17 - Card 3
+
+Column
+Number
+
+78 Filter variable for status of data on housing
+
+1. Nonfarm single spending unit families (including unrelated
+secondary spending units) or primary in multiple spending
+unit family with COMPLETE HOUSING DATA
+
+2. Nonfarm related secondary spending unit WITH HOUSING DATA
+(to substitute for incomplete families)
+
+3. Nonfarm secondary spending unit related to primary. Housing
+data (if available) CODED UNDER INTERVIEW NUMBER OF PRIMARY
+
+4, Single spending unit family or primary in multiple spending
+unit MISSING HOUSING DATA
+
+5. Farm schedule (NO HOUSING DATA)
+
+6. Farm schedule (WITH HOUSING DATA)
+
+7. Spending unit composition not ascertained, but HOUSING DATA
+INCLUDED
+
+8. Spending unit composition not ascertained and case is MISSING
+HOUSING DATA
+
+79-80 Weights
+Survey Research Center January, 1950
+
+Question Column
+
+Number Number
+1-2
+3
+U=T7
+L8
+Lg
+50 10
+
+Project 59
+
+CARD IV
+
+Expected House Purchases; Other Real Estate
+
+Study Numter (5%)
+Card Number (4)
+
+Interview Number
+
+Do you expect to buy or build a house in 19502
+
+1. Plan to buy or build a house in 1950, or has already bought
+or built in 1950
+
+2. Probably will buy or build in 1950, but might not
+
+3. tniseaaed, depends, or don't know whether will buy or build
+in 1950
+
+4. Will not buy or build a house in 1950 (include here those
+
+© who will buy in 1951), probably won't
+
+8. Farm Schedule
+X. Hot ascertained whether will buy or build in 1950
+
+Will you buy or build a house in 19517
+
+1. Plan to buy or build a house in 1951
+
+2. Probably will buy or build in-1$51, but might not
+
+3. Undecided, depends, or don't know whether will buy or build
+in 1951 :
+
+le Will not buy or build in 195) (include here those who will
+buy in 1950) -
+
+8. Farm Schedule
+X. Not ascertained whether will buy or build in 1951
+
+(If coded 1 er 2%in Cols. 8 and 9) Will it be a newly-built
+house or one lived in before?
+
+1. New
+2. 01d
+
+8. Farm Schedule
+
+\
+
+ovr 3,
+9. Don't know whether new or used house, but coded 1, 2" above
+0. Till not buy or build in 1950 or 1951 (coded 2k, ==%-above)
+: 3
+
+Xe "Mot ascertained whether pew or used house. but cadad 1,2 above
+Y. Not ascertained whether will buy or su:ld in 1550 or 1951
+
+Fan
+Project 59
+Ouestion Column
+Number Number
+51 11-13
+52 & 53 14,15
+sk 16
+
+lw
+Card IV
+
+How much do you plan to pay for it? (Entire purchase price)
+
+(orl
+(Code expected purchase price only if coded 1 e+ 2 in Col. 8 or 9)
+
+(Code the amount to the nearest $10C , e.g. if amount = $29,251,
+ceded as $293
+C00. Ho house to be built or bought (coded 4 above)
+Y00. Price greater than TER (Record in Y-book)
+¥194,949
+X00. Will buy house, amount not ascertained, or doesn't know
+price to he paid
+00X. Not ascertained whether will buy
+00Y, Farm Schedule (this Q. not asked)
+
+Do wou own any real estate {other than this home (farm)).
+(If yes) what Kind 1s it? (inciuaes part-owners) (do not
+include cemetery lots)
+
+l. Other one or two family house
+2. Apartment house
+3. Summer home; weekend house
+Lk. Commercial property; rental property
+5. Farm or farm~land (ccde here only if non-farm interview)
+6. Lot (exclude temelary lot) -
+IS Other
++» Three or more types
+q, Farmland, eniydf oe and saparste from other farm - code
+0. Does not own other real estate; no second type owned
+
+Fos farm ® pecalors
+
+X. Owns, type of real estate not ascertained
+Y. Not ascertained whether owns other real estate
+
+About how much is it worth?
+
+1. Under $1000
+
+2. $1000-4999
+
+L. $25,000 and over
+
+9. Don't know value of other real estate owned
+0. Does not own other real estate
+
+X. Owns, value not ascertained —_
+
+Y. Not ascertained wh..ther owns other real estate
+Project 59
+Question Column
+Number Number
+55 & 56 17-19
+57 20
+58 & 59 21
+
+Card IV
+
+Amount of present debt (mortgage, land contract, etc.) on other
+real estate
+
+(Code amount to nearest #100, e.g. if amount = $2,551 coded as $250)
+
+000. lo mortgace or does not own other real estate
+
+Y00. Nortgage greater than “SU=E2 (Record in Y-hook)
+499 744 -
+
+XCO0. Amount of debt not ascertained
+
+00X, Y¥ot ascertained whether owps, or whether has mortgage
+
+Payments on debt principal (other real estate) in class intervals
+
+1. $1-99
+
+2. $100-199
+3. $200-299
+Lb. #300-L99
+S. $£500-599
+
+6. #£1000-1499
+7. #1500 and over
+
+8. Nothing paid on principal, but payment made on interest
+
+9. Not ascertained whether payment made on principal, but pay-
+ment made on interest
+
+O. Does not own other real estate; owns tut has no mortgage;
+owns, has mortgage, but made no payment on debt at all
+
+X. Payment made on principal, but amount not ascertained
+
+Y. Not ascertained whether owns other real estate; not ascer-
+tained whether has debt on other real estate owned; not
+ascertained whether made payment on debt at all
+
+Price of other real estate boupht in 1949, in class intervals
+
+1. 81 - 499
+
+2. $500 - 999
+
+3. 41,000 ~ 1,599
+
+L. $2,000 - 2,999 ToT
+
+5 $3,000 = 4,999
+6. $5,000 - 7,499
+7. %7,500 - 9,999
+
+8. $10,0000r more
+
+0. No other real estate bought (include inheritance, gift of
+other real estate)
+
+X. Price of other real estate purchased not ascertained, but
+bought
+
+Y. Not ascertained whether purchased other real estate
+Project 59
+
+Question Column
+
+Number Number
+60 22
+61 23
+62 24
+
+Card IV
+
+Did you sell your home or other real estate in 19497
+
+X.
+
+Y.
+
+Sold home only
+
+Sold other real estate only
+
+Sold home and other real estate
+
+Sold neither heme or other real estate
+Sold, N.A. which
+
+Not ascertained whether 1d home or other real estate
+
+What other real estate did you sell? (Do not include sale of
+self-occupied home here) (Applies only to those coded 2, 3 in
+Col. 22) (Do not include cemetery lots.)
+
+I
+
+1. Other one or two family house
+
+2. Apartment house (includes apartment hows e in which owner
+lives)
+
+3+ Summer home, lodge; week-end house
+
+4. Commercial property; rental property
+
+5+ Farm or farm-land {code here only if non-farm interview)
+
+6. Lot
+
+7. Other -
+
+8. honey types of real estate sold (other than self-occupied
+home
+
+q. Farmland, bare and separate from reqular Caem . ode for farm operators
+
+0. Nothing sold or only self-occupied home sor
+
+X. Other real estate sold, but type not ascertained
+
+Y. Not ascertained whether sold other real estate
+
+Price of house, farm or other real estate sold, in class
+
+intervals
+
+2. 8500 - 999
+
+3. £1,000 - 1,999
+
+he $2,000 - 2,959
+
+Ce $3,000 - 4,999
+
+6. $5,000 ~ 7,L99
+
+7. %7,500 - 9, 999
+
+3. $10,000 or more
+
+0. No other real estate sold
+
+YX. Price of other real estate sold not ascertained
+
+Y. Not ascertained whether sold other real estate
+Project 59
+Question Column
+Number Number
+63 25
+6h 26
+27
+
+Card IV
+
+Amount owed to respondent at time of interview for house, farm
+real estate sold in 19L9
+
+1. £1199
+2. 5200-499
+3. $500-999
+
+Lh. $1000-1999
+5. #%2000-2999
+6. 83000-4999
+7. $5000-999¢
+8. $10,000 or over
+
+0. Nothing owed; no house, farm or other real estate, sold
+in 1949
+
+X. Amount owed not ascertained, but house, farm or real estate
+sold in 1949
+
+Y. Not ascertained whether house, farm or real estate sold
+
+What was the amount due on the mortgage at the time it was sold?
+
+3. 8500-999
+
+5. $2000-2999
+
+6. $3000-L999
+
+7. $5000-9999
+
+8. $10,000 or over
+
+0. No mortgage; no house, farm or other real estate sold in 1SL9
+
+X. Amount of mortgage not ascertained, but sold house, fam or
+other real estate in 1949
+
+Y. Not ascertained whether sold house, ete.
+
+Sign of net savings from other real estate transactions
+
+1. Positive
+2. Negative
+
+0. Zero (no transactions, does not own real estate, transactions
+but no net balance)
+
+X. Not ascertained (N.A. whether bought or sold real estate, net
+balance N.A.)
+Project 59
+Question Column
+Number Number
+28-30
+51 n
+55 & 56 32
+
+Card IV
+
+Amount of net savings from other real estate transactions
+
+(Code amount to nearest $100, e.g. if amount = $27,051 amount
+coded as $271) :
+
+000. No transactions; does not own real estate; transactions
+
+but no net balance
+
+YOO. Amount greater than $99,949 (Record in Y-book)
+X00, Amount of net savings from other real estate transactions
+
+N.A.
+
+00X, N.A. whether net savings 1 from other real estate trans-
+
+actions
+
+948
+
+Purchase price of expected house purchase, in class intervals v
+
+Under 32,500
+$2,500 ~ 4,999
+£5,000 - 7,499
+$7,530 - 9,999
+$10,000 ~ 12,499
+$12,500 - 1k, 999
+$15,000 - 19,999
+$20,000 - 29,999
+$30,000 or over
+
+Does not plan to buy or build house; Farm Schedule
+(Q. not asked); planstobuy vn 8}
+
+Expects to buy or build, amount or purchase price N.A.
+Not ascertained whether expects to buy or build
+
+Amount of debt (mortgage, land contract, etc.) on other real
+estate, in class intervals
+
+#1 - 499
+
+$500 - 999
+$1,000 - 2,999
+$3,000 - L,9%9
+$5,000 = 7,499
+$7,500 = 9,999
+$10,000 or over
+
+Cwns other real estate--no debt
+Owns other real estate, mot-zscertained whether has debt
+
+Does not own other real estate
+Owns other real estate, has debt, amount of debt not
+
+asgqgrtained
+Not ascertained whether ovms other real estate
+ala Card IV .
+
+Project 59
+Coluen
+"Number
+ns Blank Columns
+35 1950 Nonfarm house purchase plans
+1. .Has already bought new in 1950; will buy new in 1950
+2. Has already bought used in 1950; will buy used in 1950
+3, Has already bourht in 1950, N.A. new or used; will buy in 1950;
+D.X. or N.A. new or used
+Lk. Probably will buy new in 1950
+Se. Probably will buy used in 1950
+6. Probably will buy in 1950, D.K. or N.A. new or used
+7+ Undecided whether will buy new in 1950
+8, Undecided whether will buy used in 1950
+9. Undecided whether will buy in 1950, D.K. or N.A. new or used
+0. Will not buy in 1950 (includes those who will or moy buy in
+1951)
+Y. Not ascertained whether will buy in 1950
+X. Farm schedule, questions not asked
+
+1951 Nonfarm house purchase plans
+
+- 1.
+- 2.
+
+Will buy new in 1951
+
+Will buy used in 1951
+
+Will buy in 1951, D.K. or N.A. new or used
+Probably will buy new in 1951
+
+Probably will buy used in 1951
+
+Probably will buy in 1951, D.K. or N.4. new or used
+Undecided whether will buy new in 1951
+
+Undecided whether will buy used in 1951
+
+Undecided whether will buy in 1951, D.X. or N.A. whether new
+or used
+
+Vill not buy in 1951 (includes those who have, will or may buy
+in 1950)
+
+Not ascertained whether will buy in 1951
+
+Farm schedule, questions not asked
+Project 59 8. Card IV
+
+Column
+Number
+
+37 Purchase price of expected 1951 house purchase
+
+1. Under $2,500
+
+2. $2,500 - Li, 999
+3. $5,000 - 7,499
+Lb. $7,500 - 9,999
+5. $10,000 - 12,499
+6. $12,500 - 14,999
+7. $15,000 - 19,999
+8. $20,000 - 29,599
+9. £30,000 or over
+
+0. Vill not buy in 1951; has, will or may buy in 1950
+X. Expects to buy or build, purchase price N.A.
+
+Y. N.A. whether expects to buy or build in 1951
+
+38-78 Blank Columns
+
+79-80 Weights
+
+Survey Research Center
+
+Question Column
+
+Number Number
+1-2
+3
+L=7
+65,686,671 8-10
+68 11
+69 12
+
+January, 1950
+Project 59
+
+CARD V
+
+Income Code
+
+Study Number (59)
+
+Inte
+
+Card Number (5)
+
+rview Number
+
+Income (of S.U.) from wages and salaries (for non self-employed only)
+
+’- -
+
+000.
+YOO.
+X00.
+00%.
+00V.
+
+"No income from wages and salaries 3199, 949
+Yiage and salary income exceeds %59+5h9 {need 1m 9 book)
+Viage and salary income not ascertained
+
+lot ascertained ] WA Fl alary income in 1949
+Gries ? tom 250
+
+Income of S.U. from roomers and boarders, excluding from re-
+lated secondaries
+
+$1 ~ 99
+
+$100 = L99
+
+8500 - 999
+
+$1000 - 1999
+$2000 - 299%
+$3000 - L999
+85000 - 9999
+$10,000 and over
+
+No income from this source
+N.A. whether income from this source
+Income from this source, N.A. amount
+
+Income of S.U. from other rent
+
+1.
+2,
+
+21 - 99
+$100 =" 499
+00 ~ 999
+220807798
+£2000 - 295
+Ey 00 - LGC
+85000 - 996
+$10,000 and over
+
+3
+N\ONONOND
+
+No income from this source
+N.A. whether income from this source
+Income from this source, N.A. amount
+Project 59
+
+Question Column
+
+Number Number
+70 3
+71-73 1h-16
+7-73 17
+
+Card V
+
+Income of 5.U. from interest, dividends, trust fund, royalties
+
+1, #1 -99
+2. £100 - Ls9
+3. 8500 - 999
+
+Lhe $1000 - 1999
+5. $2000 - 2999
+6. #3000 - 4999
+T. $5000 - 9999
+8. $10,000 and over
+
+0. No income from this source
+4. N.A. whether income from this source
+4. Income from this source N.A. amount
+
+Total income of S5.U. from unincorporated business (profit plus
+salary)
+
+(Code to nearest $100, e.g. if amount = $33,290, amount coded as $333)
+
+000, No income from unincorporated business
+
+001. One cent to $149 —
+etc.
+
+999. 99,850 Aretrosn _($99, 15/0)
+
+Y
+
+CR ‘Ri fer VET (lizard in Y- Buok)
+
+X00. Income m unincorporated, business amount N.A.
+00X. N.A. whether income from unincorporated business
+00Y. Business Less
+
+SEE COL. 62 FOR BRACKET OF ABOVE
+Profit left in the business
+
+1. 81 - 99
+
+2. $100 - L99
+
+3. $500 ~ 999
+
+ks. #1000 - 1999
+
+S. $2000 - 2999
+
+6. #3000 - L999
+
+T. $5000 ~ 9999
+
+8. $10,000 and over
+
+9. Negative amount. Business showed a profit but withdrawals
+exceeded the profit.
+
+0. No profit left in the business; has no business
+
+3% N.A. whether profit, N.A. whether profit left in
+
+¥ Profit left in, N.A. amount
+Project 59
+Question Column
+Number Number
+71-73 18
+Th 19
+(Farm
+
+Schedule
+
+75, 16 20
+
+(Farm
+
+Schedule
+
+75d, 75e)
+
+Business loss
+
+#L- 99
+
+$100 - L499
+
+£500 - 999
+$1000 - 1999
+#2000 - 2999
+$3000 - 4999
+$5000 ~ 9999
+$10,000 and over
+
+No loss, does not own unincorporated business
+H.A. whether a business loss
+Business loss, W.A. amount
+
+Card V
+
+Income from professional practice, self-employment, or farming
+
+41-99
+
+$100 - L499
+
+$500 - 999
+
+$1000 ~ 1999
+$2000 - 2999
+£3000 - L999
+$5000 - 9999
+£410,000 and over
+
+Negative amount
+
+No income from this source
+
+H.A. whether income from this source
+Income from this source, N.A. amount
+
+Income from veterans! pensions, veterans' school allotment,
+family allotment, veterans' bonus from a state; retirement pay,
+unemployment compensation, old-age pensions, annuities, alimony,
+regular contributions, welfare
+
+$1 - 99
+
+$100 - L959
+
+$500 - 999
+$1000 ~ 1999
+#2000 - 2999
+$3000 - L999
+45000 - 9999
+$10,000 and over
+
+No income from this source
+N.A. whether income from this source
+Income from this source, N.A. amount
+Project 59
+
+Question Column
+
+Number Number
+Number of 21
+columns
+filled in,
+page 7
+
+22
+65-76 23-27
+(Farm
+Schedule,
+Q. 66-76)
+77 28-32
+
+-4 - Card V
+
+Number of income receivers in spending unit
+
+1. One
+
+2. Two
+
+3. Three
+
+4. Four or more
+0. None
+
+X. Not ascertained
+
+Is the amount of total 1949 income coded in Cols.
+23-27 assigned?
+
+1. Yes, amount coded is assigned
+5. No, amount coded is not assigned
+
+9. N.A.
+
+Total 1949 income (Schedule II) (including total income
+of farmers)
+
+(Code the amount in dollars)
+
+00000. No income
+
+Y0000. Total income exceeds $199,999 {Record in Y-Book)
+X0000. Total income not ascertained
+
+0000Y. Negative income
+
+Total income for 1948:
+
+(Code the amount in dollars, only when stated by
+respondent)
+
+00000. No income
+Y0000. Total income exceeds $199,999 (Record in Y-Book)
+
+X0000. Total 1948 income in dollar amount not ascertained;
+
+only comparison or bracket amount given
+0000Y. Negative 1948 income
+Project 59 -5- Card V
+
+Question Column
+
+Number Number
+(Worksheet 33 Comparison of 1949 income with 1948 income
+or 78)
+
+1. Much larger in 1949 (plus 25% or more) (125% or more)
+2. Somewhat larger in 1949 (plus 5% to 24% (105% to 124%)
+3. About the same (plus 4% to minus 4%) (96% to 104%)
+4. Somewhat less in 1949 (minus 5% to 24%) (76% to 95%)
+5. Much smaller in 1949 (minus 25% or more) (75% or under)
+9. Don't know
+X. Not ascertained
+
+77 or 79 34 Total 1948 income, in class intervals
+1. $1 - 999
+2, $1000 - 1999
+3. $2000 - 2999
+4. $3000 - 3999
+5. $4000 - 4999
+6. $5000 ~ 7499
+7. $7500 - 9999
+8. $10,000 or more
+9. Negative income
+0. No income in 1948
+X. 1948 income not ascertained either in dollar
+
+or bracket amount
+
+80 35 Expected income for 1950 compared with 1949 income
+1. Larger in 1950
+3. Same
+5. Smaller in 1950
+9. Don't know
+X. Not ascertained
+
+81 36 Some people feel quite secure financially, others have many
+
+worries about how they will get along. How is it in your case?
+(Emphasis is on general financial situation) (4-point scale)
+
+1. Very secure (must give reasons)
+2. Rather secure (I don't worry)
+
+4. Rather insecure (I don't worry, but)
+5. Very insecure
+
+9. Don't know
+
+X. Not ascertained
+Survey Research Center -6- March 9, 1950
+
+Question Column
+Number Number
+81 37-38
+
+Addition to Card V
+
+Respondent's frame of reference in evaluating his degree of
+security.
+
+1. Job {good or bad) employment or unemployment, business
+profitable, or not, farmers (crop, weather, prices)
+
+2, Financial resources: savings or assets; or debts, or
+savings used up
+
+J. Someone he can depend on for financial assistance; or
+relief; or loss of financial assistance, government
+checks stopped, outside help from relatives cut off
+
+Lhe Expenses cut down; or expenses added to (addition to
+spending unit, new baby, ete.)
+
+5. Age (too old to work, expects retirement)
+
+6. Health (Sickness prevents working, or adds to expenses;
+or health is good)
+
+T+ Ability or training: Can't get another job, inex
+perienced; or confident can get another Job
+
+8, Other personal factors: Income in kind
+
+9s Factors affecting county as a whole - depression or
+inflation, strikes, etc.
+
+¥. Religious or philosophical reasons for R's worrying
+or not worrying (I have faith; it doesn't pay to
+worry)
+
+Os. No second frame of reference
+
+X. Not ascertained ~ Impossible to determine R's frame
+of reference
+Project 59
+
+Question Column
+
+Number Number
+82 39-40
+and §2a
+£2
+
+-7 -
+
+Card V
+
+Now let us suppose that you lose your job for any reason during
+the next few months; what do you think are the chances for
+getting another job that pays about the same? (opening swn business)
+
+R. speaks in terms of a job that pays about the same, does not
+limit to a depression { priority)
+
+Reox?Ty
+sw fuirness
+11. Absolutely sure of getting another jobAwhich pays about
+
+the same or more basis
+12. Could probably get another PRL si pays about the same
+
+1h. Would be difficult to get another job which pays about the
+same
+
+15. Would be impossible or practically impossible to get another
+Job waich pays about the same *
+
+onN busINEst
+R. speaks only in terms of a jobpat less pay
+
+~
+
+21. Absolutely sure of getting another Jo¥feut at less pay
+22. Could probably get another jobfbut at less pay
+
+2h. Would be difficult to get another jobven at less pay
+25, Viould be imppssible or practically impossible To get
+another job<&ven at less pay
+
+R. speaks only in terms of a depression
+
+51. Absolutely sure of getting another job¥which pays about
+the same or more
+52. Could probably get another jobdwhich pays about the same
+
+SL. Would be difficult to get another jol¥swhich pays about the
+
+55. Tlould be impossible or practically impossible to get
+another jobywhich pays about the same
+
+88. Farm Schedule
+
+99. Don't know
+
+XX. Not ascertained
+
+00. Not applicable. Self-employed, not working, wet Comtamg Ting
+Stertay on bugives
+Project 59
+
+Question Column
+
+Number Number
+
+82a 41-42
+43-44
+45
+
+- 8 - Card V
+
+Reasons for feeling it would be possible or easy to
+get another job (not contingent on Col. 39, 2 responses)
+
+Shortage of workers in respondent's occupation
+
+Jobs plentiful (all types or type not specified)
+Have had other job offers
+
+Personal reputation or personal qualifications,
+including health
+
+Could through union, employment agencies, etc.
+Could get about the same pay by changing occupation
+Have other skills--"I'm a good too."
+
+Reasons for feeling it would be difficult or impossible
+to get another job
+
+31.
+
+32.
+33.
+34.
+35.
+36.
+
+00.
+
+Slack, jobs hard to get (everywhere or occupation
+
+not specified)
+
+Slack, or shortage of work in respondent's occupation
+Not many jobs pay as good as present job
+
+Personal qualifications or reputation, includes health
+Age of wage earner--too old
+
+No seniority on new job - would have to work up
+
+Farm Schedule
+Don't know
+Not ascertained (Cols. 40 and 41 only)
+
+Not applicable, no second reason
+
+Is the amount of 1949 disposable income coded in Cols.
+46-50 assigned?
+
+1.
+5.
+
+9.
+
+Yes, amount coded 1s assigned
+No, amount coded is not assigned
+
+N.A.
+Project 59 -9- Card V
+
+Question Column
+Number Number
+
+Worksheet 46-50 1949 Disposable income
+Iv
+
+(Code to nearest dollar)
+
+00000. No income
+
+¥0000. Disposable income exceeds $199,999
+(Record in Y-Book)
+
+X0000. Disposable income N.A.
+
+0000Y. Negative amount
+
+51 Is the amount of 1949 Income Tax coded in Cols.
+52-56 assigned?
+
+1. Yes, amount coded is assigned
+5. No, amount coded is not assigned
+
+9. N.A.
+
+Worksheet 52-56 1949 Income tax
+I-1II
+
+(Code the amount in dollars)
+
+00000. No income tax
+Y0000. Income tax exceeds $199,999 (Record in Y-Book)
+X0000. Income not ascertained
+
+Worksheet 57 Number of tax returns for SU
+11, J
+
+1. One return
+
+2. Two returns
+
+3. Three returns
+
+4. Tour or more returns
+
+0. No taxable income, or total income less than $600
+Project 59 - 10 - Card V
+
+Question Column
+
+Number Number
+Worksheet 58 Number of tax exemptions for SU
+11, K
+
+l. One exemption
+
+2. Two exemptions
+
+3. Three exemptions
+
+4, Four exemptions
+
+5. Five exemptions
+
+6. Six exemptions
+
+7. Seven exemptions
+
+8. Eight exemptions
+
+9. Nine or more exemptions
+
+¥X. Not ascertained
+Worksheet 59-60 Taxes as % of income
+II, L
+
+00. No tax
+
+01. One percent
+
+02. Two percent
+
+Etc.
+
+98. 98 percent
+
+99. 99 percent
+
+X0. Percent not ascertained
+Worksheet 61 1949 Income as 7 of 1948
+
+G
+
+1. Less than 507
+2. 50%-74%
+
+3. 75%Z-847
+
+4. 857-94%
+
+5. 957%-104%
+
+6. 10572-1147
+
+7. 115%-124%
+
+8. 125%Z-149%
+
+9. 150%-199%
+
+Y. 200% or more
+
+0. Zero income or negative income in either year
+
+X. Not ascertained (no answer to Q. 77)
+Project 59
+Question Column
+Number Number
+62
+63
+64
+
+19L9 Disposable income in class intervals
+
+- 11 -
+
+X.’
+
+1949 Income in class intervals
+
+$0 = 999
+
+$1000 - 1999
+£2000 - 2999
+#43000 ~- 3999
+£L000 - L999
+$5000 - 7L99
+£7500 - 9999
+$10,000 and over
+
+Negative amount
+
+Not ascertained
+
+1.
+2.
+3.
+
+X.
+
+(Dollar amount in Col, 22-26)
+
+1949 Income tax, in class intervals
+
+$0 - 999
+
+#1000 - 1999
+$2000 « 2999
+#3000 - 3999
+$4000 - L999
+#5000 - 7L99
+$7500 - $999
+$10,000 and over
+
+Negative amount
+Not ascertained
+
+1.
+2.
+3.
+
+$1 - Lo
+
+£250 ~ 99
+
+£100 - 199
+#200 ~ 499
+£500 - 999
+$1000 - 1999
+£2000 - 4999
+$5000 and over
+
+No income tax
+
+Income not ascertained
+
+Card V
+Project 59 - 12 - Card V
+
+Question Column
+Number Number
+
+65 Total income of S.U, from unincorporated business, in class
+intervals
+
+1. ®L - 99
+
+2. #100 - L499
+
+3. #500 - 999
+
+Lh. $1000 = 1999
+
+5. $2000 ~ 2999
+
+6. $3000 - 3999
+
+7. $L00O - L999
+
+8. %5000 - 9999
+
+9. $10,000 and over
+
+0. No income from this source (or loss)
+Y. Not ascertained whether income from this source:
+
+X. Income from this source, N.A. amount
+
+66 Total income of S5.U., from wages and salaries, in class intervals ~
+
+1. 81-99
+
+2, $100 - L9%
+
+3. $500 ~ 999
+
+Lh. $1000 - 1999
+
+5. $2000 - 2999
+
+7. $LO0C - L999
+
+8. #5000 - 9999
+
+9. $10,000 and over
+
+O. No income from this source
+YX. Not ascertained whether income from this source
+XZ. Income from this source, N.A. amount
+{Dollar amount in Col. 8-10)
+67-78 Blank Columns
+
+79-80 Weights -
+Survey Research Center
+
+Question Column
+
+Number Number
+1-2
+3
+4-7
+g3« iy 8 -
+85 9
+
+January 1950
+Project 59
+
+CARD VI
+Cars and Durables
+Schedule III through Question 113
+
+Part I - Cars
+
+Study Number (59)
+Card Number (6)
+
+Interview Wumber
+
+Do yog own a car? (If no, did you own a car anytime in 19497)
+
+Yes, owns one car (or number of cars not known)
+Yes, owns two cars
+
+Yes, owns three or more cars
+
+No, but owned a car sometime during 19L9
+
+No, does not own and did not own during 1949
+
+Not ascertained whether owms or owned in 1949
+
+Did you buy your car new or used?
+
+Owns one car bought new )-= Coded 1 in
+Owms one car bought used)== Column §
+
+Owns two or more cars bought new ) Coded 2
+Owns two or more cars, bought used ) or 3
+Owns two or more cars} one bought new, other(s) ) in
+
+used ~ or N.A. whether new or used } Column
+
+Does not own, but owned a car during 1949 that was )
+bought new } Coded
+
+Does not own, but owned a car during 194% that was ) Lk
+bought used : i
+
+in
+Does not own, but owned a car during 1949, N.A. new) Col. §
+
+No car owned, did not own car during 1949
+
+Owns, did own during 1949, N.A, whether new or used
+
+Non wnether owns car; N.A. whether owned car anytime during
+1549
+Project 59 -2- Card VI
+
+If owns more than one car --
+
+- Code in Cols. 10-15 the car —-
+
+A. Bought in 1949-50, if any
+
+B. Otherwise the latest year model |
+
+Question Column
+Number Number
+
+nie Ges 86 © 10=11 What year model is it?
+
+35. 1935 or earlier
+36, 1936
+
+37. 1937
+
+38. 1938
+
+39. 1939
+
+3X. "ery old®
+
+ko. 19ko
+hl. 1941
+Lh2. 1542
+
+55. 19L45
+56. 1946
+57. 19h?
+58. 1948
+59. 1949
+60. 1950
+
+99. Don't know year model
+
+00. Don't own a car, didn't own a car anytime in 15h9
+
+X0. Year model not ascertained
+
+WB. Not ascertained whether owns or did own in 1949 (x Jn g)
+
+fo 87 12-13 What make is it?
+Low Price Medium Price
+10. Chevrolet 20, Pontiac
+12. Ford 21. Qldsmobile
+13. Plymouth 22, Mercury
+16. Other low-priced — 23. Dodge
+Austin, Willys, 24. De Soto
+Renault, Crosley, 25. Kaiser
+Playboy, Hillman 26, Wash
+27. Hudson
+High Price © 28. Studebaker
+
+29. Other medium price
+30. Cadillac
+
+31. Buick 99. Don't know make of car
+
+32. Lincoln 00. Doesn't own
+
+33. Chrysler XO. Make N.A.
+
+35. Frazer ¥3. N.A. whether owns, did own
+~ 36, Packard in 1949
+
+37. LaSalle
+
+38. Other high-priced
+includes Graham Paige
+Project 59
+
+Question Column
+
+Number Number
+88 1h-15
+89 16-17
+
+When did you buy it?
+
+35.
+36.
+37.
+38.
+39.
+3X.
+
+Lo.
+hl.
+
+1935 or earlier
+
+1936
+
+1937
+
+1938
+
+1939
+
+"In the 30'S ssessees "long ago"
+
+1540
+1941
+1942
+1943
+19LL
+
+19h5
+1946
+1947
+1948
+19L9-
+1950
+
+Don't know year of purchase
+
+Doesn't own
+
+Year of purchase not ascertained oo
+Not ascertained whether owns or did own in 1949 ( x Sas)
+
+If did not buy in 1949 - 50 code O's in Cols. 16 to 27
+
+What was its total price?
+
+Code price to the nearest $100 (£700 would be coded 07. ,
+$1300 would be coded 13. $1470 would be coded 15.) If R ‘
+
+fond £3
+
+bought more than 1 car, code price of more rocems—yoew-medel.
+Code the same car as that ceded in Cols. 10-15
+
+00.
+
+X0.
+
+No car bought in 1949 ~ 50; owns, but year of purchase
+not ascertained; not ascertained whether owns
+
+Car bought, but price not ascertained
+
+0Y. Amount Less than 3,
+~ Project 59 -) - Card VI
+
+Question Column
+Number Number
+
+90 18 Did you trade-in or sell a car in 1949 (1950)?
+1, Traded-in
+2. Sold
+
+3. Neither, but did bur in 1949 (1950)
+
+0. Did not buy in 1549; not ascertained whether owns; owns,
+but year of purchase not ascertained
+
+X. Not ascertained whether traded-in or sold
+
+92 19 How did you finance the car you bought?
+
+1. Bought it on the instalment plan
+
+2, Borrowed money some other way
+
+3. Used only own cash (plus trade-in, if any)
+
+A. Installment plan and other borrowing
+
+O. Did not buy a car in 1949 - 50; owns, but year of purchase
+3 not ascertained; not ascertained whether owns
+
+X. Bought in 1949 - 50, but method of financing not ascertained
+
+ixiyiaind 93 20-21 How large a cash down-payment did you make?
+
+Code the amount to nearest $100 {A dovm-payment of $510 should
+be coded 05.y
+
+00. No dovmepayment (include no car bought or owned; or car
+bought and paid all cash; not ascertained whether owns
+
+X0. Size of down-payment not ascertained, but bought in 1943-50
+0X. Not ascertained whether cash or instalment, but bought in
+
+1949-50
+Of. Amountless than 350 .
+vd 22 Method of financing purchase of car? { Bevrowing includes instant ment)
+gaunt 1. Cash (no trade-in, 7e porroing), J 3 in"
+Ak. Top as 2. Cash plus trade-in (no borrowing Col, 19
+of, of &.%9 @r sok) Pov
+
+IF bied
+3. Borrowing, plus trade-i¥, Sorroved under 50% of total price
+Ls Borrowing, plus trade-inj boxzowed 50% or more of total price
+S. Borrowing, plus trade-injyjercent borrowed not ascertained
+
+. 6. Borrowing, plus cash, no trade-in, borrowed under 50% of
+total price
+os. ' deta "- 7. Borrowing, plus cash, no trade-in, borrowed 50% of total
+NA +0 price or more
+~«~ 8, Borrowing, plus cash, no trade-in, percent borrowed N.A.
+a Jovan a8, Eee GaeT
+0. Did not buy in 1949 or 50; ovns, but year of purchase nod
+
+ascertainad; not ascertained whether o. as
+
+X. Bought, not ascertained whether all cash or borrowed
+
+If coded 3 or 0 in Col. 18
+cede zeros in Col -» 23-27 |
+
+Co
+
+‘Project 59 -5= Card VI
+
+Question Column
+Number Number
+
+95 23-2h Year model of ear traded-in (sold)?
+
+35. 1935 or earlier
+36. 1936
+
+37. 1937
+
+36. 1938
+
+39. 1939
+
+3X, "Very old®
+
+Lo. 1940
+Li. 1941
+L2. 1942
+
+55. 1945
+56. 1946
+57. 1947
+58. 1948
+59. 1949
+60. 1950
+
+00. Did not trade-in or sell, did not buy; year of purchase
+not ascertained
+
+XO. Year model of trade-in (sale) not ascertained
+$2. Not ascertained whether traded-in or sold
+96 26.26 Year of purchase of car traded-in (sold)?
+
+35. 1935 orearliec
+
+36. 1936
+
+37. 1937
+
+38. 1938
+
+39. 1939
+
+3X. "In the. 30's .... "long ago!
+
+ho. 15LO
+hi. 19L1
+ho. 19h?
+
+i: 3
+
+55. 1945
+56. 1946
+
+57. 1947
+58. 19.8
+59. 1949
+60. 1950
+
+00. Did not tr: 2-in or sell, did not buy
+
+X0. Year of purchase not ascertained
+
+8. Not ascertained whether traded-in or sold
+Project 59
+
+-b =~ Card VJ}
+Question Column
+Number Number
+27 Trade-in, new or used when bought
+
+Unless interview indicates the contrary, ccde "new" if year
+mode} is the same as, or later than, year of purchase
+
+1.
+2.
+
+0.
+
+97& 99 a8 Do
+
+New
+Used
+
+Did not trade-in or sell, did not buy
+N.A. year model, year of purchase
+
+N.A. whether traded ta
+you expect to buy a car? Will it be a new or used car?
+
+98 29 Do
+
+Will buy a new car
+
+Will buy a used car
+
+Will buy =~ uncertain new or used
+
+Probably will buy a new car -
+
+Probarly will buy a used car
+
+Probably will buy a -- uncertain new or used
+Undecided; depends —- new car ) middle
+Undecided; depends == used car ) position
+Undecided; depends == uncertain new or used )
+
+Will not buy a car; probably won't
+
+Not ascertained
+
+You expect to buy it in tha first half of ths year or the
+
+second half?
+
+1.
+2.
+3.
+
+0.
+X.
+
+Y.
+
+First half
+
+Second half
+
+Uncertain which half
+Won't buy
+
+Not ascertained which half
+
+Not ascertained whether will buy
+Project 59
+
+Question Column
+Number Number
+
+100 30-31
+
+101 32
+
+How much do you think Fou will pay for it?
+
+Code price to the nearest $100
+
+00. No car to be bought (coded 0 in Col. 29)
+
+X0. Car to be bought, but price not ascertained (don't know
+price)
+
+of. Less than #50
+
+0%. Not ascertained whether expects to buy (coded X in Col. 29)
+
+How do you think vou will finance it?
+
+1. Instalment {Plus don ))
+
+2, Borrow some other way
+
+3. Cash only (includinqtrade-in)
+
+9. D.K.
+
+0. Will not buy
+
+X. Not ascertained method of financing
+
+Not ascertained whether will buy
+Question Column
+
+Number Number
+102 33, 3
+105 35
+103, 36
+
+105,
+
+106 &
+
+107
+
+CARD VI
+Part IT = Durable Goods
+
+How about such large items as furniture, a refrigerator, radio,
+television set, household appliances, and so on -- did you buy
+anything of this nature during the past year, 1949?
+
+{If yes) What did you buy?
+
+Code in following order of priority.
+
+1. Furniture = all furniture except floor coverings, lamp
+shades, curtains, linens, china, pots, and pans
+
+2.. Refrigerator, ice box, deep freeze
+
+3. Radio, record player
+
+Lh. Television set
+
+5. Washing machine
+
+6. Stove
+
+7s Other electrical, appliances: vacuum cleaner, sewing machine,
+_ toasters, and movie projector
+
+8. Other items than listed here
+
+9. More than two categories {sccend column only)
+
+0. No item bought, no second item
+Y. Not ascertained whether bought
+X. Bought, but nature not ascertained
+
+Total price of refrigerator purchased in 1949, in class inter=
+vals {include ice boxes and deep freezes)
+
+ude L
+
+(Never code 1 in this code!) La fee pdr,
+$1 - 1h C6 as - um gchar vo
+
+2. $1 -1 ' « 375 = 47 - §
+
+3. 75 - 174 CT WIE - 79 ge ¥ fk.
+
+Lh. 175 = 274 : 8. 750 or over
+
+S. 275 - 37h Q. No refrigerator purchased
+
+~X. Refrigerator bought, price not ascertained
+Y. Not ascertained whether bought
+
+Proportion of refriserator price paid in cash (down-payment +trmde-in)
+1. Under 50%
+
+2. 50% - 59%
+
+3. 100%, all cash
+
+0. No purchase, } Lo
+
+X. Proportion not ascertained. o> p~iee MAF oun Tams
+
+I. Not ascertained whether bought ~
+Project 59 - -2 - + Card VI
+
+Question Column
+Number Number
+
+103 EY Was thers a treds-in on the refrimarator?.
+1. Yes, trade-in, value under $50
+2. Yes, trade=in, value $50 « $99
+3. Yes, trade-in, value $100 or more
+be Yes, trade-in, value not ascertained
+9. Purchased, but no trade-in
+0, No refrigerator purchased -
+X. Refrigerator bought, not ascertained vhether trade-in
+¥. Not ascertained whether bought
+105 38 Price of radio purchased in 19:9, in class intervals: )
+- {3nciude radio phonograph and record players) (if two or more
+
+radios, code total)
+
+1. &1 - 3h
+2. 35 - 74
+3. 75-174
+he 175 = 274
+Se 275 - 7h
+6. 375 - L74
+7. ) L475 - 749
+
+8. 750 or over
+
+O. No radio purchased
+
+X. Bought, but price not ascertained
+~ Y. Not ascertained whether bought
+
+103, 39 Proportion of radio price paid in cash (down-payment plus trade-in)
+105, {If two or more radios, code total price) -
+106 &
+107 1. Under 50%
+2. 50% - 99%
+
+© 3. 100%; all cash
+0. No purchase of radio
+. ) 0 - NA.
+X. Proportion not ascertained, but bought wes .
+
+Y. Not .ascertained whether bought
+Project 59 “3 Card VI
+Part II
+
+Question Column
+Number Number
+
+103 Lo Was there a trade-in on the radio?
+
+1. -Yes, trade-in, value under $50
+
+2. ‘Yes, trade-in, value $50 - 99
+
+3. Yes, trade-in, value $100 or more
+
+L. Yes, trade-in, value not ascertained
+
+9. ‘Purchased radio, but no trade-in
+
+Os. No radio purchased
+
+X. Radio bought, not ascertained whether there was a trade-in
+¥. ‘Not ascertained whether bought radio
+
+105 hl - Price of television set purchased in 1949
+
+(Never code 1 in this cods)
+
+2. S51 - Th
+
+3. 75 - 17h
+
+he 175 ~ 274
+6. 375 - k7L :
+Te 47s - 749
+8. 750 or over
+
+0. No television set purchased
+X. Bought, but price not ascertained
+Y. Not ascertained whether bought
+
+103, h2 Proportion of television set price paid in cash (dewn payments trade-in)
+
+105,
+106 & 1, Under 50%
+107 2, 50% - 99%
+
+0. No purchase. of TV
+X. Prop>rtion not ascertained, but bought Price N.A.
+
+I, Not ascertained whether bought
+Project 59
+
+Question Column
+
+Number Number
+103 L3
+105 LL
+103, Le
+105,
+
+106 &
+
+107
+
+-h- Card VI
+Part II
+
+Was there a trade-in on the television set?
+
+Y.
+
+Yes, trade-in, value under $50
+
+Yes, trade-in, value $59 « 99
+
+Yes, trade-in, value $100 or more
+
+Yes, trade-in, value not ascertained
+Purchased television set, but no trade~in
+No television set purchased
+
+Television bought, not ascertained whether there was a
+trade-in
+
+Not ascertained whether bought television set
+
+Price of furniture mirchased in 1949, in class intervals:
+(total cost of all furniture purchased)
+
+$1 74
+
+75 = 17h
+
+175 - 274
+275 = 37h
+
+375 = 47h
+
+L75 ~ 749 .
+
+750 or over
+
+No furniture purchased
+
+X. Bought, but price not ascerta ned
+
+Y. Not ascertained whether bought
+
+Proportion of total furniture price paid in cash {QO red
+{down payment and trade-in i Gl
+1. Under 50%
+
+3. 100%, all cash
+
+0. No purchase
+
+X. Proportion not ascertained rn SS =
+
+Y. Not ascertained whether bought
+Project 59 -5 a= Card VI
+
+Part II
+Question Column
+Number Number
+105 Lé | ~ Total price of washing machine purchased in 1549, in class inter~
+vals ‘include driers)
+l. $1 - 3h
+2. 35-74
+3. 75-17:
+5. 275 - 374
+: 6. 375 - Lh
+! T. L785 - 49
+
+8. 750 or over
+0. No washing machine purchased
+X. Washing machine bought, price net ascertained
+
+Y. Not ascertained whether purchased washing machine
+
+103, h7 Proporti on of washing machine price paid in cash (down paxmant +lmda-in)
+105, }
+107 2, 50% - 0s
+
+3. 10C%, all cash
+
+0. No purchase of washer
+X.. Proportion not ascertained, but bought a iat N.A.
+Y. Not ascertained whether bought
+
+Sum of 48-51 Total price of durable goods purchased in 1949. excluding car
+items Code price te tne nearest dollar
+
+in
+Q. oF 0000. No items bought ga
+©" Y000. Price greater than nn (record in "IY" book)
+X000. Large items bought, but price not ascertained
+000X. Not ascertained whether bought
+
+(Yor brackets see Col. 79)
+
+106 52 Method of financing 1949 purchases of durable gocds (excluding car)
+
+1. All items bought for cash
+2. All items bought on instalment
+3. Some items bought for cash, some items on instalment
+
+9 GreFT
++ No items bought .
+X. Method of financing not ascertal ned
+
+Y. Not ascertained whether bought
+
+[4
+Project 59
+
+Question Column
+
+Number Nurber
+
+109, 53
+109s,
+110
+
+109-110 5h 55
+
+SL-59
+$553
+
+Part II
+
+Do you expect to buy (have you bought) anything of this nature =
+refrigerators, radios, television set, household sppliances and
+80 on == during this year, 1950? Have you bought anything of
+this nature so far in 19507
+
+l. Definitely plan to buy at least ona item, has bought in 1950
+2. Probably will buy at least one, but might nat
+3. It depends, undecided, don't know
+
+0. No, do not plan to buy any item
+X3% Not ascertained whether expects to buy
+
+Expected purchases of durable goods.
+includes only those coded 1 or 2 in Col. 53)
+odd m Grder G Paierity
+
+1. Furniture -- all furniture etcept floor coverings, larp
+shades, eurt.iins, linens, china, pots, and pans
+
+2. Refrigerator, ice box, deep freeze
+
+3. Radio, record player
+
+Le Television set :
+
+S. Washing machine
+
+6. Stove
+
+7. Other electrical appliances: vacuum cleaner, sewing machine,
+toasters, and movie projector
+
+8. Other items than listed hers
+
+9. More than two categories
+
+0. Don't expect to purchase (coded 3 or 0 in Col. 53) ne sccand ilem
+
+¥. Not ascertained or don't know whether expects to purchase
+{coded 9=or Y in Col. 53)
+
+About how much do you think you will spend for ii?
+{sum of items in Question 111)
+
+Code amount only for thosa coded 1, 2, er% in Col. 53
+
+Code the amount to the nearest dollar
+
+0000. No durables to be bought (coded 3, 0, e»% in Col. 53)
+Y000. Will spend, more thet 23% {record in ™Y" book)
+
+X000. Will buy, but not ascertained how much will pay
+
+000%. Not ascertained hether expects to buy (cede 4 Y in Col, 53)
+
+(for brackets ses Col. 76)
+y/ 0, ow Coda nad I
+Projest 59 ) -7 - Card VI
+Co : Part II
+
+Question Column
+Number Number
+
+111 5960 How much do you think you vill spend for a refrimerator? Seagrass
+{Code Will buy, probably Wiil buy and have bought in 1950)
+2, $1 -174
+3. 75 - 17h
+
+be 175 « 274
+5. 27% - 37h
+
+So. 6. 375 -L
+BL
+0. Will not buy,
+
+X. Vill buy or probably will buy, but price not ascertained
+Y. Not ascertained whether will buy
+
+111 66 G1 How much do you think you will spend for a radio? &~ 1. Vikecord
+{Code will buy, probably will buy end have bougat in 1950) player
+
+8. 750 or over
+
+Os Will not buy
+
+X, Will or probably will buy, but price not ascertained
+Y. Not ascertained whether will buy
+
+111 £363 How much do you think youwill spend for a television set?
+Code will buy, probably will buy and. have bougat in 1950)
+
+2. $1 - 74
+
+3. 75 - 17h
+4. 175 - 27h
+S. 275 - 374
+6. 375 - 47h
+Te L75 - 749
+8. 750 - 999
+
+9. 1,000 or over
+0. Will not buy
+X. Will or probably will buy, but price not ascertained
+
+Y. Not ascertained whether will buy
+Project 59
+
+Question Column
+Number Nurhar
+
+- ar hF eM
+se » - $s ww 8 &
+
+ow much de you think you will spend for furniture?
+Code will buy, will probaoly buy and have bought in 1550)
+
+75 = 17h :
+175 - 27h
+
+275 - 374
+
+375 - 47h
+
+Lis = he
+
+750 or over
+
+0. Will not buy
+
+X+ Will buy or probably will uy, but price not ascertained
+YT. Not ascertained whether will buy
+
+sHow much do you think you will epend for a washing rachine?
+(Code will buy, viii probsbly buy, and have bought in 1950)
+
+« $1-7
+. 75 - 17h
+
+» 175 - 27h
+» 275 - 37h
+
+-375 = Lh
+L75 = 749
+
+‘¢7. 750 or over
+
+WL ed
+111 23
+112 3)
+
+0, Will not buy
+X, Wu buy or probably will, but price not ascertained
+Y., Not ascertained whether will buy
+
+Expects to buy rafrirerator in first or second half of the roar?
+
+l. Tirst half of the year = expects to id
+2. Second half of the year
+
+L. Has already bought IN 1450 PUA oT
+9, Don't now
+
+0, Won't buy
+X, Will buy, not ascertained first or second half of the year
+
+F—
+
+I. Not ascertained whather will buy
+Project 59
+
+Q
+Question Column
+Number Number
+
+12 ve
+n3 hi
+113 «2
+
+-9 - Card VI
+Part II
+
+Expects to buy tolevigion in first or second half of the year?
+
+1.
+2.
+
+Le
+9.
+0.
+L.
+
+I.
+
+Expects to buy - first half .
+Expects to buy - second half
+
+Has already bought in 1950 only
+
+.Dontt know
+
+Won't buy
+
+Will buy, not ascertained whether first or second half of
+the year
+
+Not ascertained whether will buy
+
+That. will happen to prices of automobiles znd other durable
+goods within the next yeer? {
+
+Will go up a lot (11% or more)
+Will go up somewhat (1-10%) (will go up, no indication of
+how much : EE (most the same
+
+© Will stay about the sane (or some highcr, sexe lower) and a few down)
+© Will go down somewh (1-108) {wit J down, no indication
+
+of how. much) Set PETE GT
+11 go dorm a lot (117 or more)
+x Halll toms own
+Undecided ,- dda't know, it depends
+
+Not ascertained
+
+Tactors influencine durable poocds prices
+
+1.
+2.
+3.
+
+L.
+S.
+
+Refers tossupply or demand for antomobiles, physical suppty, output
+Refers to supply or demand for other durables, physical supply, output
+Refers to supply or demand for both automobiles and other
+
+durables, physical suppiy, output .
+Refers to wa~as or other costs of automobiles and/or gurebles {al
+Other explanation, specific to automobiles and/or durables Trndlow)
+(Low priority)
+Refers to general trend of all prices, supply and demand in
+
+general )
+Refers to general trend of wages, oF ner costs y
+Other lanation, in generzl terms (low priority
+
+75 ET (rae ~ fo s-Ffa i £7
+
+No ‘explanation given, but.céded other than X in £5
+
+Not ascertained - coded X in Col. 67
+Project 59
+Question Column
+Number Number
+
+Worksheet 69-70
+
+Ivy
+
+Worksheet 71-74
+
+Iv z
+
+{75-78
+
+- 10 - Card VI
+Part II
+
+Total price of car minus amount received on trade~in
+or sale (if any, otherwise total price)
+
+Code
+
+the amount to nearest $100 ($634 would be coded
+
+06; $1500 would be coded 15, etc.)
+
+00.
+
+0X.
+
+0X.
+oY.
+
+No trade-in (include no car bought, trade-in worth
+more than purchase)
+
+Amount received on trade-in (sale) not ascertained,
+price of car not ascertained
+
+Not ascertained whether traded-in or sale
+Amount less than $50
+
+Net total consumer durable goods expenditures after
+deducting any trade-ins (includes car)
+
+(Code to nearest dollar)
+
+0000.
+Y000.
+X000.
+
+000X.
+
+No items bought
+
+Price greater than $9,995 (record in Y book)
+Large items bought, but price or net outlay
+not ascertained
+
+Not ascertained whether bought
+
+Blank Columns
+
+79-80
+
+Weights
+\/ NY A
+
+vey Research Conter July 12, 1950
+
+.mes K. Dent
+
+Processing of Savings Adjustments
+
+(Foe Sonnqs 3)
+
+Nen=contractval savings: Subtract contractual savings from total savings and
+
+machine a bracket from this dollar amownt. Ths only preblexn to be worked out is
+handling these cases where subtracting contractual savings changes the sign of
+total savings from positive to negative.
+
+Savings Bi
+
+This involves adjusting total savings as follows:
+
+a. Subtract 13% of house value
+
+be. Depreciation (or inercases, in the case of 1549 purchases) in the
+value of the car owned. The amount to be added or subtracted is
+‘the difference between the market value of the car owned in
+January, 19L9 and the market value of the car orned in January, 1950,
+
+(1)
+
+(2)
+
+(6)
+
+Converting these adjustments into action might be done by selecting groups as follows:
+
+For current owners who did not buy in 194% or 1950, subtract
+the difference in market value January, 1349 to January,1950.
+(Special provision for multiple ownzrship)
+
+For roawowners who amed sometime during 15LS but did not buy
+in 1949 or 1950, subtract year age valuz of the car owned.
+For other non-owners -- no adjustment.
+
+Tor current owners who bought in 1250 but did not trade-in or
+sell -- no ad justment {except multiple owners)
+
+For current owners who bought in ,1950 ard traded-in a car
+purchased before 1949, subtract 3 of the trade-in allow.
+or sale price. This latter is not punched and must be Golcr~
+mined be looking at the interviews. (Special orovision for
+multiple owners
+
+For current owners who bought in 1949, add "price minus trade-
+in" znd:
+
+(a) Bought new with no trade-in -~ subtract the change in
+market value February, 1949 to January, 1950 of car now
+ovmed.
+
+(vb) Bought new and traded~in or sold -- subtract 1.1 times
+the change in market value February, 1949 to January, 1950
+of the car now owned.
+
+{¢) Bought used with no trade-in —- subtract } the chanze in
+market value January, 1949 to January, 1950 of the car
+now owned.
+
+(d) Sought used and traded-in or sold —— subtrset 3/h the
+change in market value January, 19L9 to January, 1950 of
+the car now owned.
+Croup
+
+II
+
+III
+
+2 /
+Home Car Approximate Lo
+Ormership Ownership No. of Cards Disposition
+Does not Does not & 1275 Savings B » Savings 4
+own a house did not own
+a car
+Owns a house Does not & hos Savings B = Savings A
+did not om minus 13% of house
+a car value :
+Owns a house Owns or did 1000 Subtract 13% of house
+own a car value and punch it as
+"Savings AB" for fur-
+ther treatment below.
+Does not own Owns or did 900 Punch Savings A in
+
+a house own a car the columns of Savings A
+for further treatment
+
+below.
+
+Combine Groups III and IV and proceed as follows:
+
+v
+
+VII
+
+VIiIl
+
+IX
+
+Select the multiple car owners (approximately 150 cards) and list interview
+number, Savings AB and all car ownership and purchase information. For these,
+Savings B will be computed in the offices of Survey Research Center.
+
+—
+
+From the remainder, select 1950 purchasers {95 cards)
+
+VIa For those who did not trade-in or sell, Savings AB = Savings T.
+VIb For those who traded-in or sold, list as for V above. For tiizss, (80 cards)
+Savings B will be computed in the offices of the Survey Research Center.
+
+From the remainder, select and list those who do not own, but did in 1945
+(50 cards). For these, Savings B will be computed in the offices of the
+Survey Research Center.
+
+For the remainder (1600 cards) punch change in market value, to the nearest
+$50, as determined by make and year model.
+
+Select 1949 purchasers {750 cards) and subdivide as follows:
+
+IXa Bought new and no trade-in (70 cards). Savings B = Savings AB plus
+"price minus trade~in” minus change in market value.
+
+IXb Bought new ard traded-in or sold (270 cards). Savings B = Savings AB
+plus "price minus trade-in" minus l.1 times the change in market value.
+
+IXc Bought used and no trade-in (2LO cards) Savings B = Savings AB plus
+fiprice minus trade-in® minus } of the change in market value
+
+IXd Bought used and traded-in or sold (170 cards). Savings 3 » Sevings Al
+
+plus “price minus trade-in" minus 3/L of the change in market value.
+
+For the remainder of the cards (850) tavings B = Savings AB minus the change
+in market value. :
+\o/ 3 ’
+
+From this, it appears that the following card space is needed:
+
+Number of
+
+_Columns
+Non~contractual savings
+House value 3
+, Savings AB 5
+Car information from other cards 18
+Change in market value 2
+* Savings B and bracket 6
+Total columns needed L0
+
+In the simplified procedural outline above a number of complications are
+ignored. One of those is that if any of the information is not ascertained
+(house value, year model, make, whether owns, whether traded-in, price of car,
+price of trade-in, etc.) > special treatment of the cards is required.
+
+Another complication will arise when the adjustments changes the sign of
+savings. Ib seems probable that discussions with Kurt Benjamin will lead us to
+the conclusion that the best approach is lo convert negaiive savings to "comple
+ments" and then convert back after the computations are finished. This would
+require an additional 10-15 columns of card space.
+
+The outlined procedure is too rough te permit an accurate estimate of costs.
+The following should be considered minimum estimates, since it is impossible to
+predict the problems we will encounter.
+
+Machine
+- § Transfers $ 55.00
+Gang punching change in market value . 20.00
+8-10 Multiplications, subtracticna 250.00
+3 Listings 15.00
+Personnel in S.R.C. 120,00
+
+—SLEC.O0
+
+12 Cross-runs (2 on Mon-contractual S.) 90.00
+Analysis personnel 120.00
+$5670.00
+
+This seems like a heavy price to pay for a dozen cross=runs. Federal Reserve
+assures us that they plan extensive analysis of Savings B after publication of the
+Savings article.
+
+Since T have written the procedure for preparing Savings B, it seems entirely
+in order that I reaffirm my earlier opinion that, for the purposes of studying the
+distribution of savings of spending units, very Tittle of scientific value can be
+stated with assurance as a result of analysis of this concept. My reasons for this
+opinion are as follows:
+
+a. It is questionable that depreciation of owner-occupied homes is re-~
+lated to their savings behavior. Even if it were, there are two
+assumptions in our procedure whi ch require the validity of the
+adjusinent. (1) The choice of 11% can not be verified, This Fig-
+wee drag S's on the average life of houses, which is undoubtedly
+FO IEPIRFIS RS BS I PO NR RI CO I I A
+\’ b= ~~’
+
+{2) Applying 13% to &n alreedy unverificd louse value, whether that
+house be ply—wnod or cut stone, must necessarily introduce biases of
+differing magnitudes and directions at verious points in the distri-
+bution.
+
+b. With respect to cars, the following qualifications apply (1) Change
+in markei value in the uned car market, not only is excessive in
+19hY as compared with replacement cost, Lut more important, is exces—:
+sive in varying amounts in a fashion which is probably correlated
+vith the income and savings disiribution; the chenge in market value
+probably more nearly reflect: the change in replacement cost for
+lower priced cars than for high priced cars. (2) The depreciation
+assuplions for 1949 purchasers (nearly LCT of all owners) are
+strictly "out of the hat” and con not be verified. (3) It is pro-
+bable that halfwa-million cars were sold last year which were not
+reported in the Survey. The questionnaires was noi designed to get
+information about these sales. :
+
+In short, it is my oninion that the mouey and time spend in producing and
+snalyring Savings B would yield a greater return if it were devoted to straigh
+forward analysis of data contained in the questionnaire.
+Survey Ressarch Center Movember 16, 1950
+vam EB. Lansing
+
+Notcu on Rid Llrtheds Ucud dn Computirs Tet toi in
+3 1650 Sura v of Conswoar Maunce
+
+Tha actual calsulailion of 12% worth proved to bg & eomplicsics operation, bul
+
+tho concepiion woca is simply tha algstraic sum of he fotlening pr trbces
+
+1. otal Lqu 1d sesota .
+
+2, valza of hows or fara
+
+3. walung of aulcacbils
+
+4e value of other real ezlate
+
+5 value of stocks and Lords
+
+60 dmteérest in a busivszs
+
+7+ value of livestock and crops
+
+8, total debt
+Of tha abeve ideas all rewrszent estizatas given 20 us by
+the value of the utorotian, vinich was given to wo by the rovmon :
+automoblio was purchacec in 3949 or In 1950 pudor to tho inderviow,
+
+The completly of the calaulations arose cl hiefly from the fact
+5 apd © wore askcg only In brasketl. Tho Pinal wesuls, Santer, Ed
+braciots, and oho fell verse of tho information wa pocsussed had
+mindvdiss the orror froa uolng tho Draciots. Fumilior comdiicchi
+by the problen of valulnz tho sutss (as just mentioned) and by vhs rood 50 PE
+the not sscertaincd casos effislently,
+
+The steps used wore 3 follows
+
+VYalua of 1. We obicined from tha Federal Reserve Boaxd a teLis showing otis
+autos mated market values of automobiles ty make end years A cisy Lig
+
+attached as Table 1 of this memorandum,
+
+2, We sortsd out the spordinz units owning mows tha ome cur avd
+caloutated the “otal valve of autos cwne Individually for cach
+such spending unit, to the nsarest £100.
+
+3. For cars bought in 1950 by spending urdis ming oaly ore car we
+used the price of thai car to the nearest £100.
+
+Lo We sgoritcd dom tha renzaining car cimers acgording Lo mile und
+year model and punched hs result obtained from Ghe tabis mei
+tioned in Ls ‘
+
+SU. 1a wiry 5. .If 2 srendinz unid has no dest and holds any sesoy valued al
+
+po cob 325,C00 cr mora, oowicusly ths net worth of the spemdiny undid io
+
+pk etua— EA FR
+Ad
+
+7 2 <
+in the brackst $125,000 or more. Tudiny advanioge of whist fac
+wo punched the gross and rst worth brackovs directly for a
+spending units meeting those twe conditions.
+
+Hah lg 6.  Uoow Urn rozsinizny cords iz selected oil thosy Jor hon any ne
+worth itca was not kiuowm and punched thew as not asceritaiusd iv
+the net worth column. This group was i oc Loted and soatie
+
+nizad to ses if any could be salvaged
+—lo-
+pL — p—
+
+To In oxide 55 hindls the Jorg nuwcser of holders of voliliend real
+astats, 150 of the populistion, woe assigns 7 wo zsh
+bracket xcept tha top bracket, which vas hardlied soperately,
+The nsthed used was graphic approcdimation of modicum: using cuse
+
+ative frequencies plottcd on sewi-log papers Tia valucs fouad
+were as follows:
+Brackeh mounds Apount sondior—4d
+Gadar £1,000 $5C0
+£1,000 ~ 4,999 22,200
+25,000 ~ 24,559 $11,000
+8. The valnos thus found wers punched in the cards,
+
+9. Similar methods wore used for the bracket codss fos valu of
+stocks and bonds and for cmership of a businzsz. Here, hevzver,
+the values fourd wero rot runchad 2ad were used andy if nocstnoive
+Instead each individual cass was examined vii ia aid of 8 1iote
+ing ani uwawally alsc of the interview itcelf 0 bitzy all evoile
+able informstion to boar on thie assignzent of Lic aod morta
+
+Borainins
+
+10.
+
+bracket.
+
+(In come cases inficrmation not coded wpoears on 4
+
+interviews.) The values used for the medians wira as follcoiss
+
+Stogk % bond broclobs Amount noog
+Under 500 $250
+2500 - 699 676
+21,000 - 4,959 82,140
+Brackets for interest
+
+in business Amour vord
+Under $2,C00 $500
+£1,000 - 4,959 %1,087
+425,000 - 99,999 $51,350
+
+hase net worth was not calculated as indicsted in 3, 6, 7, and
+
+9 above, the method was to add all assets by uaching ond Clb
+tract by machine the total debt to yiz2ld net worta In dolisr
+amounts. Brackets were then machined, both for groze wortd and
+for met worthe
+£0 me gs
+LATE Rat
+
+TLIR EM
+£7 ymIT maT
+~~
+Ard canit- Ta)
+
+ET eT mney
+
+Ly mio
+
+Ey 8 phy prs Pye
+Ty EFT
+
+fT a ‘07, -SETONT
+£7 g=ICTFE
+
+LT =R02ETy
+f7a=Rl08
+O7y=cripeg
+
+C7 y= 00n]
+
+aad
+
+07 y=IZIMa07n9g
+
+rd
+
+TH ~OoTTITET
+
+[3 [&)
+F7s-marTaTy
+07 =0°TTTEDD
+
+Coo
+
+ZV =0TTIVC
+
+SV ~ETTOCTARTO
+g7smbmoteg
+Z7,=CTOSETI
+&ry=tacseg
+
+TV mITRAI)
+
+TTyOTg
+
+TY 1 ~0BT3N0,
+Z7=unneniry
+TV =pDaenony
+
+TV =o FasTonTo
+T7~Eanoaan
+T7s=cipoy
+
+TV =et052q
+
+Tr e=2oTein
+C74 TONATYY
+T7¢=5Ting
+
+6&7 =faveary
+
+TY 3 ~ETTCRpRg
+7 euptoudig
+£7 ,=preoeg
+CH y=ueny
+TT —GTosUY]
+Cy=Rospry
+TV e=PI0J
+Tr y=2lipeq
+T7120TOIASY)
+6% =D H fy 132 524}
+7 -oTNg
+
+[4D Ry
+
+Oy ~2LTTIN
+
+TT gm,
+OF y= i010,
+OF y=usnC Aig
+07 (=~CTIAon TO
+TVs=usoy
+OF smimoter;
+TV s=DI0g
+07~e3poy
+07 3=02083]
+OF (=~1TT24AT)
+O74 ~2ETOIABYD
+
+cu9%
+
+gr =£o1803)
+7 =2ATTT,
+
+Oy ~xox=gepmig
+
+Z1~08 TIO
+
+Cy =pIoo8d
+
+HE 1=5TIQOUSTTO
+07¢=~15EN
+6C~Lanaray
+TV: “0%, ~Bospry
+62~3dpog
+
+62 =03058q
+
+6S ~23TLND
+6S—oTRg
+
+Coos
+
+Ls ‘om ~Loteoay
+
+T7-24TTTA
+
+65) -Tormaerieg
+£2,=08T2u0d
+
+6F p= 3n0uUlT
+E£CsprENheg
+£La™CLIOPWUSPTO
+6S use
+
+BE ~TrotTT
+07,°65,y~pi0g
+£2 y~elipog
+
+87 -01c5e(
+
+EC ~IoTRATI)
+GEy=2eTOTADYY
+BE =0TTT TEED
+£2 =oTng
+
+oR
+
+6761 Suwrg
+
+Sulla TIVIEN FOVHTAY QOinssy
+
+T Fiqey
+
+ov~2LITT
+
+£5 I0XTARNS
+C4 =0UTU0y
+
+F529 Dag $42 To P20
+LE: °9¢ y=prenory
+{Ey ~ITTQCUSPTO
+821 “45 uss
+8% “LL y=UTOoUTY
+621 “5Cy=vospry
+£2i~prog
+
+LE =e2pog
+LEy~0n052]
+
+LE ~zBTRAIUD
+E€4 “LE =30TORABLY
+LE s=onTTIPRD
+L841 595 —3oTg
+
+TOES
+
+674 “2Cs~EATIEN
+74 "1744578030
+Loi f9g~tonaaopneg
+Of ;=2pTRtog
+£51998) ~TonoThTd
+Qf ~STTAOTSPTO
+oC ,~usey
+
+Of y~tToouTT
+
+45s fog =a0spng
+{81°98 ~n204
+
+oz y~edpog
+
+of j~oj05ed
+
+of =IoToLn)
+
+OF ;=35TCLARYD
+£4=32TTIPRD
+
+oS
+
+LE 59C=eATTTA
+07, °6¢ y=LoTeoxn
+
+Tots
+22.000 22,600
+DaSoto-148 Cadillac=*47
+Frazorei/?
+Kalgerwt.9 82.509
+Llincola~*48
+
+Hoproury=149
+
+Oldasobilo- 149
+
+Pontiag=149 23.020
+2.202 Lincoin-'49
+Bulck~*43,149 83,260
+DaSob ow? 4D :
+Fudson-143, 49 Cadillae~$48
+Xash='49
+
+Packard=148 23,.00
+8,400 Cadillac~'49
+Frazer=t;9
+
+Packard=*49
+Research Center
+
+Janvwary 1520
+
+Project
+
+CARD VII
+Savings
+Question Column
+Number Number
+1-2 Study Number (59)
+3 Card Nerrer (7)
+L-7 Interview Nurber
+worksheet 8 Miscellaneous Saving, in class intervals
+111, "net
+ miscel=* 1. Plus $1,000 or over 5. Minus $1 - 199
+dane- 2. Plus $500 - 999 6. Minus $200 - L5%
+ous 3. Plus $200 - 499 7. Minus 550) - 999
+saving" » Plus $L - 199 8. Minus $1,000 or over
+0. Zero
+
+¥. Amount of miscellanecus saving not ascertained
+
+Y. Not ascertained
+
+worksheet 9-12 Increase in instalment indebtedness resulting from purcha.zs
+
+III P in 1949
+
+-
+Code amount in dollars
+
+19,929
+
+0000. No increase in indebiedn€ss from 19L5 purcizses
+
+Y000. Increase greater than £9853 (record in Y took)
+
+X000. Amcunt of increase not ascertained
+
+000X. Not ascertained whether has increase in instalment ine
+debtedness resulting from borrowing in 1947
+
+worksheet 13 Direction of change in total consumer indebtednzss
+III
+Qp or %, - 1, DECREASE in indebtedness (plus sign)
+
+2. INCREASE in indebtedness (minus sign)
+
+0. No change
+
+X. Not ascertained whether increase or decrease
+Project 59
+
+Question Column
+Number Number
+
+Worksheet 14-17
+III
+
+Q,or Q,
+
+Worksheet 18
+III
+
+8 or 5,
+
+Worksheet 19-22
+III
+
+8,01 5,
+
+Worksheet 23-26
+IIT T
+
+-2- Card VII
+
+Change in total consumer indebtedness
+
+(Cases in which amount exceeded the field listed by
+interview number at end of codebook)
+
+(Code amount in dollars)
+
+0000. No change in consumer indebtedness (zero amount)
+
+Y000. Change greater than $9,999
+
+X000. Amount of change not ascertained
+
+000X. Not ascertained whether has change in total
+consumer indebtedness
+
+Sign of business savings
+
+1. Positive
+2. Negative
+
+0. No business savings, farm schedule
+X. Sign of business savings not ascertained
+Y. Not ascertained whether has business
+
+Business Savings
+
+(Cases in which amount exceeded the field listed by
+interview number at end of codebook)
+
+(Code amount in dollars)
+
+0000. No business savings
+Y000. Business savings greater than plus or minus
+
+X000. Amount of business savings not ascertained
+000X. Not ascertained whether has business savings
+
+Contractual saving (worksheet) (always positive)
+
+(Cases in which amount exceeded the field listed by
+interview number at end of codebook)
+
+(Code amount in dollars)
+
+0000. Contractual savings zero
+
+Y000. Contractual savings greater than $9,999
+X000. Contractual savings not ascertained
+
+000X. Not ascertained whether saved contractually
+Project 59
+
+Question Column
+Number Number
+
+Worksheet 27
+III U
+
+28
+
+Worksheet 29-33
+IIT U
+
+Worksheet 34-35
+IIT V
+
+-3- Card VII
+
+Sign of total savings (savings A)
+
+1. Positive savings
+
+2. Negative savings
+
+3. Not due to accrual only but may be due to
+accrual on AF bonds; Positive savings due to accrual
+in AF bonds
+
+0. Zero savings
+
+X. Sign of savings not ascertained
+
+Is the amount of savings (or dissavings) coded
+in Cols. 29-33 assigned?
+
+1. Yes, amount coded is assigned
+5. No, amount coded 1s not assigned
+
+9. N.A.
+
+Amount of savings or dissavings (savings A)
+
+Code amount in dollars
+
+00000. Zero savings
+
+Y0000. Amount greater than $9,999
+X0000. Amount not ascertained
+
+Proportion of income saved and dissaved in all forms
+
+(Code percent [for sign see Col. 27])
+
+00. No saving (zero savings); no income or negative
+income
+Y0. Proportion of dissaving greater than 997%
+X0. Proportion of income saved or dissaved not ascertained
+Project 59 -4 - Card VII
+
+Question Column
+
+Number Number
+Worksheet 36-39 Residual expenditures
+IV AA
+(Cases in which the amount exceeded the field
+listed by interview number at end of codebook)
+Code amount in dollars
+Y000. Residual expenditures greater than $9,999
+X000. Residual expenditures not ascertained
+Worksheet 40 Residual expenditures as 7 of disposable income
+IV BB
+1. 1% - 19%
+2. 20% - 39%
+3. 407 - 49%
+4, 50% - 59%
+5. 60% - 69%
+6. 70% - 79%
+7. 80% - 89%
+8. 90% - 997
+9 100% or over
+0. Zero; no disposable income, negative disposable
+Worksheet 41 Savings as Z of disposable income
+Iv
+DD, or DD, Plus 50Z or more
+
+1
+
+2. Plus 30% - 497%
+3. Plus 20% - 29%
+4, Plus 10Z - 19%
+5 Plus 1% - 9%
+
+6. Minus 17 - 9%
+7. Minus 107% - 247%
+8. Minus 25% or more
+
+0. No savings or dissavings; no disposable income;
+negative
+
+X. Percent of disposable income saved not ascertained
+Project 59
+
+Question Column
+Number Number
+
+Worksheet 42-43
+Iv EE
+
+44
+
+45
+
+-5- Card VII
+
+Life insurance payments as % of disposable
+income (under 1% coded as 1%)
+
+{Code percent)
+
+00.
+Xo.
+0x.
+
+No payments, zero or negative income
+
+Percent not ascertained
+
+Not ascertained whether made payments for life
+insurance
+
+Increase in instalment indebtedness resulting from
+purchases in 1949, in class intervals
+
+1.
+2.
+3.
+4,
+5.
+6.
+
+qa.
+
+X.
+
+YX.
+
+$1 - 199
+200 - 499
+500 - 999
+
+1,000 - 1,999
+2,000 - 4,999
+5,000 or over
+Zero
+
+Amount not ascertained
+
+Not ascertained whether increase
+
+Change in consumer indebtedness, in class intervals
+
+Debts increased
+
+3.
+4,
+
+Minus 51 - 199
+Minus $200 - 499
+Minus $500 - 999
+Minus $1,000 or more
+
+Debts reduced
+
+Plus $1 - 199
+
+Plus $200 - 499
+Plus $500 - 999
+Plus $1,000 or more
+
+No change in indebtedness
+Change in indebtedness not ascertained (see Cols. 14-17
+
+for dollar amount of change in indebtedness)
+N.A. whether has change in indebtedness
+Project 59
+Question Column
+Number Number
+46
+47
+
+- 6 - Card VII
+
+Business Savings, in class intervals
+
+Y.
+
+$10,000 or more
+$5,000 - 9,999
+
+$3,000 ~ 4,999
+
+$1,000 - 2,999
+
+$500 ~ 999
+
+$1 - 499
+
+Minus $1 - 499
+Minus $500 or over
+
+No savings
+
+Business savings not ascertained (see Cols.
+
+for dollar amount of business savings)
+N.A. whether has business savings
+
+Contractual saving, in class intervals
+
+1.
+2.
+3.
+4.
+5.
+6.
+
+$1 - 199
+$200 - 499
+$500 - 999
+
+$1,000 - 1,999
+$2,000 - 4,999
+$5,000 or over
+Zero
+
+Amount not ascertained
+
+19-22
+
+Not ascertained whether has contractual savings
+(see Cols. 23-26 for dollar amount of contractual
+
+savings)
+Project 59
+
+Question Column
+Number Nuroer
+
+48
+
+49
+
+50°
+
+-7- Card VII
+
+Total Savings A in class intervals
+
+1. Plus $2;000 or more .
+2. Plus $1,000 - 1,999 -
+3¢ Plus $500 - $99 :
+
+Le Plus $200 = L499
+
+5¢ Plus $100 - 199 -
+
+6s Plus $1 - 99
+
+7. Minus $1 = 99
+8, Minus $100 - L499
+9¢ Minus $500 or more
+
+O0« No saving or dissaving
+
+Xs Amount of saving not ascertained
+
+Savings A as % of income, in class intervals
+
+1. Plus 50% or more
+2. Plus 30 - Log
+
+3. Plus 20 = 29%
+
+he Plus 10 = 19%
+
+5. Plus 1 - 9%
+
+6: Minus 1 = 9%
+I: Minus 10% - 24%
+« Minus 25% or more
+
+0. Neither savings nor dissavings oe income or negative income
+X. Proportion of income. saved not ascertained
+
+fendngt expenditures, in class intervals
+© Bw - 199
+
+- 999
+
+. £3000 - 1,499
+
+£17600 - 1,999
+9s 32,000 - 2,999
+6: 53,000 - 3,999
+7. 84,000 = 1,599
+8, 85,CCO - 7,499
+9. $7,500 or over
+
+0. Zero
+
+X. Not asserts inzd (sze Cols, 35-38 for dollar snount of
+oi wal [a3 - at snes)
+
+iy fron? oud IL eZ ooo <, 35-32
+
+Es <1 a ae 3)
+
+& ne
+Project 59 - 8 - Card VII
+
+Column
+Number
+
+oe Blank Columns
+
+79-80 Weights
+
+Survey Research Center January, 1950
+
+Question Column
+Number Number
+
+125 8
+
+130 10-14
+
+Project 59
+
+CARD VIII
+
+Liquid Assets Code
+
+Study Number (59)
+Card Number (8)
+
+Interview Number
+
+Do you keep the bonds and bank accounts of your business
+separate from your personal funds? Onlv for self-emploved
+
+1. Separate (non-professional)
+2. Not separate (non-professional)
+
+3. Separate (professional)
+4. Not separate (professional)
+
+5. DK (professional)
+9. Don't know
+
+0. Not applicable (R is not self-employed business
+
+man)
+
+X. Not ascertained whether keeps business accounts
+separate
+
+Y. Not ascertained whether R is self-employed
+businessman
+
+Is the amount of present holdings in Series A-F Bonds
+coded in Cols. 10-14 assigned?
+
+1. Yes, amount coded is assigned
+5. No, amount coded is not assigned
+
+9. N.A.
+
+Present holdings in Series A-F Bonds
+
+(Code amount in dollars)
+
+00000. Has no Series A-F Bonds
+
+YO000. Series A-F Bonds exceed $199,999 (Record in Y bank)
+
+X0000. Dollar amount of Series A~F Bonds not ascertained,
+but has A-F Bonds
+
+0000X. Not ascertained whether has Series A-~F Bonds
+Project 59
+
+Question Column
+Number Number
+
+128 & 129 15
+also 131
+
+16
+
+-2- Card VIII
+
+A-F bond transactions in 1949
+
+1.
+
+2.
+
+SU bought some bonds during year and did not
+
+receive money from cashing or maturing of his bonds
+
+SU received money from cashing or maturing of bonds,
+but did not purchase any new bonds
+
+SU purchased bonds and also received money from
+cashing or maturing of bonds
+
+SU owns bonds but neither purchased bonds nor received
+money from either cashing or maturing of bonds
+
+Held no bonds at beginning of 1949; holds none now
+
+and neither purchased nor sold bonds during 1949
+Transactions during 1949 not ascertained, but had
+transactions
+
+Not ascertained whether had 1949 A-F bond transactions;
+not ascertained whether has A~F Bonds now or year ago
+
+Current value of Series A~F Bonds which matured or were
+cashed in 1949, in class intervals
+
+$1 - 49
+
+$50 - 99
+$100 - 199
+$200 - 399
+$400 - 499
+$500 - 999
+$1000 - 1499
+$1500 - 1999
+
+$2000 and over
+No A~F Bonds matured or cashed; has no A-F Bonds
+
+A~F Bonds matured or cashed, but amount not ascertained;
+NA whether borrowed in 1949
+
+Not ascertained whether A-~F Bonds matured or cashed;
+not ascertained whether has A-F Bonds now or year ago
+Project 59
+
+Question Column
+Number Number
+
+130 or 131 17
+
+130-131 18-19
+
+-3- Card VIII
+
+Year ago holdings in A~F Bonds in class intervals
+
+1. $1 - 199
+
+2. $200 - 499
+
+3. $500 - 999
+
+4, $1000 - 1999
+5. $2000 - 4999
+6. $5000 and over
+
+0. Had no Series A-F Bonds a year ago
+
+X. Amount of A-F Bonds not ascertained, but had A-F
+Bonds a year ago
+
+Y. Not ascertained whether had A-F Bonds year ago
+
+Change in holdings of A~F Bonds since a vear ago
+
+11. Has A-F Bonds now, no change in holdings since a
+year ago (because accrued interest cancelled out
+by sales of bonds) or because of small value of
+holdings
+
+A-F Bond holdings increased:
+
+21. Increase of $2000 or more
+
+22. Increase of $1000 - 1999
+
+23. Increase of $500 - 999
+
+24, Increase of $200 - 499
+
+25. Increase of $1 - 199
+
+2X. Increase, but amount of increase not ascertained
+26. Increase due to accrual only, over $200
+
+27. Increase due to accrual only, one dollar to $199
+
+A-F Bond holdings decreased:
+
+31. Decrease of $1 - 199
+
+32. Decrease of $200 - 499
+
+33. Decrease of $500 - 999
+
+34. Decrease of $1000 - 1999
+
+35. Decrease of $2000 or more
+
+3X. Decrease, but amount of decrease not ascertained
+
+00. Holds no A-F Bonds now and held none a vear ago
+
+XX. Holds A-F Bonds now, not ascertained whether holdings
+increased since a year ago
+
+YY. Not ascertained whether has bonds now; not ascertained
+whether had Bonds a year ago
+Project 59
+
+Question Column
+Number Number
+
+20
+
+132, 133 21-23
+
+Total 24
+after
+Q. 124
+
+-4 = Card VIII
+
+Is the amount (present holdings in U.S. Bonds paying
+interest currently) coded in Cols. 21-23 assigned?
+
+1. Yes, amount coded is assigned
+5. No, amount coded is not assigned
+
+9. N.A.
+
+Present holdings in U.S. Bonds paying interest
+currently
+
+(Code amount to nearest $100, e.g. if amount = $7,900,
+coded as $079)
+
+000. Has no government bonds paying interest currently
+
+Y00. Holds $199,950 or more in these bonds (Record in
+Y-book)
+
+X00. Holds such bonds, amount not ascertained
+00X. Not ascertained whether holds these bonds
+
+Total of all present bond holdings--both A~F and bonds
+paying interest currently
+
+$1 - 199
+
+$200 - 499
+$500 ~ 999
+$1000 - 1999
+$2000 - 4999
+
+. $5000 and over
+
+[o BNW BER VL IL
+
+Has no bonds of either type
+
+X. Amount of either or both types of bonds not ascertained,
+but holds either or bohh
+
+Y. Not ascertained whether has either or both types of
+bond
+Project 59 -5- Card VIII
+
+Question Column
+
+Number Number
+Difference 25 Change in holdings of interest-paying government
+between bonds since a year ago
+Q. 133
+& 1. Increase of $10,000 or more
+Q. 134 2. Increase of $5000 - 9999
+3. Increase of $1500 - 4999
+4, Increase of $1 - 1499
+5. Has such bonds, no change in holdings
+6. Decrease of $1 - 1499
+7. Decrease of $1500 - 4999
+8. Decrease of $5000 - 9999
+9. Decrease of $10,000 or more
+0. Has no interest-paying government bonds now, had
+none a year ago
+X. Change in holdings of these bonds not ascertained
+Y. Not ascertained whether now has or had such bonds
+a year ago
+135 & 136 26 Types of savings accounts held
+1. In bank only
+2. Only savings accounts other than bank
+3. Both
+0. Has no savings accounts
+Y. Not ascertained whether has either or both types of
+account
+27 Is the amount (present holdings in Savings accounts)
+
+coded in Cols. 28-32 assigned?
+
+1. Yes, amount coded is assigned
+5. No, amount coded 1s not assigned
+
+9. N.A.
+Project 59
+Question Column
+Number Nurnar
+137 28-32
+1S
+After 34
+Q. 139
+137
+) 38
+
+-6- Card VIII
+
+PRESENT holdings in savings accounts (including eredit union
+building and loan, and postal savings accounts) :
+
+(Code amount in dollars)
+
+00000. Has no savings account
+
+Pr
+
+YCOOD. Has more than {R353 in savings account (s)
+
+(Record in T-book)
+
+X0000. Amount in savings account not ascértained, but has
+
+savings account
+
+0000X. Not ascertained whether has savings account
+
+Year =zrs holdinrs in savings accounts, in class intervals
+
+(including wyges listed apove)
+
+1.
+2.
+3.
+ks.
+S.
+
+o.
+
+Xe
+Y.
+
+81 - 199
+
+3200 - L499
+4500 - 999
+£1000 - 1999
+£2000 and over
+
+Had no savings account last year
+
+‘Had such account, amount not ascertained
+
+Not ascertained whether had such accounts
+
+Change in holdings of all savings accounts 5 (as above) since
+
+year ago Lo SR
+
+1.
+2.
+3.
+L.
+
+Se.
+
+Increase of $1000 or more
+Increase of #500 - 959
+
+Increase of $200 - 499
+
+Increase of 21 - 199
+
+Has such accounts but amount has not changed since a year
+ago
+
+Decrease of 31 ~ 199
+Decrease of $200 - 499
+Decrease of $500 = $99
+Decrease of $1000 or more
+
+Had no such account now and had none a year ago
+
+Amount of change not ascertained, but now has savings account
+Not ascertained whether has or had such account
+Project 59
+
+Question Column
+Number Number
+
+35
+
+140, 141 36-40
+
+142, 143 41
+
+141, 142, 42
+143
+
+-7- Card VIII
+
+Is the amount of present holdings in checking
+account coded in Cols. 36-40 assigned?
+
+1. Yes, amount coded is assigned
+5. No, amount coded is not assigned
+
+9. N.A.
+
+PRESENT holdings in checking account (dollar amount)
+
+(Code the amount in dollars)
+
+00000. Has no checking account
+
+Y0000. Holdings in checking account greater than $199,999
+(Record in Y-book)
+
+X0000. Amount of holdings in checking account not ascertained,
+but has checking account
+
+0000X. Not ascertained whether has checking account
+
+Holdings in checking account a year ago, in class
+intervals
+
+1. 51 - 199
+
+2. 3200 - 499
+
+3. $500 - 999
+
+4, $1000 - 1999
+5. $2000 or over
+
+0. Had no checking account a year ago
+X. Amount in checking account not ascertained, but had
+checking account a year ago
+
+Y. Not ascertained whether had checking account a year ago
+
+Change in holdings in checking account since a year ago
+
+1. Increase of $1000 or more
+2. Increase of $500 - 999
+
+3. Increase of $200 - 499
+
+4, Increase of $1 - 199
+
+5. Has checking account, but holdings have not changed
+since a year ago
+
+6. Decrease of S1 — 199
+
+7 Decrease of $200 - 499
+
+8. Decrease of $500 - 999
+
+9. Decrease of $1000 or more
+0
+X
+
+Has no checking account now and had none a year ago
+Change in checking account not ascertained
+
+Y. Not ascertained whether has or had checking account
+Project 59
+Question Column
+Number Number
+143 43
+Right
+Hand
+Entry
+
+44
+143 45-49
+Left
+Hand
+Entry
+
+Card VIII
+
+Total liquid asset holdings a year ago, in class
+
+intervals
+
+1. $1 - 199
+
+2. $200 - 499
+
+3. $500 - 999
+
+4. $1000 ~- 1999
+
+5. $2000 - 4999
+
+6. $5000 - 9999
+
+7. $10,000 - 24,999
+
+8. $25,000 or over
+
+0. Had no liquid assets a year ago
+
+X. Amount of total liquid assets a year ago, not ascertained
+Y. Not ascertained whether had liquid assets year ago
+
+Is the amount of present total liquid asset holdings
+coded in Cols. 45-49 assigned?
+
+1.
+3.
+
+9.
+
+Yes, amount coded is assigned
+No, amount coded is not assigned
+
+N.A.
+
+Present total liquid asset holdings (dollar amount)
+
+(Cases in which amount exceeded the field listed by
+interview number at end of codebook)
+
+(Code amount in dollars)
+
+00000. Has no liquid assets
+
+Y0000. Holdings of liquid assets larger than $99,999
+(Record in Y-Book)
+
+X0000. Amount of liquid asset holdings not ascertained,
+but has liquid assets
+
+0000X. Not ascertained whether has liquid assets
+Project 59
+
+Question Column
+Number Number
+Bottom 50
+P. 13
+Worksheet 51-55
+III
+
+56
+Bottom 57
+P. 13
+
+-9 - Card VIII
+
+Sign of change in total liquid asset holdings
+
+Positive, not due to accrual only but may include
+accrual
+
+Positive, due to to accrual on A-F Bonds only
+Negative
+
+No change in total liquid assets
+
+Direction of change not ascertained, NA whether
+had liquid assets
+
+Total change in liquid asset holdings since a year ago
+
+(Code the amount in dollars)
+
+00000. No change
+
+Y0000. Change larger than $99,999 (Record in Y-book)
+X0000. Amount of chance not ascertained
+
+0000X. Not ascertained whether had liquid assets change
+
+Change in total liquid assets due to accrual only
+
+I oN
+
+Accrual omly, $1 - 199
+
+Acerual only, $200 or over
+
+No change, decrdase, increase not due to accrual only
+Change in liquid assets N.A.
+
+Report on bank book (see also thumbnail sketch)
+
+1.
+
+2.
+
+Sw
+PI
+
+Asked to look up and did; locked up without being
+
+asked
+
+Did not look up bank book, but was asked by interviewer
+to do so
+
+Was not asked to look up bank book
+
+Not ascertained whether interviewer asked respondent
+
+to look up bank book, but R did not look up bank book
+Bank book irrelevant (no bank account now and no
+
+bank account a year ago) (also code 0 in Col. 52, if ©
+is coded here)
+
+Not ascertained whether looked up bank book
+Project 59
+Question Column
+Number Number
+58
+144, 145 59-60,
+61-62
+
+- 10 - Card VIII
+
+Reasons for refusal to look up bank book (also see thumb-
+nail sketch)
+
+1. Respondent annoyed by request, refused and indicated
+he shouldn't have been asked
+
+2. Data not available; books kept at bank or somewhere
+else than at home; respondent willing, but lost
+necessary data
+
+3. Books at home, but hard to get out, respondent in hurry,
+didn't want to look for them
+
+4. Respondent says he is sure of figures, not necessary
+to refer to books
+
+5. All other responses
+
+0. Not applicable; did not refuse, or no reason given
+by interviewer for refusal
+
+X. Reason not ascertained; not ascertained whether looked
+up, or whether asked to look up
+
+Purposes for which liquid assets were used in 1949
+
+11. Living expenses (including food, clothing, other
+non-durables)
+12. Hospital, medical expenses, death, birth, sickness
+
+21. Repairs, remodeling of house, addition to house
+22. Luxuries (travel, amusements)
+23. Education
+
+24. Taxes
+25. Car repair and repair of other durables
+26. Moving
+
+31. Car purchase
+32. Purchase of other durables (furniture, household
+appliances, etc.)
+Project 59
+
+Question Column
+Number Number
+144, 145 59-60,
+61-62
+(cont.) (cont.)
+Worksheet 63
+H
+
+- 11 - Card VIII
+
+Purposes for which liquid assets were used in 1949 (cont.)
+
+41.
+42.
+
+43.
+44,
+45.
+46.
+47.
+
+51.
+52.
+
+61.
+
+77.
+
+XX.
+Ivy.
+
+Payment of debts, (mortgages, personal loans, etc.)
+Investment in real estate (house, farm~-do not include
+if purchaser plans to live in it)
+
+Investment in business (not including farm)
+
+Investment in securities
+
+Bought or built house io live in
+
+Other investment
+
+Loan to family
+
+Farm operating expense, machinery, other farm purposes
+Purchased farm for owner operation
+
+Gifts, purchase of annuities, setting up trust
+Other
+
+No reason given; no second reason; did not reduce
+
+total liquid assets; had no liquid assets last at
+beginning of 1949
+
+Purpose for which liquid assets reduced not ascertained
+Not ascertained whether liquid assets reduced
+
+Percentage change in liquid assets
+
+Had no liquid assets a year ago, has some now
+(infinite % increase)
+
+Increase of 100% or more, e.g, 220% on worksheet
+125% = 199%
+
+105% - 124% 100 subtracted from
+96% - 101% Figure in H
+
+76% - 95%
+
+19% - 75%
+
+0
+
+Has none now and had none a year ago
+
+% change in liquid assets not ascertained, but had
+change since a year ago
+
+Not ascertained whether has or had liquid assets
+Project 59
+Question Column
+Number Number
+
+64
+
+65
+
+66
+
+- 12 - Card VIII
+
+Present holdings in A-F Bonds in class intervals
+
+$1 - 199
+
+$200 ~ 499
+$500 - 999
+$1000 - 1999
+$2000 - 4999
+$5000 and over
+
+Has no series A-F Bonds
+Amount of A-F Bonds
+Not ascertained whether has bonds
+
+Present holdings in U.S. Bonds paying interest currently,
+in class intervals
+
+1.
+2.
+3.
+4.
+5.
+6.
+
+Xx.
+Y.
+
+$1 - 199
+
+$200 - 499
+$500 - 999
+$1000 ~- 1999
+$2000 - 4999
+$5000 and over
+
+Has no interest-bearing bonds
+Amount of interest-bearing bonds not ascertained
+Not ascertained whether has bonds
+
+Is the amount (present holdings in savings accounts,
+including credit union, building and loan, and postal
+savings accounts) coded in Col. 67 assigned?
+
+1.
+5.
+
+9.
+
+Yes, amount coded is assigned
+No, amount coded is not assigned
+
+N.A.
+Project 59
+
+Question Column
+Number Number
+
+136-137 67
+
+68
+
+140, 141 69
+
+70
+
+- 13 - Card VIII
+
+Present holdings in savings accounts, including
+credit union, building and loan, and postal savings
+accounts, in class intervals
+
+1. $1 - 199
+
+2. $200 - 499
+
+3. $500 - 999
+
+4, $1000 - 1999
+5. $2000 - 4999
+6. $5000 and over
+
+9. N.A. whether has savings accounts
+0. Has no savings account
+
+Is the amount of present holdings in checking account
+coded in Col. 69 assigned?
+
+1. Yes, amount coded is assigned
+5. No, amount coded is not assigned
+
+9. N.A.
+
+Present holdings in checking account, in class intervals
+
+1. $1 - 199
+
+2. $200 - 499
+
+3. $500 - 999
+
+4. $1000 - 1999
+5. $2000 - 4999
+6. $5000 and over
+
+0. Has no checking account
+9. N.A.
+
+Is the amount of present holdings in total liquid assets
+coded in Col. 71 assigned?
+
+1. Yes, amount coded is assigned
+5. No, amount coded is assigned
+
+9. N.A.
+Project 59 - 14 - Card VIII
+
+Question Column
+
+Number Number
+71 Present holdings in total liquid assets, in class
+intervals
+1. $1 - 199
+
+2. $200 - 499
+
+3. $500 - 999
+
+4, $1000 - 1999
+
+5, $2000 - 4999
+
+6. $5000 - 9999
+
+7. $10,000 - 24,999
+8. $25,000 and over
+
+0. Has no liquid assets
+X. Amount of liquid asset holdings not ascertained
+
+SN Y. Not ascertained whether has liquid assets
+72-78 Blank Columns
+
+79-80 Weights
+
+Survey Regsearen Center Jaguazy 1623
+CARD IX
+Other Dsbts, Other Assets
+
+Question Column
+Number Number
+
+1-2 Study Number (59)
+
+3 Card Number (9)
+
+L-? ‘Interview Number
+
+11) 8 Instalment debt on non-durables (sporting gecds, clothing,
+: Jewelry)
+l. Yes
+5 No
+
+9. Uncertain, don't know
+
+X. Not ascerrained whether has instalment debt
+
+115 9 Instalment debt still owed that was incurred hofowe 1049
+1, Yes
+5. No
+
+9. Uncertain, don't know
+X. Has debt, not ascertained whether incurred telore 15L9
+Y., Not ascertained whether has instalment del
+
+116 10 Honey owed on loans from a bank, loan company, or private
+individual
+
+l. Yes
+Ss. No
+9. Uncertain, don't know
+
+X. No% ascertained
+".
+Torey ceod en lonnTow insurance mslicy
+
+EY Yes
+3. No
+
+9. Uncertain, don't know
+
+X. Not ascertained whether monay owed on insurance policy loan
+
+118 12-1L Total owed on purchases or leans in dollar amounts (If Yes in
+Col. 8, 22 10, or 11)
+
+Code amount to nearast $100
+
+000. Yo amount owed 199,45 156
+I00. Anount owed is greater than §uiET (record in Y beok)
+i000, loney owed but amount not ascertained
+
+00X. Not ascertained whether money oved
+00% Loews Randy
+
+119 15 Did you borrew any (of this) durine 19h9? (If ver) How much?
+
+lo 81-499
+
+2. $100 - 295
+
+3. $300 = 499 .
+
+Se $1,000 - 1,L99
+6. $1,500 - 1,999
+7. $2,000 - 4,999
+8. $5,000 or over
+
+0. No money borrowed in this way
+X. Borzoed; amount not ascertained p
+Y. Not ascertains ed whether borrowed ~ 19 4, ns A. Wi fovancel]
+
+120 16 Other money owed at end of 1949
+
+i. Money owed to hospital or doctar
+2. Money owed to lawyer for legal services rendered
+3. Money pwed to stock broker
+
+Le . lee
+4 Re UT te nia (qa $7
+0: fans ped 3
+
+8 Mix. 4:5, wilde CrnTionmn 174
+9. Uncertain, Gon't know
+O. No such money owed
+
+X. Money owed, rot ascertained to whom
+
+Yo Nob ascertained whets r uwonsy owed
+Project 59
+
+Question Column
+Numbor Number
+121 17-19
+122 200
+123 21
+
+Amou
+EY
+
+-3- Card IX
+
+nt of Mother? money owed
+
+Code
+
+: ‘£00.
+
+XGO.
+X00.
+(010) ¢ .
+
+00Y.
+
+amount to nearest $100 (e.g. if amount = $7905, coded as $079)
+
+“Ne money Gred 193, 950
+Amount owed is greater than foes (record in Y book)
+Owed, but amount not ascertained
+
+Not ascertained whether money owed
+Less than $50
+
+Amount borrowed in 19L9, in class intervals ' of other money
+
+1.
+2.
+
+I.
+
+$1 - 99
+$100 - 299
+
+$300 ~ 499
+
+$500 = 999
+
+$1,000 = 1,499
+$1,500 - 1,999
+$2,000 - L,999
+$5,000 or over
+
+No money borrowed in this way in 1649
+Borrowed in ‘this way in 1949, bub amount not sscertained
+
+Not ascertained whether borrowed in this way in 10h9
+
+Did you repay all or part of any debt during 1949 {not count ing
+money both borrowed and revaid in 1949)
+
+1.
+
+'.
+
+Repaid all or part of a debt
+
+Has debt, did not repay any part of a debt (had no debt at
+any tine in 194%) -
+
+Uncertain, don't know whether had debt in 1949
+
+Had debt, but not ascertained whether repaid debt during 1949
+
+Not, ascertained whether had debt in 1949
+Project 5% -h Card IX
+
+Question Column
+Number Number
+
+12h 22 Yet repayment on “other® debt in 1949 in class intervals
+
+1. $1 ~99
+
+2. $100 = 299
+
+5S. $1,000 - 1,499
+CR $1,500 - 1,999
+7+ $2,000 = 4,599
+8. $5,000 or over
+
+0. Owes, but no net repayment in 15L9 - -
+X. Net repayment in 1949, amount not ascertained
+
+X. Not ascertained whether net repayment in 19.9; not ascer-
+tained whether owes “other! debt
+
+146 & 23 Do you (R & SU) carry any life insurance? Number of policies
+ply held by Sy?
+
+Note: "Burial*and Mgrouph insurance should be included here
+as life insurance.
+
+1, Has one policy
+
+2. Two policies
+
+3. Three policies
+sli. Four or more policies
+
+9. Don't know
+0. Hold no policies
+
+X. Have insurance; nurber of policies not ascertained
+Y, Not ascertained whether carries insurance
+
+~
+Project 5¢ -5- Card IX
+
+“uestion Column
+amber Nunher
+
+148 & 24-25 What type of policy is carried, can wou borrew cn it?
+148a ’
+
+ll. One type only; straight or limited payment life
+12. One type only; can borrow on it
+
+13, (ne type only; endowment )
+
+SH Cee Dupe only; type not adtectained
+
+21, .Term insurance only
+
+224 Croup insurance only
+
+23. One type only, cannot borrow on it
+
+24s Only burial insurance
+
+~ 31. Several geaeral types, can borrow on all
+
+32. . Several general types, cannot borrow on any
+
+33. Several general types, can borrow on scme, not on others
+
+E Several Aenceal ty bes, Lan borrow vn one ot more, NA. whether en others
+
+88. Answered in gifferent, froma of referents only (R gives
+name of iNSUrance COMPAL —= VLEULropOiioen or amount of
+face value —— a "$h,000 policy" or simply stetes
+"GI insurasnce').
+
+3{ Seveca) qencant ty hes, na. tohelhectan bereow on nay one of thea
+
+99. . Don't know
+
+Hi. Rownf ty bes nay can boerow gn ond OF MSL
+
+00. Question not applicable; has no policy .
+
+No.ok
+XX. Yipes of policy not ascertained
+YY. Not ascertained whether has insurance policy
+
+Bs & 26 Straight life policies held by S.U.
+48a
+
+1. Has one straight life policy (mentioned by nz)
+
+5, " two " Mm policies (mentioned by rico)
+3. " three straight life policies (mentioned |
+Le " four or more straight life policies (meas =
+S. . Has straight life, how many policies not ascertained
+
+9. . Does not mention having any straight life
+
+0, . Question 148 not asked
+
+18 & 27 Linited payment life policies held by S.U.
+18a | i =.
+1. Has one limited pay life policy (mentioned by maze)
+2. nN two non 1 ®* policies " a WT
+3. . " three limited pay life policies (mentioned hv nazz)
+he no Iour or more limited pay life policies (meaticned 7
+name
+
+5S. Has limited pay life, how many policies not ascertained
+9. Dees not mention having any limited pay if
+
+0. Question 1L8 not asked
+Project 59 «6 Card IX
+
+Question Column
+Number Nuroer
+
+18 & 28. Endowment policies held by S.U.
+18a
+
+1. Has one endowment policy (mentioned by nzme)
+
+2. i two Ld i] policies w iH wn
+
+3. ® three endowment policies (mentioned ford name)
+
+LL, " four or more endowment policies (menti Toned oy nam nace)
+5. Has endovaent policy, how many policies nct ascertained
+
+9. Does not mention having any endowment policies
+Ov Question ih8 not asked
+
+148 & 29 Term policies held by S.U.
+148a
+
+"1. Has one term policy (mentioned by nane)
+2. nm dwo [14 policies Fi] 1" it it
+3. " three term policies (mentioned ty name)
+
+Le ®t four or mcre term policies (meniioned ty name)
+S. Has term insurance, how many policics not sscertained
+
+9. Does not mention having any term policies
+0. Question 148 not asked
+
+18 & 30 Group pelicies held by S.U.
+148a
+
+1. Has one group policy (mentioned by n'xe)
+2 % two W pols.cies " nw WUE
+3." three group policies (mentioned by name)
+
+Le ™ four or more group policies (mz tionca Ly nase)
+.5. Has group insurance, how many policies not ascertained
+
+9. Does not mention having any group insurance
+
+OC. Question lh8 not asked
+
+18 & 31 Burial insurance held by S.U.
+1L8a a
+1. Has one burial policy (mentioned by name)
+2. "two n poiicies i nw TUT
+3. "three burial policies (mentioned hy reve)
+Le ® four or more burial policies (mentioned by nem
+
+S. Has burial insurance, how many policies not &scer telned
+9. Dees not mention having any burial insurance
+
+0. Question 1L8 not asked
+Project 59
+
+Question Column
+Mumber Nurber
+
+9 32-35
+
+150 36-37
+
+-7- Card IX
+
+How much did yeu put into life insurance payaents altogether
+during 1949?
+
+Code the amount in dollars
+
+Q000. No money. Put into life insurance
+
+1000. Amount ut into life insurance greater than AS
+{Record in Y book) oo
+
+£000, Amount put into life insurance not ascerta ned
+
+000X. Not ascertained whether put money into life insurance
+
+SEE COLUMN 62 FOR BRACKET AMOUNTS OF INSURANCE PRETULS
+
+Gould you tell me approximately how much the policy {pcliciea) -
+provides ir cace of dea%h?
+
+lle 31 «99 - fo
+13. 8200 - 299:
+ie $300 = 399°
+15. $LOO - L99
+
+22. $750 - 399
+23. $1,000 = 1,245
+2k, $1,250 - 1,499
+
+31. $1,500 « 1,749
+32, $1,750 - 1,999
+33. $2,000 - 2,249
+3he $2,250 - 2,L99
+35+ $2,500 - 2,749
+
+36. $2,750 = 2,999
+
+bi. 3,000 = 3,L99
+
+oR Ho
+
+« $4,500 - 1,959
+Zl. $5,000 - 7, 199
+
+52. $7,500 - 9,999
+Project 59
+
+Question Column
+
+Number Nunber
+150 36-37
+(cont.} (cont.)
+151 & 38
+
+152
+
+Did
+
+$10,000 - 12,499
+$12,500 « 1k,999
+$17,500 = 19,599
+£20,000 - 22,1499
+$22,500 ~ 24,999
+
+$25,000 = 29,959
+$30,000 - 34,999
+$35,000 - 39,959
+$40,000 - Lk,999
+$45,000 ~ 49,959
+
+NR 5
+FY Tan]
+
+a Le
+
+Canny
+
+Amount of face value not ascertained
+
+Has no policy.
+
+Not ascertained whether has insurance policy
+
+you cash in any life insurance or did any life insurancs
+
+Company make a lump Sum payment to yon?
+
+$1 - 199
+
+$200 - 4,99
+$500 - 999
+$1,000 - 2,999
+$3,000 ~ 4,999
+$5,000 - 9,999
+$10,000 or more
+
+‘Did not receive any money in this form
+
+Received lump sum, amount not ascertained
+
+Not ascertained whether received any money in this ferm
+Project 59 -9 Card IX
+
+Quastion Column
+Numbey Number
+
+153 35 Did any of your incems in 1949 30 inte a retirament or pension
+fund? I mean, not countinz social stocurit?
+
+Coders: Different e¢lass intervals
+
+1. $1 - Lo
+3. 8100 - 199
+6. $1,000 or over
+
+0. None
+X. Yes, amount not ascertained
+
+Y. Not ascertained whether put money into retircment or
+~ pension fund
+Project 59
+
+Question Column
+
+Number  Nuwibsr
+154 & 155 LO
+-156 hl
+157, 158  k2
+
+- 10 = Card IX
+
+Do you own any common or preferred stock in a corporation?
+(if yes) Is it stock that is sold to ithe general public
+or stock in a privately held cormaoration?
+
+1.
+2.
+3a
+L.
+0.
+X.
+
+T.
+
+stock which was sold to public
+
+stock in privately heid corporation
+both types
+doesn't knew type of stock
+
+£28
+x
+
+Does not om stock
+
+Type of stock owned not ascertained
+
+Not ascertained whether owns stock
+
+‘Size of ownership in stacks (only stocks gold to general publ ic)
+
+Y.
+
+Under $500
+
+$500 - 999
+
+$1000 ~ 4999
+$5000 - 2k,999
+$25, 000 = 29, 999
+$100,000 or more
+
+Does not om stocks
+Amount not ascertained
+
+Ownership not ascertained
+
+Did you buy or sell or dispose of any stocks or bonds in 19497
+I mean not counting U.S. Governmsnt bonds?
+
+NN
+
+2.
+
+Feithe
+
+Boughs
+
+Sold
+
+Both bought and sold, but bought more than sold (158 lot lie)
+Both bought and sold, but 30ld mere than bought (158 2nd line)
+
+Not PT sing Y/p ores Vi purchases were larger,
+shoe fost Cian
+Getw. Eypa o- ror sald
+
+Not ascertained whether bought or sold
+Project 59
+
+Question Column
+
+Number  Kumber
+158 L3-bh
+159 k5
+160 Lé
+
+“ll - Card IX
+
+Amount by which purchase greater than sales {or sales greater
+than purchase)
+
+For sign sce Col, 42 (Cases in which amount exceeded the field listed
+by interview number at end of codebook)
+
+(Cede to nearest $100, e.g. if amount = $751, coded as $08)
+
+00. Neither bought nor sold, or sales equal purchases
+
+I0. Amount greater than
+X0., Amount not ascertained
+OX. Not ascertained whether any buving or selling of securities
+
+Amount of money withdrawn from business investuond
+
+C1. 81-499
+
+2. $500 - G99
+
+3. $1000 - 2999
+Le $3000 - 1999
+6. $10,000 or more
+
+0. No money withdrawn from business, er has no interest in
+business
+
+X. Amount withdrawn not ascertained
+
+- Y. Not ascertained whether money was withdrawn
+
+Amount of new money invested in business
+
+1. 4 - L99
+
+2. $500 - 999
+
+L. #3000 - L999
+5. #5000 - 9999
+
+6. $10,000 or more
+
+0. No new money invested in business, or, has no interest in
+business
+
+X. Amount invested not ascertained
+
+Y. Not ascertained whether moncy was irwested
+. Prajsct £9
+
+Question Colum
+
+lumber Humber
+161 u?
+
+162¢& 162 LB
+163 Ls
+
+About hew much is your interest in the business worth?
+
+Y.
+
+Under $1000
+
+81000 - L999
+
+£5000 - 24,999
+
+£25,000 ~ 99,999
+
+$100,000 or mors
+
+Don't know
+
+Has no business now
+
+Worth of interest in business not ascertained
+
+Not ascertained whether has business
+
+Does anybody owe you for money leaned them, for instance on a
+mortgage or on a note? Did you lend any of this monsy last
+year, 19497?
+
+1.
+2.
+3.
+9.
+0.
+X.
+
+TY.
+
+Som ebedy owes money to R. —— loaned monsy before 19he
+
+Scmebedy owes money to R. =~ loaned :soney in 1949
+
+Somebody owes money to R. == loaned both belore 1949 and in —-
+1949 ‘
+
+Don't know (either time or fact of leading money)
+
+Not owed any money
+
+Owed money, amount not ascertained
+
+Not ascertained whether owed money
+
+Amount lent by S.U. in 1949
+
+8 - Lo (
+$500 - 999
+
+$1000 - 1999
+
+#2000 - 4999
+
+$5000 and more
+
+No money lent
+Lent, but amount lent not ascertained
+
+Not ascertained whether lent
+Project 5%
+
+Question Column
+Y¥umber Number
+
+16h 50
+
+165 | 51
+
+166 & 166a 52-53
+
+Sh=55
+
+§3-%5
+
+-1 - Card IX
+
+friount received as repayment oa 1949 leans
+
+In
+
+#1 ~ hyo
+
+#500 - 952
+$1620 ~ 19599
+$2000 - 4959
+$5630 and more
+
+- No money received as repayment
+
+Amount of repayment not ascertained
+
+Not ascertained whether received money as repayment
+
+1949, did you inherit any money or bonds or did you receive
+
+any large gifts of money or bonds?
+
+1.
+
+#1 - 299
+
+$300 - L99
+#500 - 999
+$1000 - L599
+$5000 or over
+
+Did not receive any such money
+Amount not ascertained
+
+Not ascertained whether R received such money
+
+Did you have any large expenses we did not talk about, for
+instance, doctor and hospital bills, expenses for roving or
+trips, or tne like?
+
+C1.
+12.
+
+21.
+
+Moving
+Additions; repairs, redecoration of house othor than that
+occupied by R
+
+Hospital or medical expenses of major imsortante (menticns
+expenditure of $300 or more, or severai Operations, Or
+illness of long duration, death expenses, childoirth
+expenses)
+
+Less important hospital and medical expenses (Amount lecs
+than 4300, minor operations, illness of short duration.
+less than a month)
+
+Hospital and medical expenses —- impossible to determing
+whether major or minor
+
+Change in spending unit composition increasing expenses
+Estzblishment of new household
+Support of cthoer families
+
+(Code continued on next page)
+Project 59
+
+Question Colum
+Number Number
+
+(166 & (52-53)
+166a) (SL=55)
+
+(cont.)
+
+167 &167a
+
+167
+
+56
+
+57
+
+Now
+the
+
+-1 - Card IX
+
+Jewelry, furs
+
+Other luxury expenditures (travel other ihap moving;
+vacations, other trips)
+
+Repair to auto ( Tacluding = new motor):
+Gifts and contributions )
+acation (Suppotling Studalfs 5x Schook
+Marriage expenses (includes outlays on daughter's or son's
+wedding, or other ceremonial expenses)
+Qther large expenses
+Don't know
+
+Had no such expenses; no second type; 3 expenses mentioned
+befare
+
+Not ascertained whether had such expenses
+
+about more regular expenses -- food, clothing, rent, ruming
+house and ihe like -- Would you say you people are speading .
+
+more or Less than you did a yzar ago, or about the same?
+
+1..
+
+3.
+bo
+c:
+
+9.
+
+Xt.
+
+Much more (+ 25% oh Uy
+More (+ 5% to 4 24%) :
+About the same (4 LZ to ~L2)
+Less 5% to <24%) -
+
+Much less (=~ 25% or more)
+Dont Know
+
+Not ascertained:
+
+Reasons for "more!
+
+1.
+2.
+3.
+Ls
+
+. Higher prices
+. More people in unit
+
+Has moved (rent higher, ete. .) RT Rascd
+Needed many more e things, { NCoTAB Righow
+
+Reasons for Messh
+
+Low prices
+
+. Fewer people in unit
+
+. Has moved (rent no lower, etc.)ggNt Aawiisd
+Needed fewer things :
+
+Economized
+
+he
+
+Id -
+No change oF no reason’ § we. 54
+
+Not ascertained
+Project 59
+
+Question Column
+Number Number
+
+Worksheet 58-61
+iv 2 Ww !
+
+62
+
+63
+
+“15
+
+Total debt (dollar amount)
+
+Card IX
+
+{Code to nearest £100, e.g. if amount = $9978, coded as $0100)
+
+0000,
+YoqQ,
+X000.
+0C0X.
+
+No debt recorded in Worksheet IV, W
+Total debt greater than $1,999,950
+
+Has total debt, bub amount not ascertainsd
+
+Not ascertained whether has total debi
+OY. Loss Tras 450
+
+Amount nut into insurance, in class intervals
+
+1.
+2 *
+3
+
+5..
+
+6,
+8
+OC.
+
+. $50 - 99
+
+$100 - 199
+$200 = L399
+8500 ~ 999
+$1000 or over
+
+"Insured - paid no premiums
+
+4
+
+Fngupmte = docs nol clon
+
+ing ured NA whelber ma de CEL ivy 13 asf meats Ca efi
+
+Eg
+
+Amount but into life insurance not ascertainsd
+
+Not ascertained whether has life insurance,
+
+Total debt, in class intervals
+
+$1 - ep 950
+$959, ~ T2150
+
+£1950 - L2:pag0
+
+. B20 - 3Tip ease
+#3953 - L 4450
+
+BUSSE -
+. $595% and over
+
+Has no debt
+
+T1450
+. $759 ~ 9159 4950
+
+Has debt, amount not ascertained
+
+Not ascertained whether has debt
+Project 59
+Question Column
+Number Number
+64
+65
+
+66-78
+
+- 16 =~ Card IX
+
+Total owed on purchases or loans, in class intervals
+
+$1 - 949
+$950 = 1949
+$1950 - 2949
+$2950 - 3949
+$3950 - 4949
+$4950 - 7449
+$7450 - 9949
+
+$9950 and over
+Has no such debt
+Has such debt, amount not ascertained
+
+Not ascertained whether has such debt
+
+Amount of "other" money owed, in class intervals
+
+00 ~~ OV U1 B=
+
+o
+.
+
+X.
+
+Y.
+
+$1 - 949
+
+$950 ~ 1949
+51950 - 2949
+$2950 - 3949
+$3950 - 4949
+$4950 - 7449
+$7450 - 9949
+
+$9950 and over
+Has no such debt
+Has such debt, amount not ascertained
+
+Not ascertained whether has such debt
+
+Blank Columns
+
+79-80
+
+Weights
+cai ix
+
+HEE CEY
+
+Poneto r
+EEN Th i
+
+TY VROTRIY i na
+
+yn Piel 3 es 25
+odd B97 in 2
+
+Joa) ila
+
+Pa
+[SR]
+wD
+
+yesr poyment? or UI have to
+By ~ < - -
+toalight Lille, limited pow
+= - 1 hE Ir - de
+ore coded 1Z, li, 23 clic.
+
+vars thoy can be borrowed oa.
+-
+
+to be coded. as 1 B
+1 in col. by ne word Milimited™
+
+C. The Code XX should read Miuwgber of types of policies LAMY.
+Survey Regearca Conler
+
+tareh 1950
+Project 59
+Card ¥
+
+Family Card
+
+A311 Dollar 4mounts on This Card are to Nearsst Ten Dollars
+
+Question Column
+Nurher Nurhar
+1-2
+3
+47
+FS I 8
+Box at
+top
+9
+168 & 10
+169
+
+Study Marker (59)
+Card Number (I)
+
+Interview Member (of primary sau.)
+
+Place Code (I: 14)
+
+le Urban metropolitan area -— central city
+2s Suburban metropolitan area
+
+Je Rural metropolitan county
+
+4s City of 50,000 or over but not a metropolitan area
+5. City of 2,500 to 50,000 — south
+
+6s City of 2,500 $0 50,000 —~ not south
+
+7« Town under 2,5C0 ~ south
+
+8B, Town under 2,500 ~ not south
+
+9. Open country ~ south
+
+0. Open country - not south
+
+Te N.A,
+
+Number ard tyos of S,U.'s in the family
+
+(0. Single s.u. family = primary - no secordaries = 0 in I:15)
+{1. Single seu, family = unrelated secondarizzx «1 in T:15)
+(2 Single seu. family - unrelated secondary = 2 in I: 15)
+
+3s Family consists of 2 s.u,'s =~ all complete
+4e Family consists of 3 or more s.u.'s — all complete
+
+5. Two spending unit family — matchad
+
+6. Three spending unit family — matched
+9. S.U. composition N.A.
+
+Number of children under 18 in the family-(I: 26)
+
+1. One
+2, Two
+3. Three
+Le Four
+5 Five
+6, Six
+
+7. Seven or more
+0, None
+
+X. Not ascertained
+"Project 59
+
+Question
+Farber
+
+168, 169
+and FS I
+
+170
+
+in
+
+Column
+Rivhep
+
+1 Hew many raople are the
+and children (I: 27
+
+Xa.
+
+. Seven
+. Bight or more
+
+Not ascertained
+
+12 Ware any of the children in the family born in 1949 or 19507
+I: 28 .
+
+1. Yes
+5. No
+9¢ Don't know
+0. Not applicadls, has no children under 18, (Coded 0 in
+column 10)
+XK, Wer oo coAK Gams
+13 Hombar of relatives rot livine with the family who ars
+~~ dependeny for more than half of their livica, (i: <9)
+l, Ys3 - one
+2, Yes - two
+3. Yes =~ three or more
+
+None
+
+Not ascertained
+" Project 59 “3 - Card ¥
+
+Question Column
+Punber Funber
+
+10&12 1U=15 Occupation of Fead of primary svandins vmit (Card I, 38-39)
+
+11, Professional and semi=-prolessional
+
+21, Self-employed business man
+22. Managers and officialsw~not self-employed and net fam
+23. Farm managers (not Farm Schedule)
+24. Self-employed artisans and craftsmen
+© 2X. Business man, manager, self-employed artisan - N.A , which
+
+31. Clerical, sales clerks and attendents
+32, Buyers, agents and brokers _.
+
+i 41, Skilled workers-——craftsmen, foremen Junot
+Vv 42. Semi-skilled workers——operatives, machine operators self .
+
+Jexple
+J 4X. Skilled or semi-skilled workers « N.A, which. .
+
+51s Unskilled worksrs-—lsborers, not farm
+
+52. Unskilled worksro~—farm laberers:
+
+53. Service workers—domestics (private faziiy)}
+
+54s Service workers--other than domestic (met private family)
+
+5. Unskilled or service worker, N.A, which. ox what lind
+61. Protective service workers
+
+71. Unemployed--professional and semi~professional
+
+72. Unemployed—-proprietors, managers and officials
+(including farm managers)
+
+73. Uremployed—clerical, sales -
+
+74. Unemployed—~—skilled and semi-skilled
+
+75. Urnemployed-—unskilled and service workery
+
+76, Unemployed——protective service
+
+78, Uremployed——farm operator
+
+7X. Unemployed--regular occupation not given
+
+88, Farm-operator
+98, Retired, but worked Ma little"
+99. Retired
+
+00, Student
+
+Ol... Student, with parie=time employment
+
+YY, Housswife
+
+¥3. Housewife, but worked "a little"
+
+XX. Occupation not ascertainsd (low priority)
+
+~
+Project 59 AT Card Y
+
+173 16 Age of mad of primary (Iz 31)
+
+ls 18-24 years
+24 REIL
+
+3 354
+
+be 45-54
+
+5. 55-84
+
+6. 65 or cover
+Xo. Not ascertained
+
+17% & 17 Education of head of primary (I: 32)
+17a
+
+1. Atterded grammar school {1~-8)
+
+2. Atterdod high school (G-12 ), or more than a high school
+education (over 12 years) (other than college)
+
+3s College
+
+0. None
+
+X. Not ascertained
+
+175 18 World War IT Veferans Status = a1} s.u.'s (I: 33)
+
+1s Head of primary S.U. is the only vetsran
+
+2, One veteran in family -~ somsoms else (not the head of
+primary SU.) R
+
+3« Two or mora veterans in family = one of them is head
+of primary S.Us
+
+4s Two or mors veterans in family - head of primary is not
+a veteran
+
+0. No ome is a veteran,
+Xs Not ascertained
+
+19 Humber of ircome receivers in tke family (V: 21)
+(For farm families include all ablie-boaizd adult males)
+
+l. One
+
+2, Two
+
+3. Three
+
+4s Four or more
+
+Os None
+
+Xe Not ascertained
+Project 59
+Cuastion Column
+
+Nuirbor Mumber
+83 &8, 20
+85 2
+8. 22-23
+
+To ven ov 3 car? [IF ro, 41d you own a ear anvtims im 10407)
+Gann (vi: 8)
+
+1, Yes, family owns one car (or mumber of cars not known)
+2. Yes, own3 two caxa
+
+3. Yes, owns thres or more cars
+
+4s No, but owned a car sometime during 2949
+
+O« No, family does not own ard did not own during 1949
+
+Xs Not ascertained whether owns or owned im 149
+
+pid zou buy your car new or used? (v1: 9)
+
+1, Owns one car bought new Coded 14n
+2, ‘Owns one car bought used Column 20
+
+3. Owns two or more cars bought new } Coded 2
+
+4e ‘Owns: two or more cars, bought used’ Joar3
+
+S$. Oims two or more cars; one bought new, othe er(s)) in.
+‘used — or N.A, whethez raw or used; ova Bas) Sole 20
+MOA [Dh g WT Amen, Tess Nef
+
+6... Does not own, but owned a car during 1549 that ) Ceded 4
+‘was bought new Jin
+
+7s. Doag not cvm, but owned. a car during 1549 4 wat) Cols 20
+‘was bought used
+
+8.. Does not owm, but owred a car during 1949, )
+‘Nelo mew or used © )
+
+oN No car owned, did not om car durin: 1949
+"Owns, did own during 1949, N.A. whether new or used
+I. NeA. whether cwns car; Neh. whether owned car. anytime
+"during 1949.
+
+What year. model 19 th 1 latest year nedel? (v1: 10-11)
+
+35, 1935 ar earlior
+36. 1936 -
+
+37 19597
+
+38, 1938
+
+39. 1939
+
+Xe "Very old™
+
+40. 1940
+A 19
+12. 2942
+
+55. 1945
+56, 1946
+57. 1947
+58, 1943
+£9, 10:9
+{0s 1950
+
+69 Don't know year model
+00. Don;t own a car, didn't own a car anytime in 1949
+
+-X0. Year model not ascertained
+
+Y0. Not ascertained whether owns or did own in 1949
+Project 59
+Gaestdon Column
+Purosp Isham
+8s R35
+97 & SS 26
+
+-§ - Cird ¥
+
+Than G38 wou buw hs Ingest vemos w23017 (VI: Liel5)
+
+35.
+26,
+37
+
+1835 or earlier
+qe A
+1336
+
+1937
+1938
+1939
+“In tha 30159,. sevense +o%long agoh
+
+1940
+
+C194
+
+1942
+1943
+1944
+
+1945
+194%
+1047
+16,3
+1949
+©5000
+
+Don't know yoar of purchase : —
+Doesn't own
+
+Year of purchase not aseartaired
+
+Net ascertained whether owns or did om in 1949
+
+Po you expect to buy a car? Will it dna new or read car?
+
+(VI: aE)
+
+Vill buy a new car 0) Of en RR in) dnt wad? -
+
+. Will buy a used car th pron sme
+
+vr 2
+
+111 buy uncertain new or used A) af 2 ” dts,
+Probably will buy a new car Page ie clita
+Probably will buy a used car <r o ¥
+Probably will buy ~- uncertain new or used “o™
+Undecided; depends — new car ) midals
+Undecided; depends — used car ) position
+
+Undecided; depends —— uncertain new or used )
+Will buy a car; probably won't, mil mat NOU
+Not ascertained
+Project 59
+Question Column
+Number Number
+FS I 27
+8&9
+
+28
+
+Worksheet 29-32
+F1
+
+-7 =~ Card Y
+
+Change in family composition
+
+(Was there anybody in the family living with you a
+year ago who is not living here now? Were ......
+living with you a year ago?)
+
+Single spending unit families only (I: 25)
+
+Increased (or decrease of one or more adults in
+family
+No change in adults in family
+
+Not ascertained whether number of adults in this
+family has changed, single spending unit family
+
+Multiple spending unit families only
+
+3.
+4.
+5.
+
+Increase of one adult in family
+Increase of two or more adults in family
+Increase, not ascertained how many
+
+Decrease of one adult in family
+Decrease of two or more adults in family
+Decrease, not ascertained how many
+
+No change in number of adults in family
+
+Not ascertained whether number of adults in
+this family has changed, multiple spending unit family.
+
+Is the amount of total 1949 family income coded in Cols.
+29-32 assigned?
+
+1.
+5.
+
+9.
+
+Yes, amount coded is assigned
+No, amount coded is not assigned
+
+N.A.
+
+Total 1949 family income (Schedule II) (Including total
+
+income of farmers) (V: 22-26)
+
+(Code the amount to nearest ten dollars)
+
+0000. No income
+000Y. Negative income
+
+X000. N.A.
+Project 59 -8- Card Y
+
+Question Column
+
+Number Number
+33 1949 Income in class intervals (V: 60)
+1. $0 - 999
+2. $1000 - 1999
+3. $2000 - 2999
+4, $3000 - 3999
+5. $4000 - 4999
+6. $5000 - 7499
+7. $7500 ~ 9999
+8. $10,000 and over
+9. Negative amount
+X. Not ascertained
+34 Is the amount of present total family liquid asset
+holdings coded in Cols. 35-38 assigned?
+1. Yes, amount coded is assigned
+5. No, amount coded is not assigned
+9. N.A.
+Worksheet 35-38 Present total family liquid asset holdings (dollar amount)
+F 2
+(Cases in which amount exceeded the field listed by
+interview number at end of codebook)
+(Code amount to nearest ten dollars) (VIII: 40-44)
+0000. Has no liquid assets
+Y000. Amount greater than the field
+X000. Amount of liquid asset holdings not ascertained,
+but has liquid assets
+000X. Not ascertained whether has liquid assets
+Worksheet 39 Present total family liquid asset holdings, in class
+F 2 intervals (VIII: 62)
+
+1. $1 - 199
+
+2. $200 - 499
+
+3. $500 - 999
+
+4. $1000 - 1999
+
+S. $2000 - 4999
+
+6. $5000 -~ 9999
+
+7. $10,000 - 24,999
+8. $25,000 and over
+
+0. Has no liquid assets
+X. Amount of liquid asset holdings not ascertained
+Y. Not ascertained whether has liquid assets
+Project 59
+
+Question Column
+Number Number
+
+40
+
+Worksheet 41-44
+
+F3
+
+Worksheet 45
+
+F3
+
+46
+
+-9 - Card Y
+
+Is the amount (of year ago family total liquid
+asset. holdings) coded in Cols. 41-44 assigned?
+
+1. Yes, amount coded is assigned
+5. No, amount coded is not assigned
+
+9. N.A.
+
+Year ago family total liquid asset holdings (dollar
+amount)
+
+(Code amount to nearest ten dollars)
+
+0000. Had no liquid assets (if had $1 to $15, code
+0001)
+
+X000. Amount of liquid assets held a year ago not
+ascertained, but had liquid assets
+
+Total family liquid asset holdings a year ago, in
+
+class intervals (VIII: 39)
+
+1. $1 - 199
+
+2. $200 - 499
+
+3. $500 - 999
+
+4. 81000 - 1999
+
+5. $2000 - 4999
+
+6. $5000 - 999%
+
+7. $10,000 - 24,999
+
+8. $25,000 or over
+
+0. Had no liquid assets a year ago
+
+X. Amount of total liquid assets a year ago, not
+ascertained
+Y. Not ascertained whether had liquid assets year ago
+
+Is the amount of 1949 family disposable income coded
+in Cols. 47-50 assigned?
+
+1. Yes, amount coded is assigned
+5. No, amount coded is not assigned
+
+3. N.A.
+Project 59
+
+Question Column
+Number Number
+
+Worksheet 47-50
+F 10
+
+51
+
+Worksheet 52
+F 10
+
+53
+
+Worksheet 54
+F 4
+
+- 10 - Card Y
+
+1949 family disposable income (V: 44-48)
+
+(Code the amount to nearest ten dollars)
+
+0000. No income
+X000. Income not ascertained
+000Y. Negative amount
+
+Is the amount (of 1949 disposable income in class
+intervals) coded in Col. 52 assigned?
+
+1.
+5.
+
+9.
+
+Yes, amount coded is assigned
+No, amount coded is not assigned
+
+N.A.
+
+1949 disposable income in class intervals (V: 59)
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+9.
+
+$0 - 999
+
+$1000 - 1999
+$2000 - 2999
+$3000 - 3999
+$4000 - 4999
+$5000 - 7499
+$7500 ~ 9999
+
+$10,000 and over
+
+Negative amount
+
+Is the amount (of 1949 Income Tax for family in class
+intervals) coded in Col. 54 assigned?
+
+1.
+5.
+
+9.
+
+Yes, amount coded is assigned
+No, amount coded 1s not assigned
+
+N.A.
+
+1949 Income tax for family in class intervals (V: 61)
+
+$1 - 49
+
+$50 - 99
+$100 - 199
+$200 - 499
+$500 - 999
+$1000 - 1999
+$2000 ~ 4999
+
+$5000 and over
+
+No income tax
+N.A.
+Project 59 - 11 - Card Y
+
+Question Column
+
+Number Number
+Worksheet 55-56 Taxes as % of income for family (V: 56-57)
+FS
+
+00. No tax
+
+01. One percent
+
+02. Two percent
+
+Etc.
+
+98. 98 percent
+
+99. 99 percent
+
+X0. Percent not ascertained
+Worksheet 57 Number of tax returns for family (V: 54)
+F 6
+
+1. One return
+
+2. Two returns
+
+3. Three returns
+
+4, Four or more returns
+
+0. No taxable income, or total income less than $600
+
+X. Not ascertained how many returns
+Worksheet 58 Number of tax exemptions for family (V: 55)
+F7
+
+1. One exemption
+
+2. Two exemptions
+
+3. Three exemptions
+
+4, Four exemptions
+
+5. Five exemptions
+
+6. Six exemptions
+
+7. Seven exemptions
+
+8. Eight exemptions
+
+9. Nine or more exemptions
+
+X. Not ascertained
+Worksheet 59-61 Net total consumer durable goods expenditures after
+F 11 deducting any trade-ins (VI: 71-74)
+
+(Code to nearest ten dollars)
+
+000. No items bought
+
+X00. Large items bought, but price or net outlay not
+ascertained
+
+00X. Not ascertained whether bought
+Project 59
+
+Question Column
+Number Number
+62
+63
+
+Net
+
+-12 = Card Y
+
+total consumer durable goods expenditures, in
+
+1949, in class intervals (includes car) (VI: 77)
+
+1. $1 - 99
+
+2. $100 - 199
+
+3. $200 - 299
+
+4. $300 - 499
+
+5. $500 - 749
+
+6. $750 - 999
+
+7. $1,000 - 1,499
+
+8. $1,500 - 1,999
+
+9. $2,000 or over
+
+0. Zero
+
+X. Not ascertained whether bought one or more consumer
+durables
+
+Y. Bought but amount on at least one is not ascertained
+
+Savings behavior of different spending units im
+
+the family
+
+For single spending unit famjlies only (VII: 27)
+
+1. Positive savings (1 and 2 in VII: 27); not due to
+accrual only, but may include accrual
+
+2. Positive saving due to accrual only
+
+3. Negative savings (3 in VII: 27)
+
+0. Zero savings (0 in VII: 27)
+
+X. Sign of savings not ascertained (X in VII: 27)
+
+For multiple spending unit families only
+
+4. All spending units positive savers
+
+5. All spending units zero savers
+
+6. All spending units negative savers
+
+7. Mixed - 1 or more S5.U.'s positive and 1 or more
+negative or zero
+
+8. Mixed - 1 or more S.U.'s positive and 1 or more zero
+
+9. Mixed - 1 or more S.U.'s negative and 1 or more zero
+
+Y. Sign of savings of one or more S.U.'s in family not
+
+ascertained
+Project 59 - 13 - Card Y
+
+Question Column
+Number Number
+
+Worksheet 64 Sign of total saving (savings A) (VII: 27)
+F 12
+
+1. Positive savings not due to accrual, but may include
+accrual
+
+2. Positive savings due to accrual on A-F bonds only
+
+3. Negative savings
+
+0. Zero savings
+X. Sign of savings not ascertained
+
+65 Is the amount of savings of dissavings coded in Col.
+66-69 assigned?
+
+1. Yes, amount coded is assigned
+5. No, amount coded is not assigned
+
+9. N.A.
+
+Worksheet 66-69 Amount of savings or dissavings (savings A) (VII: 28-32)
+F 12
+
+(Code to the nearest ten dollars)
+
+0000. Zero savings
+X000. Amount not ascertained
+
+70 Total family Savings A in class intervals (VII: 47)
+
+1. Plus $2,000 or more
+2. Plus $1,000 - 1,999
+3. Plus $500 - 999
+
+4. Plus $5200 - 499
+
+5. Plus $100 - 199
+
+6. Plus $1 - 99
+
+7. Minus $1 - 99
+8. Minus $100 ~ 499
+9. Minus $500 - or more
+
+0. No saving or dissaving
+
+X. Amount of saving not ascertained
+Project 59
+
+Question Column
+Number Number
+
+Worksheet 71
+F 14
+
+Worksheet 72
+F 15
+
+73
+
+74
+
+75
+76-77
+
+- 14 = Card Y
+
+Rent as 7 of family disposable income (ITI: 59)
+
+1.
+2.
+3.
+4,
+5.
+6.
+7.
+
+8..
+
+Under 57%
+5-97
+
+10 - 14%
+15- 19%
+20 - 247%
+25 - 29%
+30 - 34%
+35 - 39%
+
+407 or more
+
+Does not rent; Farm Schedule
+Not ascertained whether rents or owns
+Percent not ascertained, but rents
+
+Savings A as 7 of total family income, in class intervals
+
+Plus 507 or more
+Plus 30 - 49%
+Plus 20 - 29%
+Plus 10 - 19%
+Plus 1 - 9%
+Minus 1 - 9%
+Minus 10 - 24%
+
+Minus 25% or more
+
+Neither savings nor dissavings - no income or negative
+income
+
+Family income deciles (VII: 53)
+
+Urban and rural quintiles (I: 46)
+
+Home ownershipt status (III: 8)
+
+Blank Columns
+
+Project 59
+
+Question Column
+
+Number Number
+78
+79-80
+
+- 15 ~ Card Y
+
+Filter variable for status of family data
+
+Single spending unit families (including unrelated
+secondary spending units) or primary in multiple
+spending unit family with COMPLETE FAMILY DATA
+Related secondary spending unit WITH FAMILY DATA
+(to substitute for incomplete families)
+
+Secondary spending unit related to primary family
+data (if available) CODED UNDER INTERVIEW NUMBER
+OF PRIMARY
+
+Single spending unit family or primary on multiple
+spending unit, MISSING FAMILY DATA
+
+Spending unit composition not ascertained, but
+FAMILY DATA INCLUDED
+
+Spending unit composition not ascertained and
+
+case is MISSING FAMILY DATA
+
+Weights
+Survey Research Center Project 59
+
+9-11
+
+12
+
+Card Z
+
+Study Number (59)
+
+Card Number (Z)
+
+Interview Number
+
+Is the amount of debt (other than real estate debt) coded in Col.
+9-11 assigned?
+
+1.
+5.
+
+9.
+
+Yes, amount coded 1s assigned
+No, amount coded is not assigned
+
+N.A.
+
+Debt other than real estate debt
+
+(Repairs and additions, car and durables, miscellaneous)
+
+(Code to nearest ten dollars)
+
+(Cases in which amount exceeded the field listed by interview
+number at end of codebook)
+
+000.
+00X.
+
+X00.
+YOO.
+
+No debt recorded in Worksheet F8
+Not ascertained whether had such debt
+
+Has debt, amount not ascertained
+Amount greater than $9,999
+
+Debt other than real estate debt, in class intervals
+
+$1 - 949
+$950 - 1949
+$1950 - 2949
+$2950 - 3949
+$3950 - 4949
+$4950 - 7449
+$7450 - 9949
+
+$9950 and over
+Has no debt of this type
+
+Has debt, amount not ascertained
+Not ascertained whether had debt of this type
+Project 59
+
+-2 - Card Z
+
+Column
+Number
+13-16 Total debt
+(Code to nearest ten dollars)
+0000. No debt recorded in Worksheet F 9
+X000. Has total debt, but amount not ascertained
+000X. Not ascertained whether has total debt
+17 Total debt in class intervals
+1. $1 ~ 949
+2. $950 - 1949
+3. $1950 = 2949
+4. $2950 ~ 3949
+5. $3950 - 4949
+6. $4950 - 7449
+7. $7450 = 9949
+8. $9950 and over
+0. Has no debt
+-. Has debt, amount not ascertained
+&. Not ascertained whether has such debt
+18-7 Blank Columns
+78 Filter variable for status of family data
+1. Single spending unit families (including unrelated secondary
+spending units) or primary in multiple spending unit family
+with COMPLETE FAMILY DATA
+2. Related secondary spending unit WITH FAMILY DATA (to substitute
+for incomplete families)
+3. Secondary spending unit related to primary. Family data (if
+available) CODED UNDER INTERVIEW NUMBER OF PRIMARY
+4. Single spending unit family or primary in multiple spending
+unit, MISSING FAMILY DATA
+5. Spending unit composition not ascertained, but FAMILY DATA
+INCLUDED
+6. Spending unit composition not ascertained and case is MISSING
+FAMILY DATA
+79-80 Weights
+Cases in which Amount Exceeded the Field
+
+Estimated present value of house (Dk 3: 20-22)
+0936 $100,000
+
+Amount of total house debt payments in 1949 (Dk 3: 24-27)
+
+0821 $ 15,500
+Payment on principal only (of mortgage, land contract or other debt)
+(Dk 3: 28-31)
+
+0821 $ 15,500
+
+Change in total consumer indebtedness (Dk 7: 14-17)
+
+0947 $ 10,000 1560 $ 10,000
+1261 $ 13,400
+
+Business savings (Dk 7: 19-22)
+
+0726 $ 16,000 2347 $ 10,000
+0868 $ 12,000 2669 $ 10,220
+0969 $14,715
+Contractual saving (Dk 7: 23-26)
+0821 $ 16,900 2411 $ 11,500
+Residual expenditures (Dk 7: 36-39)
+
+0507 $ 15,868 2035 $ 18,325
+0517 $ 10,899 2151 $ 12,000
+0711 $11,170 2231 $ 10,264
+0764 $ 12,469 2232 $ 10,159
+0822 $ 11,800 2268 $ 10,084
+0846 $ 10,292 2363 $ 14,525
+0868 $ 12,391 2489 $ 10,463
+0886 $ 12,741 2566 $ 13,075
+1051 $ 10,146 2620 $ 17,042
+1284 $ 10,338 2631 $ 13,166
+1357 $ 12,805 2647 $ 15,952
+1430 $ 10,280 3169 $ 17,838
+1472 $ 11,203 3281 $ 10,139
+1491 $ 10,244 3326 $ 13,488
+1792 $ 16,410 3382 $ 10,787
+1809 $ 15,410 3481 $ 14,661
+1844 $ 19,686 3641 $ 12,062
+2023 $ 12,195
+
+Present total liquid asset holdings (Dk 8: 45-49)
+0507 $111,452 2567 $122,221
+~- 2 -
+
+Amount by which purchase/sales of stocks' or bonds greater than sales/purchase
+
+0698 $ 10,100
+1953 $ 12,100
+
+Present total family liquid asset holdings (Dk ¥: 35-38)
+
+0507 $111,145
+2567 $122,220
+3640 $134,860
+
+Debt (other than real estate debt) (Dk Z: 9-11)
+
+3455 $ 10,500
+3479 $ 19,990

@@ -1,0 +1,13 @@
+outcome,group,level,pct,se,n
+good_times_ahead,speaker,"man answering, male-headed unit",47.4047513742339,1.1399156108435937,2253
+good_times_ahead,speaker,"woman answering, male-headed unit",37.613019891500905,2.5196234920021445,425
+good_times_ahead,speaker,woman heading her own unit,30.661577608142494,2.19597860078402,533
+middle_times_ahead,speaker,"man answering, male-headed unit",16.901497441081695,0.8561669980294719,2253
+middle_times_ahead,speaker,"woman answering, male-headed unit",18.264014466546115,2.056055736668975,425
+middle_times_ahead,speaker,woman heading her own unit,13.956743002544531,1.6092446208371727,533
+bad_times_ahead,speaker,"man answering, male-headed unit",18.26625386996904,0.8789424033072358,2253
+bad_times_ahead,speaker,"woman answering, male-headed unit",18.518822949202697,2.0171864819877086,425
+bad_times_ahead,speaker,woman heading her own unit,23.276081424936386,2.0317516062279486,533
+dk_times_ahead,speaker,"man answering, male-headed unit",17.42749731471536,0.8711101219294373,2253
+dk_times_ahead,speaker,"woman answering, male-headed unit",25.604142692750287,2.3200291630836376,425
+dk_times_ahead,speaker,woman heading her own unit,32.10559796437659,2.216225864619345,533

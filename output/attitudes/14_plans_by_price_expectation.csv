@@ -1,0 +1,13 @@
+outcome,group,level,pct,se,n
+plans_durable,price_exp,prices will go down,29.99971884049821,1.3889452742875854,1279
+plans_durable,price_exp,prices will go up,19.431158182439358,2.108004344029865,401
+plans_durable,price_exp,stay about the same,21.70391061452514,1.2587457091793108,1248
+plans_durable,pe_inc,"$2,000-3,999 | prices will go down",32.92137969557324,2.3076557336294616,473
+plans_durable,pe_inc,"$2,000-3,999 | prices will go up",21.843340746231775,3.8766505676343663,130
+plans_durable,pe_inc,"$2,000-3,999 | stay about the same",23.20814510147664,2.070857355546489,483
+plans_durable,pe_inc,"$4,000 and over | prices will go down",39.02461257976299,2.493564050171292,473
+plans_durable,pe_inc,"$4,000 and over | prices will go up",30.306386120339607,4.751468594875338,112
+plans_durable,pe_inc,"$4,000 and over | stay about the same",34.687046747740716,2.7500998084672363,363
+plans_durable,pe_inc,"under $2,000 | prices will go down",15.107628211486956,2.1300202658796024,326
+plans_durable,pe_inc,"under $2,000 | prices will go up",12.271259418729818,2.860558149392449,146
+plans_durable,pe_inc,"under $2,000 | stay about the same",9.830335066928127,1.6109885729586666,392

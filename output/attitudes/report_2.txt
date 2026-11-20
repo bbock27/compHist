@@ -1,0 +1,154 @@
+SUPPORTING ANALYSES (svy, weights only)
+
+9. OUTLOOK FOR THE NEXT 12 MONTHS BY WHO WAS SPEAKING (% of ascertained answers)
+  man answering, male-headed unit      n=2253  good 47.4 (1.1)  middle 16.9 (0.9)  bad 18.3 (0.9)  dk 17.4 (0.9)
+  woman answering, male-headed unit    n=425   good 37.6 (2.5)  middle 18.3 (2.1)  bad 18.5 (2.0)  dk 25.6 (2.3)
+  woman heading her own unit           n=533   good 30.7 (2.2)  middle 14.0 (1.6)  bad 23.3 (2.0)  dk 32.1 (2.2)
+
+10. MALE-HEADED UNITS: HOW OFTEN A WOMAN ANSWERED, BY TYPE OF UNIT
+  by inc3: $2,000-3,999: 16% (n=1110); $4,000 and over: 18% (n=1052); under $2,000: 15% (n=709)
+  by age_head: 18-24: 11% (n=248); 25-34: 18% (n=672); 35-44: 18% (n=686); 45-54: 16% (n=564); 55-64: 16% (n=402); 65 or over: 14% (n=304)
+  by occupation_group: farm operators: 6% (n=392); managers and officials: 16% (n=148); professional and semi-professional: 18% (n=223); retired: 14% (n=156); self-employed businessmen and artisans: 14% (n=294); skilled or semi-skilled: 20% (n=844); students, housewives, protective service: 14% (n=101); unemployed: 17% (n=148); unskilled: 23% (n=251); white collar (clerical and sales): 13% (n=315)
+  by place_size: city 50,000 and over (non-metropolitan): 18% (n=386); city or town 2,500-50,000: 17% (n=590); metropolitan area: 17% (n=839); metropolitan rural: 13% (n=109); open country: 12% (n=560); town under 2,500: 19% (n=417)
+  by married: married: 19% (n=2482); not married: 2% (n=419)
+
+11. INSECURITY BY LIQUID ASSETS AND SEX OF HEAD
+  insecure: female head | $1-499: 33.0 (4.2) n=149; female head | $500 or more: 30.5 (3.1) n=275; female head | none: 62.5 (4.1) n=157; male head | $1-499: 37.4 (1.9) n=772; male head | $500 or more: 23.7 (1.3) n=1325; male head | none: 51.6 (1.9) n=738
+  very_insecure: female head | $1-499: 14.4 (3.1) n=149; female head | $500 or more: 9.5 (2.0) n=275; female head | none: 35.1 (4.0) n=157; male head | $1-499: 8.7 (1.1) n=772; male head | $500 or more: 5.5 (0.7) n=1325; male head | none: 21.3 (1.6) n=738
+  good_times_ahead: female head | $1-499: 35.1 (4.4) n=142; female head | $500 or more: 30.1 (3.2) n=247; female head | none: 27.9 (4.0) n=143; male head | $1-499: 46.9 (2.0) n=728; male head | $500 or more: 48.8 (1.5) n=1262; male head | none: 40.4 (2.0) n=691
+  any_dk: female head | $1-499: 28.6 (4.2) n=137; female head | $500 or more: 36.7 (3.5) n=234; female head | none: 46.6 (4.5) n=135; male head | $1-499: 18.3 (1.6) n=692; male head | $500 or more: 21.4 (1.3) n=1204; male head | none: 25.5 (1.8) n=663
+
+   liquid assets none: female minus male head
+  outcome                          female             male     diff           95% CI        p
+  very_insecure           35.1 ( 4.0) n=157   21.3 ( 1.6) n=738    +13.8 [  +5.4, +22.2]   0.0013
+  insecure                62.5 ( 4.1) n=157   51.6 ( 1.9) n=738    +10.9 [  +2.0, +19.8]   0.0164
+
+   liquid assets $1-499: female minus male head
+  outcome                          female             male     diff           95% CI        p
+  very_insecure           14.4 ( 3.1) n=149    8.7 ( 1.1) n=772     +5.7 [  -0.8, +12.1]   0.0866
+  insecure                33.0 ( 4.2) n=149   37.4 ( 1.9) n=772     -4.5 [ -13.4,  +4.5]   0.3301
+
+   liquid assets $500 or more: female minus male head
+  outcome                          female             male     diff           95% CI        p
+  very_insecure            9.5 ( 2.0) n=275    5.5 ( 0.7) n=1325    +4.0 [  -0.2,  +8.2]   0.0600
+  insecure                30.5 ( 3.1) n=275   23.7 ( 1.3) n=1325    +6.7 [  +0.1, +13.3]   0.0457
+  all units, insecure by liquid assets: $1-499: 36.7 (1.7); $500 or more: 24.9 (1.2); none: 53.7 (1.8)
+  all units, very insecure by liquid assets: $1-499: 9.6 (1.0); $500 or more: 6.2 (0.7); none: 24.0 (1.5)
+  all units, insecure by income class: $0-999: 55; $1,000-1,999: 43; $2,000-2,999: 36; $3,000-3,999: 38; $4,000-4,999: 26; $5,000-7,499: 23; $7,500-9,999: 22; $10,000 and over: 17; negative: 58; not ascertained: 42
+
+12. REASONS GIVEN (first reason; % of those giving a codable reason), by sex of head
+  why times will be good or bad (times_next_reason_1); no codable reason: female 33%, male 23%; n with reason = 2674
+level                                    female  male
+answer                                               
+employment                                 23.2  20.1
+labor-management relations                 14.7  15.5
+politics or government                     13.6  11.0
+business conditions, general                7.9   9.8
+purchasing power                            7.4   8.7
+demand situation (not purchasing power)     3.4   6.2
+war                                         9.5   4.7
+supply situation                            2.9   4.3
+  what security depends on (security_frame_1); no codable reason: female 36%, male 36%; n with reason = 2257
+level                                female  male
+answer                                           
+job, employment, business              30.7  43.0
+financial resources, savings, debts    26.0  19.2
+expenses                                9.5   9.6
+health                                  8.6   8.0
+religious or philosophical              5.4   7.1
+other personal factors                  6.6   5.0
+someone to depend on, relief            7.5   2.0
+ability or training                     2.6   2.6
+  why better or worse off (fin_change_reason_1); no codable reason: female 30%, male 24%; n with reason = 2626
+level                                                female  male
+answer                                                           
+higher income: raise or promotion                      25.9  19.1
+lower income: business, farm, professional profits      7.2  11.3
+lower income: unsteady work, unemployment, strike      12.1  15.3
+greater savings, house bought, bills paid               3.6   9.4
+higher income: business, farm, professional profits     1.9   4.6
+increased expenses                                      6.6   4.2
+higher income: steadier work, overtime                  4.2   4.2
+higher prices                                           3.7   3.8
+  why times will be good or bad, by race
+level                                    black  white
+answer                                               
+employment                                37.1   19.5
+labor-management relations                11.2   15.5
+politics or government                     6.8   11.7
+business conditions, general               2.4   10.0
+purchasing power                           7.3    8.7
+demand situation (not purchasing power)    2.4    6.0
+war                                        4.9    5.5
+supply situation                           0.5    4.3
+  why better or worse off, by race
+level                                                black  white
+answer                                                           
+higher income: raise or promotion                     17.4   20.6
+lower income: business, farm, professional profits     9.2   10.6
+lower income: unsteady work, unemployment, strike     27.9   13.6
+greater savings, house bought, bills paid              3.0    8.9
+higher income: business, farm, professional profits    3.3    4.2
+increased expenses                                     2.5    4.8
+higher income: steadier work, overtime                 2.7    4.3
+higher prices                                          4.5    3.8
+
+13. PROFILES (weighted)
+  group=male; n=2905; median_income_1949=3000; mean_income_1949=3575; median_liquid_assets=260; pct_no_liquid_assets=30; pct_65_plus=10; pct_under_35=33; pct_not_married=16; pct_children=0; pct_metro=30; pct_secondary_unit=13; pct_income_under_2000=27; pct_retired_or_not_working=16
+  group=female; n=606; median_income_1949=1560; mean_income_1949=1939; median_liquid_assets=200; pct_no_liquid_assets=33; pct_65_plus=17; pct_under_35=34; pct_not_married=95; pct_children=0; pct_metro=32; pct_secondary_unit=38; pct_income_under_2000=63; pct_retired_or_not_working=34
+  group=white; n=3299; median_income_1949=2822; mean_income_1949=3386; median_liquid_assets=300; pct_no_liquid_assets=27; pct_65_plus=12; pct_under_35=34; pct_not_married=30; pct_children=0; pct_metro=30; pct_secondary_unit=18; pct_income_under_2000=31; pct_retired_or_not_working=19
+  group=black; n=185; median_income_1949=1560; mean_income_1949=1948; median_liquid_assets=0; pct_no_liquid_assets=71; pct_65_plus=11; pct_under_35=32; pct_not_married=36; pct_children=0; pct_metro=31; pct_secondary_unit=12; pct_income_under_2000=60; pct_retired_or_not_working=26
+  occupation group by sex2 (%)
+level                                     female  male
+answer                                                
+skilled or semi-skilled                      9.4  31.4
+white collar (clerical and sales)           27.8  10.1
+farm operators                               2.4  11.0
+unskilled                                   13.1  10.8
+self-employed businessmen and artisans       2.3   9.4
+professional and semi-professional           9.8   5.8
+students, housewives, protective service    23.7   3.9
+unemployed                                   6.6   6.5
+retired                                      3.3   5.5
+managers and officials                       1.4   4.4
+farm laborers                                0.0   0.7
+not ascertained                              0.3   0.4
+  occupation group by race2 (%)
+level                                     black  white
+answer                                                
+skilled or semi-skilled                    14.4   28.5
+white collar (clerical and sales)           2.9   14.0
+farm operators                              8.4    9.6
+unskilled                                  41.2    8.8
+self-employed businessmen and artisans      3.5    8.5
+professional and semi-professional          2.0    6.8
+students, housewives, protective service    6.0    7.6
+unemployed                                 16.0    5.8
+retired                                     3.7    5.2
+managers and officials                      0.7    4.1
+farm laborers                               1.2    0.5
+not ascertained                             0.0    0.4
+
+14. TWO FINDINGS FOR THE WHOLE SAMPLE
+  worse off, by change in annual income 1948-49: about the same: 27.7 (1.5) n=1004; don't know: 26.1 (14.0) n=14; much larger in 1949 (+25% or more): 27.0 (2.1) n=539; much smaller (-25% or more): 68.6 (2.7) n=358; not ascertained: 37.7 (3.7) n=207; somewhat larger (+5 to 24%): 20.7 (1.5) n=820; somewhat smaller (-5 to 24%): 50.4 (2.3) n=535
+  plans a durable purchase, by price expectation: prices will go down: 30.0 (1.4) n=1279; prices will go up: 19.4 (2.1) n=401; stay about the same: 21.7 (1.3) n=1248
+  same within income: $2,000-3,999 | prices will go down: 32.9 (2.3) n=473; $2,000-3,999 | prices will go up: 21.8 (3.9) n=130; $2,000-3,999 | stay about the same: 23.2 (2.1) n=483; $4,000 and over | prices will go down: 39.0 (2.5) n=473; $4,000 and over | prices will go up: 30.3 (4.8) n=112; $4,000 and over | stay about the same: 34.7 (2.8) n=363; under $2,000 | prices will go down: 15.1 (2.1) n=326; under $2,000 | prices will go up: 12.3 (2.9) n=146; under $2,000 | stay about the same: 9.8 (1.6) n=392
+
+   expecting lower prices minus expecting higher prices
+  outcome                prices will go down prices will go up     diff           95% CI        p
+  plans_durable           30.0 ( 1.4) n=1279  19.4 ( 2.1) n=401    +10.6 [  +5.6, +15.5]   0.0000
+  good_times_ahead        45.3 ( 1.6) n=1177  42.2 ( 2.8) n=370     +3.1 [  -3.2,  +9.4]   0.3316
+  plans_durable by fin_position_vs_year_ago: better off: 35.0 (1.5); no change: 22.1 (1.3); not ascertained: 22.2 (7.7); undecided, don't know: 37.3 (10.1); worse off: 16.9 (1.2)
+  plans_durable by times_next_12_months: fairly bad: 20.8 (1.9); fairly good: 31.3 (1.4); middle position: 25.7 (2.1); not ascertained: 20.3 (2.5); undecided, don't know: 16.4 (1.5); very bad: 11.8 (3.9); very good: 30.6 (4.3)
+
+15. DISTRIBUTIONS OF THE ATTITUDE QUESTIONS, ALL UNITS (weighted %, all answers incl. not ascertained)
+  fin_position_vs_year_ago: worse off 33.9; no change 32.4; better off 31.8; not ascertained 1.1; undecided, don't know 0.8
+  times_now: fairly good 40.5; fairly bad 21.2; middle position 18.3; not ascertained 6.3; very good 5.9; undecided, don't know 3.9; very bad 3.9
+  times_vs_year_ago: somewhat worse 45.5; middle position 28.3; somewhat better 16.9; don't know 3.3; not ascertained 2.8; much worse 2.5; much better 0.7
+  times_next_12_months: fairly good 35.8; undecided, don't know 19.3; fairly bad 15.1; middle position 15.1; not ascertained 8.7; very good 3.6; very bad 2.3
+  income_expected_year_ahead: about the same 29.1; will make more 25.2; don't know, it depends 24.7; farm schedule 9.5; will make less 9.3; not ascertained 2.3
+  financial_security: rather secure 48.8; rather insecure 23.7; very insecure 12.2; very secure 12.0; not ascertained 2.8; don't know 0.5
+  prices_expected_1950: stay about the same 35.8; prices will go down 35.6; prices will go up 11.7; undecided, don't know 6.6; stay the same or go down (code inferred, codebook illegible) 5.8; stay the same or go up (code inferred, codebook illegible) 2.9; not ascertained 1.6
+  durable_prices_expected: will go down somewhat 55.0; stay about the same 21.7; undecided, don't know 11.4; will go up somewhat 6.9; will go down a lot 2.2; not ascertained 2.0; 'I hope they will come down' 0.4; will go up a lot (11% or more) 0.2; 0 0.1
+  job_chances: inapplicable (self-employed, not working) 27.0; same pay: could probably get 17.3; same pay: would be difficult 17.2; same pay: impossible 10.7; same pay: absolutely sure 9.9; farm schedule 9.4; not ascertained 2.3; less pay: would be difficult 1.8; don't know 1.7; less pay: could probably get 1.2; less pay: absolutely sure 0.7; less pay: impossible 0.6; in a depression: impossible 0.2; in a depression: difficult 0.1; in a depression: absolutely sure 0.0
+  interview dates: January 16-31 1090; February 1-14 891; February 15-28 797; January 1-15, 1950 641; March 1 or later 80; not ascertained 13

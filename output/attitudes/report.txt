@@ -1,0 +1,321 @@
+WHOSE OPTIMISM?  1950 Survey of Consumer Finances, attitude questions
+svy 0.37.0; design: weights only (course rule); n = 3512 spending units
+Percentages are weighted; standard errors in parentheses; differences in percentage points.
+
+1. ALL SPENDING UNITS
+  worse_off               34.3 (0.9)  n=3477
+  better_off              32.1 (0.9)  n=3477
+  insecure                37.0 (0.9)  n=3420
+  very_insecure           12.6 (0.6)  n=3420
+  good_times_ahead        43.2 (0.9)  n=3216
+  bad_times_ahead         19.1 (0.8)  n=3216
+  dk_times_ahead          21.2 (0.8)  n=3216
+  dk_own_income           28.0 (0.9)  n=3029
+  dk_prices                6.7 (0.5)  n=3460
+  any_dk                  24.5 (0.8)  n=3068
+  income_will_rise        28.5 (0.9)  n=3029
+  prices_will_fall        36.2 (0.9)  n=3460
+  job_hard_to_replace     45.4 (1.2)  n=2096
+  plans_durable           24.6 (0.8)  n=3510
+  fed_optimist            31.7 (1.0)  n=2796
+
+2. RACE: black minus white, all incomes
+  outcome                           black            white     diff           95% CI        p
+  worse_off               51.7 ( 3.8) n=184   32.9 ( 0.9) n=3265   +18.8 [ +11.0, +26.5]   0.0000
+  better_off              19.2 ( 3.0) n=184   33.1 ( 0.9) n=3265   -13.9 [ -20.0,  -7.7]   0.0000
+  insecure                50.1 ( 3.9) n=180   35.8 ( 0.9) n=3214   +14.3 [  +6.5, +22.1]   0.0004
+  very_insecure           21.8 ( 3.2) n=180   12.0 ( 0.6) n=3214    +9.8 [  +3.4, +16.2]   0.0027
+  good_times_ahead        40.1 ( 4.0) n=164   43.5 ( 1.0) n=3030    -3.4 [ -11.5,  +4.7]   0.4102
+  bad_times_ahead         18.8 ( 3.1) n=164   19.2 ( 0.8) n=3030    -0.4 [  -6.7,  +5.9]   0.8986
+  dk_times_ahead          24.7 ( 3.5) n=164   20.8 ( 0.8) n=3030    +3.9 [  -3.2, +10.9]   0.2820
+  dk_own_income           42.3 ( 4.1) n=156   26.8 ( 0.9) n=2847   +15.5 [  +7.3, +23.7]   0.0002
+  dk_prices               11.2 ( 2.4) n=185    6.3 ( 0.5) n=3247    +4.9 [  +0.1,  +9.8]   0.0459
+  any_dk                  29.5 ( 3.8) n=157   24.1 ( 0.9) n=2889    +5.4 [  -2.3, +13.0]   0.1701
+  income_will_rise        23.4 ( 3.5) n=156   29.0 ( 0.9) n=2847    -5.6 [ -12.7,  +1.4]   0.1184
+  prices_will_fall        24.3 ( 3.3) n=185   37.0 ( 0.9) n=3247   -12.7 [ -19.4,  -6.0]   0.0002
+  job_hard_to_replace     46.6 ( 5.0) n=104   45.4 ( 1.2) n=1977    +1.3 [  -8.9, +11.4]   0.8092
+  plans_durable           19.7 ( 3.1) n=185   24.9 ( 0.8) n=3297    -5.1 [ -11.3,  +1.0]   0.1035
+  fed_optimist            25.8 ( 3.9) n=138   32.3 ( 1.0) n=2638    -6.6 [ -14.4,  +1.3]   0.0997
+  Holm-adjusted p (9 headline outcomes): worse_off 0.000, better_off 0.000, very_insecure 0.016, good_times_ahead 0.564, dk_times_ahead 0.564, dk_own_income 0.001, any_dk 0.510, plans_durable 0.498, fed_optimist 0.498
+
+   RACE within 1949 income under $2,000
+  outcome                           black            white     diff           95% CI        p
+  worse_off               59.0 ( 4.9) n=110   43.7 ( 1.8) n=927    +15.3 [  +5.1, +25.6]   0.0034
+  better_off              13.4 ( 3.4) n=110   23.5 ( 1.5) n=927    -10.1 [ -17.4,  -2.7]   0.0071
+  insecure                59.1 ( 5.0) n=107   46.3 ( 1.8) n=913    +12.8 [  +2.5, +23.2]   0.0154
+  very_insecure           31.1 ( 4.7) n=107   19.8 ( 1.4) n=913    +11.3 [  +1.7, +20.9]   0.0217
+  good_times_ahead        37.8 ( 5.2) n=98    36.5 ( 1.8) n=862     +1.2 [  -9.4, +11.9]   0.8190
+  bad_times_ahead         17.0 ( 3.8) n=98    22.7 ( 1.5) n=862     -5.7 [ -13.8,  +2.4]   0.1713
+  dk_times_ahead          31.1 ( 4.9) n=98    26.8 ( 1.6) n=862     +4.3 [  -5.9, +14.4]   0.4084
+  dk_own_income           48.6 ( 5.5) n=87    33.7 ( 1.9) n=712    +14.8 [  +3.4, +26.2]   0.0110
+  dk_prices               12.0 ( 3.2) n=111    8.8 ( 1.0) n=924     +3.2 [  -3.4,  +9.8]   0.3403
+  any_dk                  34.0 ( 5.1) n=94    31.0 ( 1.7) n=820     +3.1 [  -7.6, +13.7]   0.5720
+  income_will_rise        24.7 ( 4.7) n=87    25.9 ( 1.8) n=712     -1.3 [ -11.2,  +8.6]   0.8007
+  prices_will_fall        20.6 ( 4.0) n=111   32.9 ( 1.7) n=924    -12.3 [ -20.7,  -3.8]   0.0044
+  job_hard_to_replace     42.7 ( 7.4) n=47    36.5 ( 2.8) n=355     +6.2 [  -9.3, +21.7]   0.4348
+  plans_durable           13.7 ( 3.4) n=111   12.0 ( 1.1) n=941     +1.8 [  -5.3,  +8.8]   0.6190
+  fed_optimist            24.1 ( 5.1) n=76    27.7 ( 1.9) n=659     -3.6 [ -14.3,  +7.1]   0.5142
+
+   RACE within 1949 income $2,000-3,999
+  outcome                           black            white     diff           95% CI        p
+  worse_off               40.6 ( 6.8) n=55    31.8 ( 1.4) n=1221    +8.9 [  -4.8, +22.6]   0.2042
+  better_off              26.2 ( 6.0) n=55    32.7 ( 1.4) n=1221    -6.6 [ -18.7,  +5.5]   0.2880
+  insecure                38.5 ( 6.8) n=54    36.2 ( 1.5) n=1197    +2.3 [ -11.4, +15.9]   0.7459
+  very_insecure            7.4 ( 3.7) n=54    10.6 ( 1.0) n=1197    -3.1 [ -10.6,  +4.3]   0.4122
+  good_times_ahead        44.4 ( 7.3) n=49    43.0 ( 1.6) n=1132    +1.4 [ -13.3, +16.1]   0.8493
+  bad_times_ahead         16.9 ( 5.5) n=49    17.2 ( 1.2) n=1132    -0.3 [ -11.4, +10.8]   0.9574
+  dk_times_ahead          17.3 ( 5.5) n=49    21.2 ( 1.3) n=1132    -3.9 [ -14.9,  +7.1]   0.4872
+  dk_own_income           35.9 ( 6.7) n=54    25.5 ( 1.4) n=1113   +10.5 [  -3.0, +23.9]   0.1286
+  dk_prices               11.3 ( 4.4) n=55     6.1 ( 0.7) n=1208    +5.2 [  -3.6, +14.0]   0.2497
+  any_dk                  26.4 ( 6.7) n=47    24.5 ( 1.4) n=1071    +1.9 [ -11.5, +15.2]   0.7828
+  income_will_rise        21.8 ( 5.7) n=54    29.4 ( 1.5) n=1113    -7.6 [ -19.2,  +4.0]   0.1974
+  prices_will_fall        29.1 ( 6.3) n=55    37.1 ( 1.5) n=1208    -8.1 [ -20.8,  +4.6]   0.2119
+  job_hard_to_replace     51.6 ( 7.5) n=47    48.7 ( 1.8) n=870     +2.9 [ -12.2, +18.1]   0.7061
+  plans_durable           31.4 ( 6.4) n=55    26.5 ( 1.3) n=1232    +4.9 [  -8.0, +17.8]   0.4576
+  fed_optimist            28.5 ( 6.7) n=49    31.9 ( 1.5) n=1030    -3.4 [ -16.8, +10.0]   0.6201
+
+3. SEX OF HEAD: female minus male, all incomes
+  outcome                          female             male     diff           95% CI        p
+  worse_off               35.4 ( 2.2) n=591   34.0 ( 1.0) n=2885    +1.3 [  -3.3,  +6.0]   0.5735
+  better_off              26.9 ( 2.0) n=591   33.2 ( 0.9) n=2885    -6.3 [ -10.7,  -2.0]   0.0042
+  insecure                41.8 ( 2.2) n=582   36.0 ( 1.0) n=2837    +5.8 [  +1.0, +10.6]   0.0176
+  very_insecure           19.2 ( 1.8) n=582   11.1 ( 0.7) n=2837    +8.0 [  +4.2, +11.8]   0.0000
+  good_times_ahead        30.7 ( 2.2) n=533   45.8 ( 1.0) n=2682   -15.1 [ -19.9, -10.3]   0.0000
+  bad_times_ahead         23.3 ( 2.0) n=533   18.3 ( 0.8) n=2682    +5.0 [  +0.7,  +9.3]   0.0223
+  dk_times_ahead          32.1 ( 2.2) n=533   18.9 ( 0.8) n=2682   +13.3 [  +8.6, +17.9]   0.0000
+  dk_own_income           29.4 ( 2.1) n=562   27.6 ( 1.0) n=2466    +1.8 [  -2.8,  +6.3]   0.4520
+  dk_prices                9.5 ( 1.3) n=592    6.1 ( 0.5) n=2867    +3.4 [  +0.6,  +6.2]   0.0162
+  any_dk                  37.7 ( 2.4) n=507   21.8 ( 0.9) n=2560   +16.0 [ +11.0, +20.9]   0.0000
+  income_will_rise        28.0 ( 2.1) n=562   28.6 ( 1.0) n=2466    -0.7 [  -5.2,  +3.8]   0.7661
+  prices_will_fall        35.3 ( 2.1) n=592   36.4 ( 1.0) n=2867    -1.1 [  -5.7,  +3.5]   0.6339
+  job_hard_to_replace     40.2 ( 2.9) n=341   46.5 ( 1.3) n=1754    -6.3 [ -12.5,  -0.0]   0.0498
+  plans_durable           14.3 ( 1.6) n=606   26.8 ( 0.9) n=2903   -12.5 [ -16.0,  -9.0]   0.0000
+  fed_optimist            23.4 ( 2.1) n=504   33.6 ( 1.1) n=2291   -10.2 [ -14.8,  -5.6]   0.0000
+  Holm-adjusted p (9 headline outcomes): worse_off 0.904, better_off 0.013, very_insecure 0.000, good_times_ahead 0.000, dk_times_ahead 0.000, dk_own_income 0.904, any_dk 0.000, plans_durable 0.000, fed_optimist 0.000
+
+   SEX within 1949 income under $2,000
+  outcome                          female             male     diff           95% CI        p
+  worse_off               39.7 ( 2.9) n=340   48.8 ( 2.0) n=707     -9.1 [ -16.0,  -2.3]   0.0093
+  better_off              24.9 ( 2.6) n=340   20.7 ( 1.6) n=707     +4.2 [  -1.7, +10.2]   0.1631
+  insecure                49.4 ( 2.9) n=341   47.0 ( 2.0) n=689     +2.4 [  -4.6,  +9.4]   0.5012
+  very_insecure           25.0 ( 2.5) n=341   19.1 ( 1.6) n=689     +5.9 [  +0.0, +11.8]   0.0502
+  good_times_ahead        29.2 ( 2.8) n=310   40.3 ( 2.1) n=657    -11.1 [ -18.0,  -4.3]   0.0015
+  bad_times_ahead         24.9 ( 2.7) n=310   20.8 ( 1.7) n=657     +4.1 [  -2.1, +10.3]   0.1916
+  dk_times_ahead          36.0 ( 3.0) n=310   23.1 ( 1.8) n=657    +12.8 [  +6.1, +19.6]   0.0002
+  dk_own_income           34.9 ( 2.9) n=324   36.2 ( 2.3) n=483     -1.3 [  -8.5,  +5.9]   0.7216
+  dk_prices                9.9 ( 1.7) n=343    8.8 ( 1.2) n=702     +1.1 [  -3.0,  +5.2]   0.6095
+  any_dk                  40.3 ( 3.1) n=292   27.0 ( 1.9) n=629    +13.3 [  +6.1, +20.4]   0.0003
+  income_will_rise        25.4 ( 2.6) n=324   25.8 ( 2.1) n=483     -0.3 [  -7.0,  +6.3]   0.9222
+  prices_will_fall        34.5 ( 2.8) n=343   29.9 ( 1.9) n=702     +4.6 [  -2.0, +11.1]   0.1705
+  job_hard_to_replace     36.4 ( 4.0) n=173   37.9 ( 3.4) n=230     -1.5 [ -11.8,  +8.7]   0.7672
+  plans_durable           10.1 ( 1.8) n=352   13.3 ( 1.3) n=710     -3.2 [  -7.6,  +1.1]   0.1466
+  fed_optimist            21.6 ( 2.6) n=290   30.6 ( 2.3) n=450     -9.0 [ -15.9,  -2.1]   0.0107
+
+   SEX within 1949 income $2,000-3,999
+  outcome                          female             male     diff           95% CI        p
+  worse_off               31.3 ( 3.8) n=183   32.6 ( 1.5) n=1103    -1.2 [  -9.2,  +6.7]   0.7599
+  better_off              27.9 ( 3.6) n=183   32.9 ( 1.5) n=1103    -5.0 [ -12.7,  +2.6]   0.1952
+  insecure                31.5 ( 3.9) n=176   37.4 ( 1.6) n=1083    -5.9 [ -14.1,  +2.2]   0.1550
+  very_insecure           11.1 ( 2.7) n=176   10.2 ( 1.0) n=1083    +0.9 [  -4.7,  +6.5]   0.7539
+  good_times_ahead        30.1 ( 4.0) n=160   44.8 ( 1.6) n=1029   -14.7 [ -23.1,  -6.2]   0.0007
+  bad_times_ahead         21.7 ( 3.7) n=160   16.5 ( 1.2) n=1029    +5.1 [  -2.4, +12.7]   0.1816
+  dk_times_ahead          27.9 ( 3.8) n=160   20.1 ( 1.3) n=1029    +7.8 [  -0.1, +15.7]   0.0542
+  dk_own_income           21.1 ( 3.4) n=176   27.0 ( 1.5) n=1001    -5.9 [ -13.2,  +1.3]   0.1092
+  dk_prices                9.8 ( 2.5) n=182    6.1 ( 0.8) n=1091    +3.8 [  -1.4,  +8.9]   0.1532
+  any_dk                  36.3 ( 4.2) n=154   23.0 ( 1.4) n=972    +13.3 [  +4.6, +22.0]   0.0029
+  income_will_rise        32.6 ( 3.9) n=176   28.1 ( 1.5) n=1001    +4.5 [  -3.7, +12.7]   0.2795
+  prices_will_fall        38.7 ( 4.0) n=182   36.6 ( 1.5) n=1091    +2.1 [  -6.2, +10.5]   0.6155
+  job_hard_to_replace     44.6 ( 4.8) n=128   49.6 ( 1.9) n=797     -5.1 [ -15.2,  +5.0]   0.3243
+  plans_durable           19.4 ( 3.1) n=185   27.8 ( 1.4) n=1112    -8.4 [ -15.1,  -1.6]   0.0153
+  fed_optimist            25.6 ( 3.9) n=156   32.4 ( 1.6) n=931     -6.8 [ -15.0,  +1.4]   0.1062
+
+   SEX within 1949 income $4,000 and over
+  outcome                          female             male     diff           95% CI        p
+  worse_off               18.5 ( 4.9) n=65    22.6 ( 1.4) n=1045    -4.1 [ -14.1,  +5.9]   0.4244
+  better_off              34.3 ( 6.9) n=65    45.1 ( 1.7) n=1045   -10.7 [ -24.7,  +3.3]   0.1336
+  insecure                20.4 ( 5.5) n=64    24.2 ( 1.5) n=1035    -3.7 [ -14.9,  +7.5]   0.5156
+  very_insecure            3.4 ( 1.9) n=64     5.1 ( 0.8) n=1035    -1.7 [  -5.7,  +2.3]   0.4113
+  good_times_ahead        42.9 ( 7.4) n=60    52.4 ( 1.8) n=966     -9.5 [ -24.4,  +5.3]   0.2081
+  bad_times_ahead         18.8 ( 6.1) n=60    17.9 ( 1.4) n=966     +1.0 [ -11.2, +13.1]   0.8780
+  dk_times_ahead          17.1 ( 5.3) n=60    13.4 ( 1.2) n=966     +3.7 [  -6.9, +14.3]   0.4940
+  dk_own_income           15.0 ( 5.2) n=60    22.6 ( 1.5) n=976     -7.6 [ -18.3,  +3.1]   0.1636
+  dk_prices                4.7 ( 3.4) n=64     3.9 ( 0.7) n=1044    +0.8 [  -6.0,  +7.5]   0.8263
+  any_dk                  21.8 ( 6.1) n=58    15.7 ( 1.3) n=929     +6.2 [  -6.1, +18.4]   0.3249
+  income_will_rise        29.0 ( 6.6) n=60    31.4 ( 1.6) n=976     -2.4 [ -15.7, +10.9]   0.7214
+  prices_will_fall        31.7 ( 6.3) n=64    41.9 ( 1.7) n=1044   -10.2 [ -23.0,  +2.6]   0.1181
+  job_hard_to_replace     45.9 ( 9.1) n=40    45.4 ( 2.0) n=726     +0.5 [ -17.7, +18.8]   0.9546
+  plans_durable           27.1 ( 6.4) n=66    36.9 ( 1.6) n=1051    -9.8 [ -22.7,  +3.1]   0.1356
+  fed_optimist            27.1 ( 6.7) n=56    37.5 ( 1.8) n=904    -10.4 [ -23.9,  +3.1]   0.1330
+
+   SEX among UNMARRIED heads only (women heads vs unmarried men)
+  outcome                          female             male     diff           95% CI        p
+  worse_off               35.2 ( 2.2) n=560   30.5 ( 2.5) n=416     +4.7 [  -1.8, +11.2]   0.1560
+  better_off              27.2 ( 2.1) n=560   36.4 ( 2.6) n=416     -9.2 [ -15.6,  -2.7]   0.0054
+  insecure                39.7 ( 2.3) n=553   25.3 ( 2.4) n=403    +14.5 [  +8.0, +20.9]   0.0000
+  very_insecure           17.7 ( 1.8) n=553    6.9 ( 1.4) n=403    +10.9 [  +6.4, +15.3]   0.0000
+  good_times_ahead        30.7 ( 2.3) n=506   55.4 ( 2.8) n=389    -24.7 [ -31.7, -17.7]   0.0000
+  bad_times_ahead         23.5 ( 2.1) n=506   13.5 ( 1.8) n=389    +10.0 [  +4.6, +15.5]   0.0003
+  dk_times_ahead          31.8 ( 2.3) n=506   18.7 ( 2.2) n=389    +13.0 [  +6.8, +19.2]   0.0000
+  dk_own_income           29.3 ( 2.2) n=535   22.7 ( 2.4) n=370     +6.6 [  +0.3, +12.9]   0.0398
+  dk_prices                9.4 ( 1.4) n=562    3.2 ( 0.9) n=413     +6.3 [  +3.0,  +9.5]   0.0001
+  any_dk                  37.5 ( 2.4) n=482   19.2 ( 2.3) n=370    +18.3 [ +11.8, +24.8]   0.0000
+  income_will_rise        28.0 ( 2.1) n=535   40.6 ( 2.8) n=370    -12.6 [ -19.5,  -5.7]   0.0004
+  prices_will_fall        35.7 ( 2.2) n=562   42.0 ( 2.7) n=413     -6.3 [ -13.1,  +0.5]   0.0684
+  job_hard_to_replace     39.3 ( 3.0) n=327   40.2 ( 3.2) n=276     -0.9 [  -9.5,  +7.7]   0.8374
+  plans_durable           14.4 ( 1.6) n=575   15.0 ( 1.9) n=420     -0.5 [  -5.4,  +4.3]   0.8261
+  fed_optimist            23.2 ( 2.1) n=480   44.2 ( 2.9) n=348    -21.0 [ -28.0, -13.9]   0.0000
+
+4. LOGISTIC REGRESSIONS (svy GLM, binomial).  Odds ratios for black (vs white) and
+   female head (vs male).  M2 adds income class, age, occupation group, size of place, marital status.
+  worse_off
+     M1 black   OR  2.18 [1.59, 2.98]  p=0.0000
+     M1 female  OR  1.05 [0.85, 1.28]  p=0.6709
+     M2 black   OR  1.44 [1.02, 2.05]  p=0.0398
+     M2 female  OR  1.07 [0.78, 1.47]  p=0.6691
+  better_off
+     M1 black   OR  0.48 [0.33, 0.71]  p=0.0003
+     M1 female  OR  0.76 [0.61, 0.94]  p=0.0115
+     M2 black   OR  0.79 [0.51, 1.21]  p=0.2764
+     M2 female  OR  0.80 [0.57, 1.11]  p=0.1832
+  very_insecure
+     M1 black   OR  2.01 [1.36, 2.96]  p=0.0004
+     M1 female  OR  1.88 [1.44, 2.45]  p=0.0000
+     M2 black   OR  0.93 [0.59, 1.46]  p=0.7554
+     M2 female  OR  2.97 [1.82, 4.84]  p=0.0000
+  good_times_ahead
+     M1 black   OR  0.88 [0.63, 1.23]  p=0.4583
+     M1 female  OR  0.53 [0.42, 0.66]  p=0.0000
+     M2 black   OR  1.04 [0.72, 1.49]  p=0.8495
+     M2 female  OR  0.43 [0.32, 0.59]  p=0.0000
+  dk_times_ahead
+     M1 black   OR  1.23 [0.84, 1.80]  p=0.2903
+     M1 female  OR  2.03 [1.62, 2.55]  p=0.0000
+     M2 black   OR  0.94 [0.62, 1.41]  p=0.7604
+     M2 female  OR  1.81 [1.26, 2.60]  p=0.0013
+  dk_own_income
+     M1 black   OR  1.99 [1.42, 2.80]  p=0.0001
+     M1 female  OR  1.10 [0.88, 1.38]  p=0.3935
+     M2 black   OR  1.37 [0.93, 2.01]  p=0.1094
+     M2 female  OR  1.28 [0.91, 1.81]  p=0.1573
+  any_dk
+     M1 black   OR  1.29 [0.88, 1.87]  p=0.1889
+     M1 female  OR  2.17 [1.74, 2.71]  p=0.0000
+     M2 black   OR  0.98 [0.65, 1.47]  p=0.9123
+     M2 female  OR  2.22 [1.54, 3.19]  p=0.0000
+  plans_durable
+     M1 black   OR  0.76 [0.51, 1.12]  p=0.1688
+     M1 female  OR  0.44 [0.34, 0.58]  p=0.0000
+     M2 black   OR  1.11 [0.70, 1.74]  p=0.6632
+     M2 female  OR  1.17 [0.80, 1.71]  p=0.4273
+  fed_optimist
+     M1 black   OR  0.73 [0.49, 1.10]  p=0.1360
+     M1 female  OR  0.60 [0.47, 0.77]  p=0.0001
+     M2 black   OR  0.90 [0.58, 1.41]  p=0.6478
+     M2 female  OR  0.47 [0.33, 0.67]  p=0.0000
+  insecure
+     M1 black   OR  1.79 [1.30, 2.45]  p=0.0003
+     M1 female  OR  1.27 [1.04, 1.55]  p=0.0198
+     M2 black   OR  1.08 [0.76, 1.54]  p=0.6683
+     M2 female  OR  2.01 [1.45, 2.80]  p=0.0000
+
+   Adjusted gaps from M2 (average change in predicted probability, percentage points):
+     worse_off              black-white  +7.7   female-male  +1.4
+     better_off             black-white  -4.4   female-male  -4.2
+     very_insecure          black-white  -0.7   female-male +13.0
+     good_times_ahead       black-white  +0.8   female-male -18.5
+     dk_times_ahead         black-white  -1.0   female-male +10.3
+     dk_own_income          black-white  +6.2   female-male  +4.8
+     any_dk                 black-white  -0.4   female-male +15.3
+     plans_durable          black-white  +1.7   female-male  +2.6
+     fed_optimist           black-white  -2.1   female-male -14.0
+     insecure               black-white  +1.6   female-male +14.9
+
+5. WHO THE 'OPTIMISTIC CONSUMER' WAS
+   Share of each group of answers that came from white, male-headed spending units.
+  all spending units                       76.7 (0.8)
+  optimists (good times + income holds/rises) 81.9 (1.5)
+  expect good times                        82.3 (1.2)
+  better off than a year ago               81.9 (1.3)
+  plan a durable purchase                  85.2 (1.4)
+  don't know about times ahead             68.7 (2.0)
+  very insecure                            65.2 (2.6)
+  worse off                                73.4 (1.4)
+
+6. RACE BY SEX OF HEAD (weighted %, unweighted n)
+  worse_off              | black, female head: 48.5 (8.5) n=38 | black, male head: 52.5 (4.3) n=146 | white, female head: 34.1 (2.2) n=549 | white, male head: 32.6 (1.0) n=2716
+  better_off             | black, female head: 21.9 (6.9) n=38 | black, male head: 18.5 (3.3) n=146 | white, female head: 27.6 (2.1) n=549 | white, male head: 34.3 (1.0) n=2716
+  very_insecure          | black, female head: 35.2 (8.1) n=37 | black, male head: 18.2 (3.4) n=143 | white, female head: 17.9 (1.8) n=542 | white, male head: 10.7 (0.7) n=2672
+  good_times_ahead       | black, female head: 23.4 (8.3) n=31 | black, male head: 44.1 (4.5) n=133 | white, female head: 31.4 (2.3) n=500 | white, male head: 45.9 (1.1) n=2530
+  dk_times_ahead         | black, female head: 42.7 (9.2) n=31 | black, male head: 20.3 (3.6) n=133 | white, female head: 31.2 (2.3) n=500 | white, male head: 18.7 (0.8) n=2530
+  dk_own_income          | black, female head: 46.2 (8.5) n=37 | black, male head: 41.1 (4.6) n=119 | white, female head: 28.2 (2.2) n=521 | white, male head: 26.5 (1.0) n=2326
+  any_dk                 | black, female head: 46.3 (9.3) n=31 | black, male head: 25.2 (4.1) n=126 | white, female head: 36.9 (2.4) n=474 | white, male head: 21.5 (0.9) n=2415
+  plans_durable          | black, female head: 16.4 (6.2) n=39 | black, male head: 20.7 (3.5) n=146 | white, female head: 13.8 (1.6) n=563 | white, male head: 27.3 (0.9) n=2734
+  fed_optimist           | black, female head: 20.5 (8.1) n=29 | black, male head: 27.1 (4.4) n=109 | white, female head: 23.8 (2.2) n=473 | white, male head: 34.3 (1.1) n=2165
+
+7. SENSITIVITY: same headline tests with the sample point as a cluster (66 points).
+   Point estimates are unchanged; standard errors and p-values change.
+  race2 worse_off              diff  +18.8  SE  5.4  p=0.0008
+  race2 better_off             diff  -13.9  SE  3.7  p=0.0004
+  race2 very_insecure          diff   +9.8  SE  4.0  p=0.0171
+  race2 good_times_ahead       diff   -3.4  SE  4.3  p=0.4340
+  race2 dk_times_ahead         diff   +3.9  SE  4.2  p=0.3601
+  race2 dk_own_income          diff  +15.5  SE  3.9  p=0.0002
+  race2 any_dk                 diff   +5.4  SE  4.7  p=0.2564
+  race2 plans_durable          diff   -5.1  SE  3.1  p=0.1020
+  race2 fed_optimist           diff   -6.6  SE  4.2  p=0.1247
+  sex2  worse_off              diff   +1.3  SE  2.3  p=0.5591
+  sex2  better_off             diff   -6.3  SE  2.3  p=0.0082
+  sex2  very_insecure          diff   +8.0  SE  2.0  p=0.0002
+  sex2  good_times_ahead       diff  -15.1  SE  2.6  p=0.0000
+  sex2  dk_times_ahead         diff  +13.3  SE  2.6  p=0.0000
+  sex2  dk_own_income          diff   +1.8  SE  2.3  p=0.4495
+  sex2  any_dk                 diff  +16.0  SE  3.0  p=0.0000
+  sex2  plans_durable          diff  -12.5  SE  1.8  p=0.0000
+  sex2  fed_optimist           diff  -10.2  SE  2.5  p=0.0001
+
+8. SEX OF THE PERSON WHO ANSWERED
+   The survey records the sex of the respondent as well as of the head.
+  interviews answered by a woman: 31.2% (0.9); unweighted 1063 of 3506
+
+   A. MALE-HEADED units: a woman answered vs a man answered
+  outcome                          female             male     diff           95% CI        p
+  good_times_ahead        37.6 ( 2.5) n=425   47.4 ( 1.1) n=2253    -9.8 [ -15.2,  -4.4]   0.0004
+  dk_times_ahead          25.6 ( 2.3) n=425   17.4 ( 0.9) n=2253    +8.2 [  +3.3, +13.0]   0.0010
+  any_dk                  29.2 ( 2.5) n=402   20.2 ( 0.9) n=2154    +9.0 [  +3.8, +14.2]   0.0007
+  dk_own_income           36.1 ( 2.5) n=434   25.8 ( 1.1) n=2028   +10.3 [  +5.0, +15.7]   0.0002
+  very_insecure           14.2 ( 1.8) n=462   10.5 ( 0.7) n=2371    +3.7 [  -0.0,  +7.5]   0.0506
+  insecure                40.1 ( 2.5) n=462   35.1 ( 1.1) n=2371    +5.0 [  -0.3, +10.3]   0.0625
+  worse_off               31.9 ( 2.4) n=462   34.5 ( 1.0) n=2419    -2.6 [  -7.6,  +2.4]   0.3120
+  fed_optimist            24.4 ( 2.3) n=401   35.6 ( 1.2) n=1886   -11.2 [ -16.3,  -6.2]   0.0000
+
+   B. Women heads vs male heads who answered for themselves
+  outcome                          female             male     diff           95% CI        p
+  good_times_ahead        30.7 ( 2.2) n=533   47.4 ( 1.1) n=2253   -16.7 [ -21.6, -11.9]   0.0000
+  dk_times_ahead          32.1 ( 2.2) n=533   17.4 ( 0.9) n=2253   +14.7 [ +10.0, +19.3]   0.0000
+  any_dk                  37.7 ( 2.4) n=507   20.2 ( 0.9) n=2154   +17.5 [ +12.5, +22.5]   0.0000
+  dk_own_income           29.4 ( 2.1) n=562   25.8 ( 1.1) n=2028    +3.6 [  -1.1,  +8.2]   0.1312
+  very_insecure           19.2 ( 1.8) n=582   10.5 ( 0.7) n=2371    +8.7 [  +4.9, +12.5]   0.0000
+  insecure                41.8 ( 2.2) n=582   35.1 ( 1.1) n=2371    +6.7 [  +1.8, +11.5]   0.0075
+  worse_off               35.4 ( 2.2) n=591   34.5 ( 1.0) n=2419    +0.9 [  -3.8,  +5.6]   0.7048
+  fed_optimist            23.4 ( 2.1) n=504   35.6 ( 1.2) n=1886   -12.2 [ -16.9,  -7.5]   0.0000
+
+   C. WOMEN RESPONDENTS only: women heads ('female') vs wives in male-headed units ('male')
+  outcome                          female             male     diff           95% CI        p
+  good_times_ahead        30.4 ( 2.2) n=525   37.6 ( 2.5) n=425     -7.2 [ -13.8,  -0.6]   0.0322
+  dk_times_ahead          32.0 ( 2.2) n=525   25.6 ( 2.3) n=425     +6.4 [  +0.1, +12.7]   0.0465
+  any_dk                  37.6 ( 2.4) n=500   29.2 ( 2.5) n=402     +8.4 [  +1.7, +15.2]   0.0142
+  dk_own_income           29.4 ( 2.1) n=554   36.1 ( 2.5) n=434     -6.7 [ -13.2,  -0.3]   0.0417
+  very_insecure           19.2 ( 1.8) n=573   14.2 ( 1.8) n=462     +5.0 [  -0.0,  +9.9]   0.0516
+  insecure                41.5 ( 2.3) n=573   40.1 ( 2.5) n=462     +1.4 [  -5.2,  +7.9]   0.6776
+  worse_off               35.6 ( 2.2) n=582   31.9 ( 2.4) n=462     +3.7 [  -2.5, +10.0]   0.2420
+  fed_optimist            23.2 ( 2.1) n=497   24.4 ( 2.3) n=401     -1.2 [  -7.2,  +4.8]   0.6978
+
+   Logit with both sex of head and sex of respondent (plus M2 controls):
+     good_times_ahead   female          OR  0.67 [0.45, 0.99] p=0.0423
+     good_times_ahead   woman_answered  OR  0.64 [0.50, 0.81] p=0.0003
+     any_dk             female          OR  1.39 [0.89, 2.16] p=0.1492
+     any_dk             woman_answered  OR  1.65 [1.26, 2.15] p=0.0003
+     very_insecure      female          OR  2.51 [1.41, 4.48] p=0.0018
+     very_insecure      woman_answered  OR  1.21 [0.85, 1.71] p=0.2872
+     fed_optimist       female          OR  0.79 [0.51, 1.22] p=0.2803
+     fed_optimist       woman_answered  OR  0.59 [0.45, 0.78] p=0.0002
