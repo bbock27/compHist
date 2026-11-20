@@ -140,6 +140,7 @@ not ascertained                             0.0    0.4
   good_times_ahead        45.3 ( 1.6) n=1177  42.2 ( 2.8) n=370     +3.1 [  -3.2,  +9.4]   0.3316
   plans_durable by fin_position_vs_year_ago: better off: 35.0 (1.5); no change: 22.1 (1.3); not ascertained: 22.2 (7.7); undecided, don't know: 37.3 (10.1); worse off: 16.9 (1.2)
   plans_durable by times_next_12_months: fairly bad: 20.8 (1.9); fairly good: 31.3 (1.4); middle position: 25.7 (2.1); not ascertained: 20.3 (2.5); undecided, don't know: 16.4 (1.5); very bad: 11.8 (3.9); very good: 30.6 (4.3)
+  good_times_ahead by fin_position_vs_year_ago: better off: 56.0 (1.7); no change: 41.4 (1.7); not ascertained: 27.5 (13.2); undecided, don't know: 57.0 (11.2); worse off: 32.4 (1.5)
 
 15. DISTRIBUTIONS OF THE ATTITUDE QUESTIONS, ALL UNITS (weighted %, all answers incl. not ascertained)
   fin_position_vs_year_ago: worse off 33.9; no change 32.4; better off 31.8; not ascertained 1.1; undecided, don't know 0.8

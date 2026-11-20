@@ -136,7 +136,8 @@ def main():
     g = gaps(s, d, "pe2", "prices will go down", "prices will go up", ["plans_durable", "good_times_ahead"])
     show(g, "prices will go down", "prices will go up", "   expecting lower prices minus expecting higher prices")
     t = by(s, d, "good_times_ahead", "plans_durable".replace("plans_durable", "price_exp"))
-    for y, g_ in [("plans_durable", "fin_position_vs_year_ago"), ("plans_durable", "times_next_12_months")]:
+    for y, g_ in [("plans_durable", "fin_position_vs_year_ago"), ("plans_durable", "times_next_12_months"),
+                  ("good_times_ahead", "fin_position_vs_year_ago")]:
         t = by(s, d, y, g_); say(f"  {y} by {g_}: " + "; ".join(f"{l}: {p:.1f} ({e:.1f})" for l, p, e in zip(t.level, t.pct, t.se)))
 
     say("", "15. DISTRIBUTIONS OF THE ATTITUDE QUESTIONS, ALL UNITS (weighted %, all answers incl. not ascertained)")
