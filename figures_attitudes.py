@@ -3,8 +3,10 @@ Figures for the attitudes paper.  Run after analysis_attitudes.py and analysis_a
 
     python3 figures_attitudes.py    # -> output/attitudes/fig1..fig6 .png
 
-Every mark is a weighted percentage from svy with its 95% range (estimate +/- 1.96 SE).
-Course chart rules: bold factual title, grey units line, no gridlines, n shown.
+Every mark is a weighted percentage from svy; the thin line through it is the 95% range
+(estimate +/- 1.96 SE).  Formatting follows the Assignment 4 figures: bold descriptive title,
+grey units line, source line at the bottom, no legend box (series are labelled directly),
+no gridlines, only a light baseline.
 """
 import numpy as np
 import pandas as pd
@@ -13,11 +15,13 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 O = "output/attitudes"
-BLUE, ORANGE, BLACK, GREY = "#2a78d6", "#eb6834", "#222222", "#6b6b6b"
-WHITE_C, BLK_C = "#1D4098", "#C00000"       # course colours for the race categories
-plt.rcParams.update({"font.family": "DejaVu Sans", "font.size": 10, "axes.spines.top": False,
-                     "axes.spines.right": False, "axes.spines.left": False, "figure.dpi": 200,
-                     "savefig.bbox": "tight", "savefig.facecolor": "white"})
+BLACK = "black"                              # text only
+MALE_C, ORANGE, DARK_BLUE = "#3D405B", "#E07A5F", "#3A9188"   # men, women heading a unit, wives answering
+GRAY, LIGHT_GRAY = "#7f7f7f", "#c8c8c8"
+WHITE_C, BLK_C = "#E9A03B", "#6A4C93"       # race categories
+SOURCE = "Source: 1950 Survey of Consumer Finances (ICPSR 3612), author's calculations."
+plt.rcParams["font.family"] = "sans-serif"
+plt.rcParams["font.sans-serif"] = ["Arial", "Helvetica", "DejaVu Sans"]
 
 LAB = {"good_times_ahead": "Expects good times in the next 12 months",
        "bad_times_ahead": "Expects bad times",
@@ -33,117 +37,159 @@ LAB = {"good_times_ahead": "Expects good times in the next 12 months",
        "prices_will_fall": "Expects prices to fall"}
 
 
-def head(ax, title, units):
-    ax.set_title(title, loc="left", fontweight="bold", fontsize=11.5, pad=24)
-    ax.text(0, 1.0, units, transform=ax.transAxes, color=GREY, fontsize=9, va="bottom")
-    ax.tick_params(axis="y", length=0)
-    ax.tick_params(axis="x", colors=GREY)
-    ax.spines["bottom"].set_color(GREY)
+def chart_titles(fig, title, units, source=SOURCE):
+    """Bold title at the top, units in gray below it, source at the bottom."""
+    title, units = (s.replace("$", r"\$") for s in (title, units))
+    fig.text(0.02, 0.97, title, fontsize=13, fontweight="bold", ha="left", va="top")
+    fig.text(0.02, 0.915, units, fontsize=10, color=GRAY, ha="left", va="top")
+    fig.text(0.02, 0.02, source, fontsize=8, color=GRAY, ha="left", va="bottom")
 
 
-def pair(df, outcomes, a, b, ca, cb, la, lb, title, units, path, xmax=65):
+def clean_axes(ax):
+    """No box, no gridlines, no tick marks; a light baseline only."""
+    for side in ("top", "right", "left"):
+        ax.spines[side].set_visible(False)
+    ax.spines["bottom"].set_color(LIGHT_GRAY)
+    ax.grid(False)
+    ax.tick_params(axis="both", length=0, labelsize=11)
+
+
+def pct_axis(ax, lo, hi, step=10):
+    ticks = list(range(lo, hi + 1, step))
+    ax.set_xlim(lo, hi); ax.set_xticks(ticks); ax.set_xticklabels([f"{t}%" for t in ticks])
+
+
+def dot(ax, x, y, se, color, size=140, hollow=False):
+    """One estimate with its 95% range."""
+    ax.plot([x - 1.96 * se, x + 1.96 * se], [y, y], color=color, linewidth=1.5, zorder=2)
+    ax.scatter([x], [y], s=size, zorder=3, linewidths=2,
+               facecolors="white" if hollow else color, edgecolors=color)
+
+
+def save(fig, name):
+    fig.savefig(f"{O}/{name}", dpi=300, facecolor="white"); plt.close(fig)
+
+
+def pair(df, outcomes, a, b, ca, cb, la, lb, title, units, name, xmax):
+    """Two groups compared on several yes/no measures, one row per measure."""
     df = df[df.subset == "all"].set_index("outcome").loc[outcomes]
-    fig, ax = plt.subplots(figsize=(8.4, 0.62 * len(outcomes) + 1.6))
-    y = np.arange(len(outcomes))[::-1]
+    k = len(outcomes)
+    fig, ax = plt.subplots(figsize=(11, 0.62 * k + 2.3))
+    fig.subplots_adjust(left=0.40, right=0.95, top=1 - 1.25 / fig.get_figheight(), bottom=0.95 / fig.get_figheight())
+    y = np.arange(k)[::-1]
     for i, (o, r) in enumerate(df.iterrows()):
-        ax.plot([r[f"pct_{a}"], r[f"pct_{b}"]], [y[i], y[i]], color="#cfcfcf", lw=1.5, zorder=1)
-        for g, c, dy in ((a, ca, 0.0), (b, cb, 0.0)):
-            ax.errorbar(r[f"pct_{g}"], y[i] + dy, xerr=1.96 * r[f"se_{g}"], fmt="o", color=c, ms=7,
-                        elinewidth=1.6, capsize=0, zorder=3, markeredgecolor="white", markeredgewidth=1)
-        star = "" if r.p >= 0.05 else ("  gap %+.0f pts" % r.diff_pts)
-        ax.text(xmax + 1, y[i], f"{r[f'pct_{a}']:.0f} vs {r[f'pct_{b}']:.0f}{star}", va="center", fontsize=8.5,
-                color=BLACK if r.p < 0.05 else GREY)
-    ax.set_yticks(y); ax.set_yticklabels([LAB[o] for o in outcomes])
-    ax.set_xlim(0, xmax); ax.set_ylim(-0.7, len(outcomes) - 0.3)
+        pa, pb = r[f"pct_{a}"], r[f"pct_{b}"]
+        ax.plot([pa, pb], [y[i], y[i]], color=LIGHT_GRAY, linewidth=2, zorder=1)
+        dot(ax, pa, y[i], r[f"se_{a}"], ca); dot(ax, pb, y[i], r[f"se_{b}"], cb)
+    # label the two series directly, above the first row
+    r = df.iloc[0]; pa, pb = r[f"pct_{a}"], r[f"pct_{b}"]
     na, nb = int(df[f"n_{a}"].max()), int(df[f"n_{b}"].max())
-    ax.plot([], [], "o", color=ca, label=f"{la} (n up to {na:,})"); ax.plot([], [], "o", color=cb, label=f"{lb} (n up to {nb:,})")
-    ax.legend(frameon=False, loc="upper center", bbox_to_anchor=(0.5, -0.09), ncol=2, fontsize=9)
-    head(ax, title, units)
-    fig.savefig(path); plt.close(fig)
+    for p, other, c, lab, n in ((pa, pb, ca, la, na), (pb, pa, cb, lb, nb)):
+        ax.text(p, y[0] + 0.42, lab, color=c, fontsize=10, fontweight="bold",
+                ha="center", va="bottom")
+    ax.set_yticks(y); ax.set_yticklabels([LAB[o] for o in outcomes])
+    ax.set_ylim(-0.6, k - 0.1); pct_axis(ax, 0, xmax)
+    clean_axes(ax); chart_titles(fig, title, units); save(fig, name)
 
+
+UNITS = "% of spending units"
 
 # Figure 1: outlook by who was speaking
 t = pd.read_csv(f"{O}/9_outlook_by_speaker.csv")
-order = ["man answering, male-headed unit", "woman answering, male-headed unit", "woman heading her own unit"]
-names = ["Man answering for a male-headed unit", "Woman answering for a male-headed unit", "Woman heading her own unit"]
-cols = [BLACK, BLUE, ORANGE]
-ans = [("good_times_ahead", "Good times"), ("middle_times_ahead", "In between"), ("bad_times_ahead", "Bad times"), ("dk_times_ahead", "\"Don't know\"")]
-fig, ax = plt.subplots(figsize=(8.4, 4.3))
-for j, (lv, nm, c) in enumerate(zip(order, names, cols)):
+series = [("man answering, male-headed unit", "Man answering for a male-headed unit", MALE_C, 0.26),
+          ("woman answering, male-headed unit", "Woman answering for a male-headed unit", DARK_BLUE, 0.0),
+          ("woman heading her own unit", "Woman heading her own unit", ORANGE, -0.26)]
+ans = [("good_times_ahead", "Good times"), ("middle_times_ahead", "In between"),
+       ("bad_times_ahead", "Bad times"), ("dk_times_ahead", "\"Don't know\"")]
+fig, ax = plt.subplots(figsize=(11, 6))
+fig.subplots_adjust(left=0.16, right=0.70, top=0.82, bottom=0.14)
+yy = np.arange(len(ans))[::-1]
+for lv, nm, c, dy in series:
+    n = int(t[t.level == lv].n.iloc[0])
     for i, (o, _) in enumerate(ans):
         r = t[(t.level == lv) & (t.outcome == o)].iloc[0]
-        x = i + (j - 1) * 0.22
-        ax.errorbar(x, r.pct, yerr=1.96 * r.se, fmt="o", color=c, ms=8, elinewidth=1.8, markeredgecolor="white", markeredgewidth=1)
-        ax.text(x, r.pct + 1.96 * r.se + 1.2, f"{r.pct:.0f}", ha="center", fontsize=8.5, color=BLACK)
-    n = int(t[t.level == lv].n.iloc[0])
-    ax.plot([], [], "o", color=c, label=f"{nm} (n = {n:,})")
-ax.set_xticks(range(4)); ax.set_xticklabels([a[1] for a in ans]); ax.set_ylim(0, 58); ax.set_yticks([0, 10, 20, 30, 40, 50])
-ax.tick_params(axis="y", colors=GREY); ax.spines["left"].set_visible(True); ax.spines["left"].set_color(GREY)
-ax.legend(frameon=False, loc="upper right", fontsize=9)
-head(ax, "The outlook a spending unit reported depended on who answered",
-     "Expected business conditions over the next 12 months, % of ascertained answers, with 95% range; early 1950")
-fig.savefig(f"{O}/fig1_outlook_by_speaker.png"); plt.close(fig)
+        dot(ax, r.pct, yy[i] + dy, r.se, c, size=110)
+        ax.text(r.pct + 1.96 * r.se + 1.0, yy[i] + dy, f"{r.pct:.0f}%" + (f"   {nm}" if i == 0 else ""),
+                va="center", fontsize=10, color=c, fontweight="bold" if i == 0 else "normal")
+ax.set_yticks(yy); ax.set_yticklabels([a[1] for a in ans]); ax.set_ylim(-0.6, len(ans) - 0.4); pct_axis(ax, 0, 60)
+clean_axes(ax)
+chart_titles(fig, "Expected business conditions for the next 12 months by who answered the interview (early 1950)",
+             "% of answers")
+save(fig, "fig1_outlook_by_speaker.png")
 
 # Figure 2: sex of head
 pair(pd.read_csv(f"{O}/3_sex_gaps.csv"),
      ["good_times_ahead", "fed_optimist", "dk_times_ahead", "any_dk", "very_insecure", "insecure", "worse_off", "better_off"],
-     "female", "male", ORANGE, BLACK, "Female head", "Male head",
-     "Women heads were less hopeful and less sure, not likelier to be worse off",
-     "% of spending units with 95% range; the gap is printed where it differs from zero at the 5% level",
-     f"{O}/fig2_sex_of_head.png")
+     "female", "male", ORANGE, MALE_C, "Female head", "Male head",
+     "Attitudes of spending units headed by women and by men (early 1950)", UNITS, "fig2_sex_of_head.png", xmax=60)
 
 # Figure 3: race
 pair(pd.read_csv(f"{O}/2_race_gaps.csv"),
      ["worse_off", "better_off", "dk_own_income", "very_insecure", "prices_will_fall", "good_times_ahead", "dk_times_ahead", "plans_durable"],
      "black", "white", BLK_C, WHITE_C, "Black", "White",
-     "Black units reported worse finances but the same national outlook",
-     "% of spending units with 95% range; the gap is printed where it differs from zero at the 5% level",
-     f"{O}/fig3_race.png", xmax=70)
+     "Attitudes of black and white spending units (early 1950)", UNITS, "fig3_race.png", xmax=70)
 
 # Figure 4: odds ratios with controls
 m = pd.read_csv(f"{O}/4_models.csv"); m = m[m.model.str.startswith("M2")]
 outs = ["good_times_ahead", "fed_optimist", "any_dk", "dk_times_ahead", "very_insecure", "insecure", "worse_off", "plans_durable"]
-fig, ax = plt.subplots(figsize=(8.4, 5.6)); y = np.arange(len(outs))[::-1]
-for term, c, dy, lab in (("female", ORANGE, 0.14, "Female head (vs male head)"), ("black", BLK_C, -0.14, "Black (vs white)")):
+fig, ax = plt.subplots(figsize=(11, 6.6))
+fig.subplots_adjust(left=0.40, right=0.95, top=0.80, bottom=0.14)
+y = np.arange(len(outs))[::-1]
+ax.axvline(1, color=LIGHT_GRAY, linestyle="--", zorder=1)
+ax.text(1.03, len(outs) - 0.35, "1 = same odds as the comparison group", fontsize=10, color=GRAY, va="center")
+for term, c, dy, lab in (("female", ORANGE, 0.16, "Female head (vs male head)"), ("black", BLK_C, -0.16, "Black (vs white)")):
     for i, o in enumerate(outs):
         r = m[(m.outcome == o) & (m.term == term)].iloc[0]
-        ax.plot([r.or_low, r.or_high], [y[i] + dy] * 2, color=c, lw=1.8)
-        ax.plot(r.odds_ratio, y[i] + dy, "o", color=c, ms=7, markeredgewidth=1.5,
-                markerfacecolor=c if r.p < 0.05 else "white", markeredgecolor=c)
-    ax.plot([], [], "o", color=c, label=lab)
-ax.axvline(1, color=GREY, lw=1); ax.set_xscale("log"); ax.set_xticks([0.33, 0.5, 1, 2, 3, 5]); ax.set_xticklabels(["0.33", "0.5", "1", "2", "3", "5"])
-ax.minorticks_off(); ax.set_yticks(y); ax.set_yticklabels([LAB[o] for o in outs]); ax.set_xlim(0.28, 5.4)
-ax.legend(frameon=False, loc="upper center", bbox_to_anchor=(0.5, -0.1), ncol=2, fontsize=9)
-head(ax, "Other things equal, the sex gap stays and the race gap mostly goes",
-     "Odds ratios, 95% range, log scale; controls: income, age, occupation, place, marriage; hollow = not different from 1")
-fig.savefig(f"{O}/fig4_odds_ratios.png"); plt.close(fig)
+        ax.plot([r.or_low, r.or_high], [y[i] + dy] * 2, color=c, linewidth=1.5, zorder=2)
+        ax.scatter([r.odds_ratio], [y[i] + dy], s=110, zorder=3, linewidths=2,
+                   facecolors=c if r.p < 0.05 else "white", edgecolors=c)
+        if i == 0 and term == "female":   # label above its dot, clear of the reference line
+            ax.text(r.odds_ratio, y[i] + dy + 0.2, lab, color=c, fontsize=10, fontweight="bold", ha="center", va="bottom")
+        elif i == 0:
+            ax.text(r.or_high * 1.06, y[i] + dy, lab, color=c, fontsize=10, fontweight="bold", va="center")
+ax.set_xscale("log"); ax.set_xlim(0.28, 5.4); ax.set_xticks([0.33, 0.5, 1, 2, 3, 5]); ax.set_xticklabels(["0.33", "0.5", "1", "2", "3", "5"])
+ax.minorticks_off(); ax.set_yticks(y); ax.set_yticklabels([LAB[o] for o in outs]); ax.set_ylim(-0.6, len(outs) - 0.1)
+clean_axes(ax)
+chart_titles(fig, "Odds of each answer for female-headed and for black spending units, with controls (early 1950)",
+             "Odds ratio (log scale)")
+save(fig, "fig4_odds_ratios.png")
 
 # Figure 5: very insecure by liquid assets and sex of head
 t = pd.read_csv(f"{O}/11_insecurity_by_liquid_assets.csv"); t = t[t.outcome == "very_insecure"]
-liq = ["none", "$1-499", "$500 or more"]
-fig, ax = plt.subplots(figsize=(7.2, 4.2))
-for sx, c, dx, lab in (("female", ORANGE, 0.1, "Female head"), ("male", BLACK, -0.1, "Male head")):
-    for i, l in enumerate(liq):
-        r = t[t.level == f"{sx} head | {l}"].iloc[0]
-        ax.errorbar(i + dx, r.pct, yerr=1.96 * r.se, fmt="o", color=c, ms=8, elinewidth=1.8, markeredgecolor="white", markeredgewidth=1)
-        ax.text(i + dx + (0.07 if dx > 0 else -0.07), r.pct, f"{r.pct:.0f}%\nn={int(r.n)}", ha="left" if dx > 0 else "right", va="center", fontsize=8.5)
-    ax.plot([], [], "o", color=c, label=lab)
-ax.set_xticks(range(3)); ax.set_xticklabels(["No liquid assets", "$1-499", "$500 or more"]); ax.set_xlim(-0.6, 2.6); ax.set_ylim(0, 46)
-ax.tick_params(axis="y", colors=GREY); ax.spines["left"].set_visible(True); ax.spines["left"].set_color(GREY); ax.legend(frameon=False, loc="upper right")
-head(ax, "Savings bought security for everyone, and less of it for women", "% of spending units feeling \"very insecure\", with 95% range, by liquid assets held in early 1950")
-fig.savefig(f"{O}/fig5_insecurity_liquid_assets.png"); plt.close(fig)
+liq = [("none", "No liquid assets"), ("$1-499", r"\$1–499"), ("$500 or more", r"\$500 or more")]
+fig, ax = plt.subplots(figsize=(11, 5.5))
+fig.subplots_adjust(left=0.18, right=0.95, top=0.80, bottom=0.15)
+y = np.arange(len(liq))[::-1]
+for i, (l, _) in enumerate(liq):
+    f, mm = (t[t.level == f"{s} head | {l}"].iloc[0] for s in ("female", "male"))
+    ax.plot([f.pct, mm.pct], [y[i], y[i]], color=LIGHT_GRAY, linewidth=2, zorder=1)
+    for r, c, lab, dy, va in ((f, ORANGE, "Female head: ", 0.2, "bottom"), (mm, MALE_C, "Male head: ", -0.2, "top")):
+        dot(ax, r.pct, y[i], r.se, c, size=160)
+        ax.text(r.pct, y[i] + dy, (lab if i == 0 else "") + f"{r.pct:.0f}%", color=c, fontsize=10,
+                fontweight="bold" if i == 0 else "normal", ha="center", va=va)
+ax.set_yticks(y); ax.set_yticklabels([n for _, n in liq]); ax.set_ylim(-0.6, len(liq) - 0.4); pct_axis(ax, 0, 50)
+clean_axes(ax)
+chart_titles(fig, "Share feeling \"very insecure\" by liquid assets and sex of head (early 1950)",
+             "% of spending units")
+save(fig, "fig5_insecurity_liquid_assets.png")
 
 # Figure 6: whose answers made up each group
 t = pd.read_csv(f"{O}/5_composition.csv"); base = t.pct_white_male.iloc[0]; t = t.iloc[1:].sort_values("pct_white_male")
 short = {"optimists (good times + income holds/rises)": "Good times ahead and income to hold or rise", "expect good times": "Expect good times",
          "better off than a year ago": "Better off than a year ago", "plan a durable purchase": "Plan to buy a durable good",
          "don't know about times ahead": "\"Don't know\" about times ahead", "very insecure": "Very insecure", "worse off": "Worse off than a year ago"}
-fig, ax = plt.subplots(figsize=(8.0, 3.9)); y = np.arange(len(t))
-ax.axvline(base, color=GREY, lw=1); ax.text(base - 0.4, 2.5, f"all spending units: {base:.0f}%", color=GREY, fontsize=8.5, ha="right")
-ax.errorbar(t.pct_white_male, y, xerr=1.96 * t.se, fmt="o", color=BLUE, ms=8, elinewidth=1.8, markeredgecolor="white", markeredgewidth=1)
-for yi, v in zip(y, t.pct_white_male):
-    ax.text(92.5, yi, f"{v:.0f}%", va="center", fontsize=9)
-ax.set_yticks(y); ax.set_yticklabels([short[g] for g in t.group]); ax.set_xlim(58, 92); ax.set_ylim(-0.6, len(t) - 0.1)
-head(ax, "Confident answers came mostly from white, male-headed units", "% of spending units giving each answer that were white and male-headed, with 95% range")
-fig.savefig(f"{O}/fig6_composition.png"); plt.close(fig)
+fig, ax = plt.subplots(figsize=(11, 6))
+fig.subplots_adjust(left=0.36, right=0.93, top=0.80, bottom=0.14)
+y = np.arange(len(t))
+ax.axvline(base, color=LIGHT_GRAY, linestyle="--", zorder=1)
+ax.text(base - 0.4, len(t) - 0.45, f"All spending units: {base:.0f}%", color=GRAY, fontsize=10, ha="right", va="center")
+for yi, (_, r) in zip(y, t.iterrows()):
+    c = MALE_C   # one colour: every dot is the same group (white, male-headed units)
+    dot(ax, r.pct_white_male, yi, r.se, c)
+    ax.text(r.pct_white_male + 1.96 * r.se + 0.5, yi, f"{r.pct_white_male:.0f}%", va="center", fontsize=10, color=c)
+ax.set_yticks(y); ax.set_yticklabels([short[g] for g in t.group]); ax.set_ylim(-0.6, len(t) - 0.1); pct_axis(ax, 55, 95)
+clean_axes(ax)
+chart_titles(fig, "Share of each answer that came from white, male-headed spending units (early 1950)",
+             "% of spending units")
+save(fig, "fig6_composition.png")
 print("figures written to", O)
